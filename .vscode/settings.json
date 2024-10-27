@@ -1,0 +1,42 @@
+{
+    "datapack.env.cmdVersion": "1.20.3",
+    "datapack.env.dataVersion": "1.20.4",
+    "files.exclude": {
+        ".idea": true,
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "desktop.ini": true
+    },
+    "files.eol": "\n",
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.watcherExclude": {
+        "**/target": true
+    },
+    "githubIssues.ignoreUserCompletionTrigger": [
+        "mcfunction"
+    ],
+    "git.branchProtection": [
+        "master"
+    ],
+    "git.branchProtectionPrompt": "alwaysCommitToNewBranch",
+    "gitmoji.addCustomEmoji": [
+        {
+            "code": ":balance_scale:",
+            "emoji": "⚖️",
+            "description": "Corrections regarding balance adjustment",
+            "description_zh_cn": ""
+        }
+    ],
+    "git-graph.customEmojiShortcodeMappings": [
+        {
+            "shortcode": ":technologist:",
+            "emoji": "🧑‍💻"
+        },
+        {
+            "shortcode": ":balance_scale:",
+            "emoji": "⚖️"
+        }
+    ]
+}
