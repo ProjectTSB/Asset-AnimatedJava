@@ -1,0 +1,12 @@
+execute if entity @s[tag=aj.convict.bone.left_leg_2] run data modify entity @s item.tag.CustomModelData set value 26
+execute if entity @s[tag=aj.convict.bone.left_leg] run data modify entity @s item.tag.CustomModelData set value 27
+execute if entity @s[tag=aj.convict.bone.right_leg_2] run data modify entity @s item.tag.CustomModelData set value 28
+execute if entity @s[tag=aj.convict.bone.right_leg] run data modify entity @s item.tag.CustomModelData set value 29
+execute if entity @s[tag=aj.convict.bone.head] run data modify entity @s item.tag.CustomModelData set value 30
+execute if entity @s[tag=aj.convict.bone.left_axe] run data modify entity @s item.tag.CustomModelData set value 31
+execute if entity @s[tag=aj.convict.bone.left_arm_2] run data modify entity @s item.tag.CustomModelData set value 32
+execute if entity @s[tag=aj.convict.bone.left_arm] run data modify entity @s item.tag.CustomModelData set value 33
+execute if entity @s[tag=aj.convict.bone.right_axe] run data modify entity @s item.tag.CustomModelData set value 34
+execute if entity @s[tag=aj.convict.bone.right_arm_2] run data modify entity @s item.tag.CustomModelData set value 35
+execute if entity @s[tag=aj.convict.bone.right_arm] run data modify entity @s item.tag.CustomModelData set value 36
+execute if entity @s[tag=aj.convict.bone.body] run data modify entity @s item.tag.CustomModelData set value 37

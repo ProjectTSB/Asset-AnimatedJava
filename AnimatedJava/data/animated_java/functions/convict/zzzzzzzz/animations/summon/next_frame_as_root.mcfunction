@@ -1,0 +1,1 @@
+function animated_java:convict/zzzzzzzz/animations/summon/tick_animation

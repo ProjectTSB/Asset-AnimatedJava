@@ -1,0 +1,1 @@
+function animated_java:convict/zzzzzzzz/animations/dead/tick_animation
