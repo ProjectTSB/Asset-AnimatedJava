@@ -1,0 +1,1 @@
+execute on passengers run function animated_java:tutankhamen/zzzzzzzz/animations/dash_slash/tree/leaf_45_as_bone
