@@ -1,1 +1,0 @@
-execute if score @s aj.anim_time matches 0..20 run function animated_java:tutankhamen/zzzzzzzz/animations/beam_start_charge/tree/branch_0_20

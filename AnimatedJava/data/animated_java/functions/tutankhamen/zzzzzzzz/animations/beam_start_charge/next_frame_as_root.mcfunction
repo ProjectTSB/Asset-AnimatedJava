@@ -1,1 +1,0 @@
-function animated_java:tutankhamen/zzzzzzzz/animations/beam_start_charge/tick_animation

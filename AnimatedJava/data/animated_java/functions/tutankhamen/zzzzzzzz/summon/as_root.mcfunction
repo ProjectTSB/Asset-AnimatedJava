@@ -21,8 +21,8 @@ execute if score #animation aj.i = $aj.tutankhamen.animation.attack_magic_2 aj.i
 execute if score #animation aj.i = $aj.tutankhamen.animation.attack_magic_2 aj.id run scoreboard players operation @s aj.tutankhamen.animation.attack_magic_2.local_anim_time = #frame aj.i
 execute if score #animation aj.i = $aj.tutankhamen.animation.beam_start aj.id run function animated_java:tutankhamen/zzzzzzzz/animations/beam_start/apply_frame_as_root
 execute if score #animation aj.i = $aj.tutankhamen.animation.beam_start aj.id run scoreboard players operation @s aj.tutankhamen.animation.beam_start.local_anim_time = #frame aj.i
-execute if score #animation aj.i = $aj.tutankhamen.animation.beam_start_charge aj.id run function animated_java:tutankhamen/zzzzzzzz/animations/beam_start_charge/apply_frame_as_root
-execute if score #animation aj.i = $aj.tutankhamen.animation.beam_start_charge aj.id run scoreboard players operation @s aj.tutankhamen.animation.beam_start_charge.local_anim_time = #frame aj.i
+execute if score #animation aj.i = $aj.tutankhamen.animation.beam_wait aj.id run function animated_java:tutankhamen/zzzzzzzz/animations/beam_wait/apply_frame_as_root
+execute if score #animation aj.i = $aj.tutankhamen.animation.beam_wait aj.id run scoreboard players operation @s aj.tutankhamen.animation.beam_wait.local_anim_time = #frame aj.i
 execute if score #animation aj.i = $aj.tutankhamen.animation.beam_shot aj.id run function animated_java:tutankhamen/zzzzzzzz/animations/beam_shot/apply_frame_as_root
 execute if score #animation aj.i = $aj.tutankhamen.animation.beam_shot aj.id run scoreboard players operation @s aj.tutankhamen.animation.beam_shot.local_anim_time = #frame aj.i
 execute if score #animation aj.i = $aj.tutankhamen.animation.beam_end aj.id run function animated_java:tutankhamen/zzzzzzzz/animations/beam_end/apply_frame_as_root

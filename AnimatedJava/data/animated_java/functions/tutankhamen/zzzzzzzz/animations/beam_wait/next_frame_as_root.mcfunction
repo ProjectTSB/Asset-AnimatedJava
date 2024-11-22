@@ -1,0 +1,1 @@
+function animated_java:tutankhamen/zzzzzzzz/animations/beam_wait/tick_animation
