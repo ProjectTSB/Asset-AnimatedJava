@@ -4,6 +4,7 @@ function animated_java:tutankhamen/zzzzzzzz/animations/dash_end/pause_as_root
 function animated_java:tutankhamen/zzzzzzzz/animations/attack_magic_1/pause_as_root
 function animated_java:tutankhamen/zzzzzzzz/animations/attack_magic_2/pause_as_root
 function animated_java:tutankhamen/zzzzzzzz/animations/beam_start/pause_as_root
+function animated_java:tutankhamen/zzzzzzzz/animations/beam_start_charge/pause_as_root
 function animated_java:tutankhamen/zzzzzzzz/animations/beam_shot/pause_as_root
 function animated_java:tutankhamen/zzzzzzzz/animations/beam_end/pause_as_root
 function animated_java:tutankhamen/zzzzzzzz/animations/rod_ground/pause_as_root

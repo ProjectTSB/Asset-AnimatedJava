@@ -11,6 +11,7 @@ scoreboard objectives remove aj.tutankhamen.animation.dash_end.local_anim_time
 scoreboard objectives remove aj.tutankhamen.animation.attack_magic_1.local_anim_time
 scoreboard objectives remove aj.tutankhamen.animation.attack_magic_2.local_anim_time
 scoreboard objectives remove aj.tutankhamen.animation.beam_start.local_anim_time
+scoreboard objectives remove aj.tutankhamen.animation.beam_start_charge.local_anim_time
 scoreboard objectives remove aj.tutankhamen.animation.beam_shot.local_anim_time
 scoreboard objectives remove aj.tutankhamen.animation.beam_end.local_anim_time
 scoreboard objectives remove aj.tutankhamen.animation.rod_ground.local_anim_time
@@ -28,6 +29,7 @@ scoreboard objectives remove aj.tutankhamen.animation.dash_end.loop_mode
 scoreboard objectives remove aj.tutankhamen.animation.attack_magic_1.loop_mode
 scoreboard objectives remove aj.tutankhamen.animation.attack_magic_2.loop_mode
 scoreboard objectives remove aj.tutankhamen.animation.beam_start.loop_mode
+scoreboard objectives remove aj.tutankhamen.animation.beam_start_charge.loop_mode
 scoreboard objectives remove aj.tutankhamen.animation.beam_shot.loop_mode
 scoreboard objectives remove aj.tutankhamen.animation.beam_end.loop_mode
 scoreboard objectives remove aj.tutankhamen.animation.rod_ground.loop_mode
