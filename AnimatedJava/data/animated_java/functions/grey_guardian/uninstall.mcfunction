@@ -8,6 +8,7 @@ scoreboard objectives remove aj.grey_guardian.rig_loaded
 scoreboard objectives remove aj.grey_guardian.animation.wait.local_anim_time
 scoreboard objectives remove aj.grey_guardian.animation.summon.local_anim_time
 scoreboard objectives remove aj.grey_guardian.animation.move.local_anim_time
+scoreboard objectives remove aj.grey_guardian.animation.backstep.local_anim_time
 scoreboard objectives remove aj.grey_guardian.animation.attack1.local_anim_time
 scoreboard objectives remove aj.grey_guardian.animation.attack2.local_anim_time
 scoreboard objectives remove aj.grey_guardian.animation.attack3.local_anim_time
@@ -17,6 +18,7 @@ scoreboard objectives remove aj.grey_guardian.animation.dead.local_anim_time
 scoreboard objectives remove aj.grey_guardian.animation.wait.loop_mode
 scoreboard objectives remove aj.grey_guardian.animation.summon.loop_mode
 scoreboard objectives remove aj.grey_guardian.animation.move.loop_mode
+scoreboard objectives remove aj.grey_guardian.animation.backstep.loop_mode
 scoreboard objectives remove aj.grey_guardian.animation.attack1.loop_mode
 scoreboard objectives remove aj.grey_guardian.animation.attack2.loop_mode
 scoreboard objectives remove aj.grey_guardian.animation.attack3.loop_mode

@@ -15,6 +15,8 @@ execute if score #animation aj.i = $aj.grey_guardian.animation.summon aj.id run 
 execute if score #animation aj.i = $aj.grey_guardian.animation.summon aj.id run scoreboard players operation @s aj.grey_guardian.animation.summon.local_anim_time = #frame aj.i
 execute if score #animation aj.i = $aj.grey_guardian.animation.move aj.id run function animated_java:grey_guardian/zzzzzzzz/animations/move/apply_frame_as_root
 execute if score #animation aj.i = $aj.grey_guardian.animation.move aj.id run scoreboard players operation @s aj.grey_guardian.animation.move.local_anim_time = #frame aj.i
+execute if score #animation aj.i = $aj.grey_guardian.animation.backstep aj.id run function animated_java:grey_guardian/zzzzzzzz/animations/backstep/apply_frame_as_root
+execute if score #animation aj.i = $aj.grey_guardian.animation.backstep aj.id run scoreboard players operation @s aj.grey_guardian.animation.backstep.local_anim_time = #frame aj.i
 execute if score #animation aj.i = $aj.grey_guardian.animation.attack1 aj.id run function animated_java:grey_guardian/zzzzzzzz/animations/attack1/apply_frame_as_root
 execute if score #animation aj.i = $aj.grey_guardian.animation.attack1 aj.id run scoreboard players operation @s aj.grey_guardian.animation.attack1.local_anim_time = #frame aj.i
 execute if score #animation aj.i = $aj.grey_guardian.animation.attack2 aj.id run function animated_java:grey_guardian/zzzzzzzz/animations/attack2/apply_frame_as_root
