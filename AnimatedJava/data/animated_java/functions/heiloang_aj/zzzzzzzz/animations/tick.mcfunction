@@ -1,0 +1,16 @@
+execute if entity @s[tag=aj.heiloang_aj.animation.000_pose] run function animated_java:heiloang_aj/zzzzzzzz/animations/000_pose/tick
+execute if entity @s[tag=aj.heiloang_aj.animation.1_idle] run function animated_java:heiloang_aj/zzzzzzzz/animations/1_idle/tick
+execute if entity @s[tag=aj.heiloang_aj.animation.2_0_common_cast_start] run function animated_java:heiloang_aj/zzzzzzzz/animations/2_0_common_cast_start/tick
+execute if entity @s[tag=aj.heiloang_aj.animation.2_1_common_casting] run function animated_java:heiloang_aj/zzzzzzzz/animations/2_1_common_casting/tick
+execute if entity @s[tag=aj.heiloang_aj.animation.2_2_common_invoke] run function animated_java:heiloang_aj/zzzzzzzz/animations/2_2_common_invoke/tick
+execute if entity @s[tag=aj.heiloang_aj.animation.2_3_common_order] run function animated_java:heiloang_aj/zzzzzzzz/animations/2_3_common_order/tick
+execute if entity @s[tag=aj.heiloang_aj.animation.3_0_hellfire_start] run function animated_java:heiloang_aj/zzzzzzzz/animations/3_0_hellfire_start/tick
+execute if entity @s[tag=aj.heiloang_aj.animation.3_1_hellfire_shoot] run function animated_java:heiloang_aj/zzzzzzzz/animations/3_1_hellfire_shoot/tick
+execute if entity @s[tag=aj.heiloang_aj.animation.3_2_hellfire_shoot_end] run function animated_java:heiloang_aj/zzzzzzzz/animations/3_2_hellfire_shoot_end/tick
+execute if entity @s[tag=aj.heiloang_aj.animation.4_blizzard] run function animated_java:heiloang_aj/zzzzzzzz/animations/4_blizzard/tick
+execute if entity @s[tag=aj.heiloang_aj.animation.5_disaster_cast] run function animated_java:heiloang_aj/zzzzzzzz/animations/5_disaster_cast/tick
+execute if entity @s[tag=aj.heiloang_aj.animation.5_disaster] run function animated_java:heiloang_aj/zzzzzzzz/animations/5_disaster/tick
+execute if entity @s[tag=aj.heiloang_aj.animation.6_1_dive_start] run function animated_java:heiloang_aj/zzzzzzzz/animations/6_1_dive_start/tick
+execute if entity @s[tag=aj.heiloang_aj.animation.6_2_dive] run function animated_java:heiloang_aj/zzzzzzzz/animations/6_2_dive/tick
+execute if entity @s[tag=aj.heiloang_aj.animation.6_3_dive_end] run function animated_java:heiloang_aj/zzzzzzzz/animations/6_3_dive_end/tick
+execute if entity @s[tag=aj.heiloang_aj.animation.2_0_common_cast_bak] run function animated_java:heiloang_aj/zzzzzzzz/animations/2_0_common_cast_bak/tick

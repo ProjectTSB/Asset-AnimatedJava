@@ -1,0 +1,3 @@
+execute if score @s aj.heiloang_aj.animation.2_2_common_invoke.loop_mode = $aj.loop_mode.loop aj.i run function animated_java:heiloang_aj/zzzzzzzz/animations/2_2_common_invoke/end_loop
+execute if score @s aj.heiloang_aj.animation.2_2_common_invoke.loop_mode = $aj.loop_mode.once aj.i run function animated_java:heiloang_aj/animations/2_2_common_invoke/stop
+execute if score @s aj.heiloang_aj.animation.2_2_common_invoke.loop_mode = $aj.loop_mode.hold aj.i run function animated_java:heiloang_aj/animations/2_2_common_invoke/pause

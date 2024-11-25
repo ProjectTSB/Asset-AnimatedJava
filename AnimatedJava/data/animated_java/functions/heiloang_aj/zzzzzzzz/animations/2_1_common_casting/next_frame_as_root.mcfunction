@@ -1,0 +1,1 @@
+function animated_java:heiloang_aj/zzzzzzzz/animations/2_1_common_casting/tick_animation

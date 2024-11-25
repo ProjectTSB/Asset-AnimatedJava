@@ -1,0 +1,1 @@
+execute if score @s aj.anim_time matches 0..30 run function animated_java:heiloang_aj/zzzzzzzz/animations/3_1_hellfire_shoot/tree/branch_0_30

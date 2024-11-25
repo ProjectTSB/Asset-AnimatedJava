@@ -1,0 +1,3 @@
+execute if score @s aj.heiloang_aj.animation.6_2_dive.loop_mode = $aj.loop_mode.loop aj.i run function animated_java:heiloang_aj/zzzzzzzz/animations/6_2_dive/end_loop
+execute if score @s aj.heiloang_aj.animation.6_2_dive.loop_mode = $aj.loop_mode.once aj.i run function animated_java:heiloang_aj/animations/6_2_dive/stop
+execute if score @s aj.heiloang_aj.animation.6_2_dive.loop_mode = $aj.loop_mode.hold aj.i run function animated_java:heiloang_aj/animations/6_2_dive/pause

@@ -1,0 +1,16 @@
+function animated_java:heiloang_aj/zzzzzzzz/animations/000_pose/pause_as_root
+function animated_java:heiloang_aj/zzzzzzzz/animations/1_idle/pause_as_root
+function animated_java:heiloang_aj/zzzzzzzz/animations/2_0_common_cast_start/pause_as_root
+function animated_java:heiloang_aj/zzzzzzzz/animations/2_1_common_casting/pause_as_root
+function animated_java:heiloang_aj/zzzzzzzz/animations/2_2_common_invoke/pause_as_root
+function animated_java:heiloang_aj/zzzzzzzz/animations/2_3_common_order/pause_as_root
+function animated_java:heiloang_aj/zzzzzzzz/animations/3_0_hellfire_start/pause_as_root
+function animated_java:heiloang_aj/zzzzzzzz/animations/3_1_hellfire_shoot/pause_as_root
+function animated_java:heiloang_aj/zzzzzzzz/animations/3_2_hellfire_shoot_end/pause_as_root
+function animated_java:heiloang_aj/zzzzzzzz/animations/4_blizzard/pause_as_root
+function animated_java:heiloang_aj/zzzzzzzz/animations/5_disaster_cast/pause_as_root
+function animated_java:heiloang_aj/zzzzzzzz/animations/5_disaster/pause_as_root
+function animated_java:heiloang_aj/zzzzzzzz/animations/6_1_dive_start/pause_as_root
+function animated_java:heiloang_aj/zzzzzzzz/animations/6_2_dive/pause_as_root
+function animated_java:heiloang_aj/zzzzzzzz/animations/6_3_dive_end/pause_as_root
+function animated_java:heiloang_aj/zzzzzzzz/animations/2_0_common_cast_bak/pause_as_root

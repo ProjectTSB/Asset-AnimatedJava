@@ -1,0 +1,3 @@
+execute if score @s aj.heiloang_aj.animation.4_blizzard.loop_mode = $aj.loop_mode.loop aj.i run function animated_java:heiloang_aj/zzzzzzzz/animations/4_blizzard/end_loop
+execute if score @s aj.heiloang_aj.animation.4_blizzard.loop_mode = $aj.loop_mode.once aj.i run function animated_java:heiloang_aj/animations/4_blizzard/stop
+execute if score @s aj.heiloang_aj.animation.4_blizzard.loop_mode = $aj.loop_mode.hold aj.i run function animated_java:heiloang_aj/animations/4_blizzard/pause

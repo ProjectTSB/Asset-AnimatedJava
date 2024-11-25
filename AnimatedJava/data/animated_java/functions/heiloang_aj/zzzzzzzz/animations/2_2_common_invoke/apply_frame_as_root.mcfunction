@@ -1,0 +1,1 @@
+execute if score @s aj.anim_time matches 0..84 run function animated_java:heiloang_aj/zzzzzzzz/animations/2_2_common_invoke/tree/branch_0_84

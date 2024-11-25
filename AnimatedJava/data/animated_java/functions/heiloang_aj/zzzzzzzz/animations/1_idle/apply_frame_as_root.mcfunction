@@ -1,0 +1,1 @@
+execute if score @s aj.anim_time matches 0..39 run function animated_java:heiloang_aj/zzzzzzzz/animations/1_idle/tree/branch_0_39
