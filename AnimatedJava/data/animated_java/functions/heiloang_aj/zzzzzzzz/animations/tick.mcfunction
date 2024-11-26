@@ -13,4 +13,5 @@ execute if entity @s[tag=aj.heiloang_aj.animation.5_disaster] run function anima
 execute if entity @s[tag=aj.heiloang_aj.animation.6_1_dive_start] run function animated_java:heiloang_aj/zzzzzzzz/animations/6_1_dive_start/tick
 execute if entity @s[tag=aj.heiloang_aj.animation.6_2_dive] run function animated_java:heiloang_aj/zzzzzzzz/animations/6_2_dive/tick
 execute if entity @s[tag=aj.heiloang_aj.animation.6_3_dive_end] run function animated_java:heiloang_aj/zzzzzzzz/animations/6_3_dive_end/tick
+execute if entity @s[tag=aj.heiloang_aj.animation.6_z_dive_test] run function animated_java:heiloang_aj/zzzzzzzz/animations/6_z_dive_test/tick
 execute if entity @s[tag=aj.heiloang_aj.animation.2_0_common_cast_bak] run function animated_java:heiloang_aj/zzzzzzzz/animations/2_0_common_cast_bak/tick

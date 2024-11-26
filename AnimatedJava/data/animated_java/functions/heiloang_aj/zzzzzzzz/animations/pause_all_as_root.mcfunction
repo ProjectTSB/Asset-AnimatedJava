@@ -13,4 +13,5 @@ function animated_java:heiloang_aj/zzzzzzzz/animations/5_disaster/pause_as_root
 function animated_java:heiloang_aj/zzzzzzzz/animations/6_1_dive_start/pause_as_root
 function animated_java:heiloang_aj/zzzzzzzz/animations/6_2_dive/pause_as_root
 function animated_java:heiloang_aj/zzzzzzzz/animations/6_3_dive_end/pause_as_root
+function animated_java:heiloang_aj/zzzzzzzz/animations/6_z_dive_test/pause_as_root
 function animated_java:heiloang_aj/zzzzzzzz/animations/2_0_common_cast_bak/pause_as_root

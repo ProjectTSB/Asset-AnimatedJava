@@ -39,6 +39,8 @@ execute if score #animation aj.i = $aj.heiloang_aj.animation.6_2_dive aj.id run 
 execute if score #animation aj.i = $aj.heiloang_aj.animation.6_2_dive aj.id run scoreboard players operation @s aj.heiloang_aj.animation.6_2_dive.local_anim_time = #frame aj.i
 execute if score #animation aj.i = $aj.heiloang_aj.animation.6_3_dive_end aj.id run function animated_java:heiloang_aj/zzzzzzzz/animations/6_3_dive_end/apply_frame_as_root
 execute if score #animation aj.i = $aj.heiloang_aj.animation.6_3_dive_end aj.id run scoreboard players operation @s aj.heiloang_aj.animation.6_3_dive_end.local_anim_time = #frame aj.i
+execute if score #animation aj.i = $aj.heiloang_aj.animation.6_z_dive_test aj.id run function animated_java:heiloang_aj/zzzzzzzz/animations/6_z_dive_test/apply_frame_as_root
+execute if score #animation aj.i = $aj.heiloang_aj.animation.6_z_dive_test aj.id run scoreboard players operation @s aj.heiloang_aj.animation.6_z_dive_test.local_anim_time = #frame aj.i
 execute if score #animation aj.i = $aj.heiloang_aj.animation.2_0_common_cast_bak aj.id run function animated_java:heiloang_aj/zzzzzzzz/animations/2_0_common_cast_bak/apply_frame_as_root
 execute if score #animation aj.i = $aj.heiloang_aj.animation.2_0_common_cast_bak aj.id run scoreboard players operation @s aj.heiloang_aj.animation.2_0_common_cast_bak.local_anim_time = #frame aj.i
 execute at @s run function #animated_java:heiloang_aj/on_summon/as_root

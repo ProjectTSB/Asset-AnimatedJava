@@ -20,6 +20,7 @@ scoreboard objectives remove aj.heiloang_aj.animation.5_disaster.local_anim_time
 scoreboard objectives remove aj.heiloang_aj.animation.6_1_dive_start.local_anim_time
 scoreboard objectives remove aj.heiloang_aj.animation.6_2_dive.local_anim_time
 scoreboard objectives remove aj.heiloang_aj.animation.6_3_dive_end.local_anim_time
+scoreboard objectives remove aj.heiloang_aj.animation.6_z_dive_test.local_anim_time
 scoreboard objectives remove aj.heiloang_aj.animation.2_0_common_cast_bak.local_anim_time
 scoreboard objectives remove aj.heiloang_aj.animation.000_pose.loop_mode
 scoreboard objectives remove aj.heiloang_aj.animation.1_idle.loop_mode
@@ -36,5 +37,6 @@ scoreboard objectives remove aj.heiloang_aj.animation.5_disaster.loop_mode
 scoreboard objectives remove aj.heiloang_aj.animation.6_1_dive_start.loop_mode
 scoreboard objectives remove aj.heiloang_aj.animation.6_2_dive.loop_mode
 scoreboard objectives remove aj.heiloang_aj.animation.6_3_dive_end.loop_mode
+scoreboard objectives remove aj.heiloang_aj.animation.6_z_dive_test.loop_mode
 scoreboard objectives remove aj.heiloang_aj.animation.2_0_common_cast_bak.loop_mode
 tellraw @a ["",{"text":"["},{"text":"Animated Java","color":"aqua"},{"text":"] "},[{"text":"INFO ℹ","color":"green"},{"text":" > ","color":"gray"},{"text":"The heiloang_aj Rig has been uninstalled successfully.\n"},{"text":"Please remove the Rig's functions from the datapack before reloading.","color":"gray"}]]

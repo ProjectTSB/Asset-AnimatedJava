@@ -1,0 +1,1 @@
+execute if entity @s[tag=aj.heiloang_aj.locator_origin.locator_head] at @s on origin run tp @s ^-1.34502 ^0.57802 ^8.11404 ~-16.44693 ~20.52236

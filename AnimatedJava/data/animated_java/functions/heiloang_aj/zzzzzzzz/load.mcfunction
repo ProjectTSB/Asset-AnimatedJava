@@ -20,6 +20,7 @@ scoreboard objectives add aj.heiloang_aj.animation.5_disaster.local_anim_time du
 scoreboard objectives add aj.heiloang_aj.animation.6_1_dive_start.local_anim_time dummy
 scoreboard objectives add aj.heiloang_aj.animation.6_2_dive.local_anim_time dummy
 scoreboard objectives add aj.heiloang_aj.animation.6_3_dive_end.local_anim_time dummy
+scoreboard objectives add aj.heiloang_aj.animation.6_z_dive_test.local_anim_time dummy
 scoreboard objectives add aj.heiloang_aj.animation.2_0_common_cast_bak.local_anim_time dummy
 scoreboard objectives add aj.heiloang_aj.animation.000_pose.loop_mode dummy
 scoreboard objectives add aj.heiloang_aj.animation.1_idle.loop_mode dummy
@@ -36,6 +37,7 @@ scoreboard objectives add aj.heiloang_aj.animation.5_disaster.loop_mode dummy
 scoreboard objectives add aj.heiloang_aj.animation.6_1_dive_start.loop_mode dummy
 scoreboard objectives add aj.heiloang_aj.animation.6_2_dive.loop_mode dummy
 scoreboard objectives add aj.heiloang_aj.animation.6_3_dive_end.loop_mode dummy
+scoreboard objectives add aj.heiloang_aj.animation.6_z_dive_test.loop_mode dummy
 scoreboard objectives add aj.heiloang_aj.animation.2_0_common_cast_bak.loop_mode dummy
 scoreboard players set $aj.heiloang_aj.animation.000_pose aj.id 0
 scoreboard players set $aj.heiloang_aj.animation.1_idle aj.id 1
@@ -52,12 +54,13 @@ scoreboard players set $aj.heiloang_aj.animation.5_disaster aj.id 11
 scoreboard players set $aj.heiloang_aj.animation.6_1_dive_start aj.id 12
 scoreboard players set $aj.heiloang_aj.animation.6_2_dive aj.id 13
 scoreboard players set $aj.heiloang_aj.animation.6_3_dive_end aj.id 14
-scoreboard players set $aj.heiloang_aj.animation.2_0_common_cast_bak aj.id 15
+scoreboard players set $aj.heiloang_aj.animation.6_z_dive_test aj.id 15
+scoreboard players set $aj.heiloang_aj.animation.2_0_common_cast_bak aj.id 16
 scoreboard players set $aj.heiloang_aj.variant.default aj.id 0
 scoreboard players add .aj.last_id aj.id 0
 scoreboard players set $aj.loop_mode.loop aj.i 0
 scoreboard players set $aj.loop_mode.once aj.i 1
 scoreboard players set $aj.loop_mode.hold aj.i 2
-scoreboard players set aj.heiloang_aj.export_version aj.i 1087448754
+scoreboard players set aj.heiloang_aj.export_version aj.i 192614001
 scoreboard players reset * aj.heiloang_aj.rig_loaded
 execute as @e[type=minecraft:item_display,tag=aj.heiloang_aj.root] run function animated_java:heiloang_aj/zzzzzzzz/on_load

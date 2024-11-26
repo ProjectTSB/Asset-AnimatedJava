@@ -1,0 +1,2 @@
+execute if entity @s[tag=aj.heiloang_aj.locator_origin.locator_head] run function animated_java:heiloang_aj/zzzzzzzz/summon/locator_locator_head/as_origin
+function #animated_java:heiloang_aj/on_summon/as_locator_origins

@@ -1,3 +1,4 @@
+
 execute if entity @s[tag=aj.heiloang_aj.bone.head_lower] run data modify entity @s item.tag.CustomModelData set value 41
 execute if entity @s[tag=aj.heiloang_aj.bone.horne_right] run data modify entity @s item.tag.CustomModelData set value 42
 execute if entity @s[tag=aj.heiloang_aj.bone.horne_left] run data modify entity @s item.tag.CustomModelData set value 43
