@@ -1,1 +1,1 @@
-execute if score @s aj.anim_time matches 0..40 run function animated_java:grey_guardian/zzzzzzzz/animations/backstep/tree/branch_0_40
+execute if score @s aj.anim_time matches 0..16 run function animated_java:grey_guardian/zzzzzzzz/animations/backstep/tree/branch_0_16
