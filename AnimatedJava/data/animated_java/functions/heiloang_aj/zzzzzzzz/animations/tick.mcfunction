@@ -8,6 +8,7 @@ execute if entity @s[tag=aj.heiloang_aj.animation.3_0_hellfire_start] run functi
 execute if entity @s[tag=aj.heiloang_aj.animation.3_1_hellfire_shoot] run function animated_java:heiloang_aj/zzzzzzzz/animations/3_1_hellfire_shoot/tick
 execute if entity @s[tag=aj.heiloang_aj.animation.3_2_hellfire_shoot_end] run function animated_java:heiloang_aj/zzzzzzzz/animations/3_2_hellfire_shoot_end/tick
 execute if entity @s[tag=aj.heiloang_aj.animation.4_blizzard] run function animated_java:heiloang_aj/zzzzzzzz/animations/4_blizzard/tick
+execute if entity @s[tag=aj.heiloang_aj.animation.4_blizzard3] run function animated_java:heiloang_aj/zzzzzzzz/animations/4_blizzard3/tick
 execute if entity @s[tag=aj.heiloang_aj.animation.5_disaster_cast] run function animated_java:heiloang_aj/zzzzzzzz/animations/5_disaster_cast/tick
 execute if entity @s[tag=aj.heiloang_aj.animation.5_disaster] run function animated_java:heiloang_aj/zzzzzzzz/animations/5_disaster/tick
 execute if entity @s[tag=aj.heiloang_aj.animation.6_1_dive_start] run function animated_java:heiloang_aj/zzzzzzzz/animations/6_1_dive_start/tick

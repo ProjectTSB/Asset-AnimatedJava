@@ -8,6 +8,7 @@ function animated_java:heiloang_aj/zzzzzzzz/animations/3_0_hellfire_start/pause_
 function animated_java:heiloang_aj/zzzzzzzz/animations/3_1_hellfire_shoot/pause_as_root
 function animated_java:heiloang_aj/zzzzzzzz/animations/3_2_hellfire_shoot_end/pause_as_root
 function animated_java:heiloang_aj/zzzzzzzz/animations/4_blizzard/pause_as_root
+function animated_java:heiloang_aj/zzzzzzzz/animations/4_blizzard3/pause_as_root
 function animated_java:heiloang_aj/zzzzzzzz/animations/5_disaster_cast/pause_as_root
 function animated_java:heiloang_aj/zzzzzzzz/animations/5_disaster/pause_as_root
 function animated_java:heiloang_aj/zzzzzzzz/animations/6_1_dive_start/pause_as_root

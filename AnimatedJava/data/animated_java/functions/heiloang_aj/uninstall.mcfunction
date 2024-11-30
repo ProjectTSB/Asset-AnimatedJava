@@ -15,6 +15,7 @@ scoreboard objectives remove aj.heiloang_aj.animation.3_0_hellfire_start.local_a
 scoreboard objectives remove aj.heiloang_aj.animation.3_1_hellfire_shoot.local_anim_time
 scoreboard objectives remove aj.heiloang_aj.animation.3_2_hellfire_shoot_end.local_anim_time
 scoreboard objectives remove aj.heiloang_aj.animation.4_blizzard.local_anim_time
+scoreboard objectives remove aj.heiloang_aj.animation.4_blizzard3.local_anim_time
 scoreboard objectives remove aj.heiloang_aj.animation.5_disaster_cast.local_anim_time
 scoreboard objectives remove aj.heiloang_aj.animation.5_disaster.local_anim_time
 scoreboard objectives remove aj.heiloang_aj.animation.6_1_dive_start.local_anim_time
@@ -32,6 +33,7 @@ scoreboard objectives remove aj.heiloang_aj.animation.3_0_hellfire_start.loop_mo
 scoreboard objectives remove aj.heiloang_aj.animation.3_1_hellfire_shoot.loop_mode
 scoreboard objectives remove aj.heiloang_aj.animation.3_2_hellfire_shoot_end.loop_mode
 scoreboard objectives remove aj.heiloang_aj.animation.4_blizzard.loop_mode
+scoreboard objectives remove aj.heiloang_aj.animation.4_blizzard3.loop_mode
 scoreboard objectives remove aj.heiloang_aj.animation.5_disaster_cast.loop_mode
 scoreboard objectives remove aj.heiloang_aj.animation.5_disaster.loop_mode
 scoreboard objectives remove aj.heiloang_aj.animation.6_1_dive_start.loop_mode

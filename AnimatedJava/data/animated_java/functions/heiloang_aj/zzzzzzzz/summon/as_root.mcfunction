@@ -29,6 +29,8 @@ execute if score #animation aj.i = $aj.heiloang_aj.animation.3_2_hellfire_shoot_
 execute if score #animation aj.i = $aj.heiloang_aj.animation.3_2_hellfire_shoot_end aj.id run scoreboard players operation @s aj.heiloang_aj.animation.3_2_hellfire_shoot_end.local_anim_time = #frame aj.i
 execute if score #animation aj.i = $aj.heiloang_aj.animation.4_blizzard aj.id run function animated_java:heiloang_aj/zzzzzzzz/animations/4_blizzard/apply_frame_as_root
 execute if score #animation aj.i = $aj.heiloang_aj.animation.4_blizzard aj.id run scoreboard players operation @s aj.heiloang_aj.animation.4_blizzard.local_anim_time = #frame aj.i
+execute if score #animation aj.i = $aj.heiloang_aj.animation.4_blizzard3 aj.id run function animated_java:heiloang_aj/zzzzzzzz/animations/4_blizzard3/apply_frame_as_root
+execute if score #animation aj.i = $aj.heiloang_aj.animation.4_blizzard3 aj.id run scoreboard players operation @s aj.heiloang_aj.animation.4_blizzard3.local_anim_time = #frame aj.i
 execute if score #animation aj.i = $aj.heiloang_aj.animation.5_disaster_cast aj.id run function animated_java:heiloang_aj/zzzzzzzz/animations/5_disaster_cast/apply_frame_as_root
 execute if score #animation aj.i = $aj.heiloang_aj.animation.5_disaster_cast aj.id run scoreboard players operation @s aj.heiloang_aj.animation.5_disaster_cast.local_anim_time = #frame aj.i
 execute if score #animation aj.i = $aj.heiloang_aj.animation.5_disaster aj.id run function animated_java:heiloang_aj/zzzzzzzz/animations/5_disaster/apply_frame_as_root
