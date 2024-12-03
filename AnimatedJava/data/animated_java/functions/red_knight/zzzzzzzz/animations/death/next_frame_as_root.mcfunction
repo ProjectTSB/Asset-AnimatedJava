@@ -1,0 +1,1 @@
+function animated_java:red_knight/zzzzzzzz/animations/death/tick_animation

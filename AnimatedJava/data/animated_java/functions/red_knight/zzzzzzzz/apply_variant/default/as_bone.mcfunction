@@ -1,0 +1,13 @@
+execute if entity @s[tag=aj.red_knight.bone.head] run data modify entity @s item.tag.CustomModelData set value 41
+execute if entity @s[tag=aj.red_knight.bone.body] run data modify entity @s item.tag.CustomModelData set value 42
+execute if entity @s[tag=aj.red_knight.bone.left_hand] run data modify entity @s item.tag.CustomModelData set value 43
+execute if entity @s[tag=aj.red_knight.bone.left_arm] run data modify entity @s item.tag.CustomModelData set value 44
+execute if entity @s[tag=aj.red_knight.bone.weapon] run data modify entity @s item.tag.CustomModelData set value 45
+execute if entity @s[tag=aj.red_knight.bone.right_hand] run data modify entity @s item.tag.CustomModelData set value 46
+execute if entity @s[tag=aj.red_knight.bone.right_arm] run data modify entity @s item.tag.CustomModelData set value 47
+execute if entity @s[tag=aj.red_knight.bone.waist] run data modify entity @s item.tag.CustomModelData set value 48
+execute if entity @s[tag=aj.red_knight.bone.left_foot] run data modify entity @s item.tag.CustomModelData set value 49
+execute if entity @s[tag=aj.red_knight.bone.left_leg] run data modify entity @s item.tag.CustomModelData set value 50
+execute if entity @s[tag=aj.red_knight.bone.right_foot] run data modify entity @s item.tag.CustomModelData set value 51
+execute if entity @s[tag=aj.red_knight.bone.right_leg] run data modify entity @s item.tag.CustomModelData set value 52
+execute if entity @s[tag=aj.red_knight.bone.weapon_ground] run data modify entity @s item.tag.CustomModelData set value 53

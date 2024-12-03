@@ -1,0 +1,1 @@
+execute if score @s aj.anim_time matches 0..10 run function animated_java:red_knight/zzzzzzzz/animations/attack_fallstab_windup/tree/branch_0_10

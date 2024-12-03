@@ -1,0 +1,1 @@
+function animated_java:red_knight/zzzzzzzz/animations/dash_end/tick_animation

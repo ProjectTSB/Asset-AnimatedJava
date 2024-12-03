@@ -1,0 +1,17 @@
+execute if entity @s[tag=aj.red_knight.animation.summon_1] run function animated_java:red_knight/zzzzzzzz/animations/summon_1/tick
+execute if entity @s[tag=aj.red_knight.animation.summon_2] run function animated_java:red_knight/zzzzzzzz/animations/summon_2/tick
+execute if entity @s[tag=aj.red_knight.animation.summon_bak] run function animated_java:red_knight/zzzzzzzz/animations/summon_bak/tick
+execute if entity @s[tag=aj.red_knight.animation.neutral_ground] run function animated_java:red_knight/zzzzzzzz/animations/neutral_ground/tick
+execute if entity @s[tag=aj.red_knight.animation.neutral_air] run function animated_java:red_knight/zzzzzzzz/animations/neutral_air/tick
+execute if entity @s[tag=aj.red_knight.animation.dash_start] run function animated_java:red_knight/zzzzzzzz/animations/dash_start/tick
+execute if entity @s[tag=aj.red_knight.animation.dash_start2] run function animated_java:red_knight/zzzzzzzz/animations/dash_start2/tick
+execute if entity @s[tag=aj.red_knight.animation.dash_end] run function animated_java:red_knight/zzzzzzzz/animations/dash_end/tick
+execute if entity @s[tag=aj.red_knight.animation.attack_melee_1] run function animated_java:red_knight/zzzzzzzz/animations/attack_melee_1/tick
+execute if entity @s[tag=aj.red_knight.animation.attack_melee_2] run function animated_java:red_knight/zzzzzzzz/animations/attack_melee_2/tick
+execute if entity @s[tag=aj.red_knight.animation.attack_melee_3] run function animated_java:red_knight/zzzzzzzz/animations/attack_melee_3/tick
+execute if entity @s[tag=aj.red_knight.animation.attack_projectile_1] run function animated_java:red_knight/zzzzzzzz/animations/attack_projectile_1/tick
+execute if entity @s[tag=aj.red_knight.animation.attack_rising_slash] run function animated_java:red_knight/zzzzzzzz/animations/attack_rising_slash/tick
+execute if entity @s[tag=aj.red_knight.animation.attack_fallstab_windup] run function animated_java:red_knight/zzzzzzzz/animations/attack_fallstab_windup/tick
+execute if entity @s[tag=aj.red_knight.animation.attack_fallstab_landing] run function animated_java:red_knight/zzzzzzzz/animations/attack_fallstab_landing/tick
+execute if entity @s[tag=aj.red_knight.animation.death] run function animated_java:red_knight/zzzzzzzz/animations/death/tick
+execute if entity @s[tag=aj.red_knight.animation.death2] run function animated_java:red_knight/zzzzzzzz/animations/death2/tick

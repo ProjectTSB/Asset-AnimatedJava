@@ -1,0 +1,3 @@
+execute if score @s aj.red_knight.animation.attack_rising_slash.loop_mode = $aj.loop_mode.loop aj.i run function animated_java:red_knight/zzzzzzzz/animations/attack_rising_slash/end_loop
+execute if score @s aj.red_knight.animation.attack_rising_slash.loop_mode = $aj.loop_mode.once aj.i run function animated_java:red_knight/animations/attack_rising_slash/stop
+execute if score @s aj.red_knight.animation.attack_rising_slash.loop_mode = $aj.loop_mode.hold aj.i run function animated_java:red_knight/animations/attack_rising_slash/pause

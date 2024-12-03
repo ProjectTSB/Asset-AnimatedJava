@@ -1,0 +1,1 @@
+function animated_java:red_knight/zzzzzzzz/animations/summon_2/tick_animation

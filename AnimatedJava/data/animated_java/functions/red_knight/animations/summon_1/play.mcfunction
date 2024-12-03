@@ -1,0 +1,2 @@
+execute if entity @s[tag=aj.red_knight.root] run function animated_java:red_knight/zzzzzzzz/animations/summon_1/play_as_root
+execute if entity @s[tag=!aj.red_knight.root] run tellraw @a ["",{"text":"["},{"text":"Animated Java","color":"aqua"},{"text":"] "},{"text":"ERROR ☠","color":"red"},{"text":" > ","color":"gray"},[{"text":"The function","color":"yellow"},{"text":" animated_java:red_knight/animations/summon_1/play ","color":"blue"},{"text":"must be run"},{"text":" as ","color":"red"},{"text":"the root entity!"}]]
