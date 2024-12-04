@@ -58,6 +58,6 @@ scoreboard players add .aj.last_id aj.id 0
 scoreboard players set $aj.loop_mode.loop aj.i 0
 scoreboard players set $aj.loop_mode.once aj.i 1
 scoreboard players set $aj.loop_mode.hold aj.i 2
-scoreboard players set aj.red_knight.export_version aj.i -1015229385
+scoreboard players set aj.red_knight.export_version aj.i -1493695883
 scoreboard players reset * aj.red_knight.rig_loaded
 execute as @e[type=minecraft:item_display,tag=aj.red_knight.root] run function animated_java:red_knight/zzzzzzzz/on_load
