@@ -4,7 +4,6 @@ function animated_java:red_knight/zzzzzzzz/animations/summon_bak/pause_as_root
 function animated_java:red_knight/zzzzzzzz/animations/neutral_ground/pause_as_root
 function animated_java:red_knight/zzzzzzzz/animations/neutral_air/pause_as_root
 function animated_java:red_knight/zzzzzzzz/animations/dash_start/pause_as_root
-function animated_java:red_knight/zzzzzzzz/animations/dash_start2/pause_as_root
 function animated_java:red_knight/zzzzzzzz/animations/dash_end/pause_as_root
 function animated_java:red_knight/zzzzzzzz/animations/attack_melee_1/pause_as_root
 function animated_java:red_knight/zzzzzzzz/animations/attack_melee_2/pause_as_root

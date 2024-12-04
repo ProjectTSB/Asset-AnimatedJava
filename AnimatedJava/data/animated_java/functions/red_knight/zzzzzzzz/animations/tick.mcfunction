@@ -4,7 +4,6 @@ execute if entity @s[tag=aj.red_knight.animation.summon_bak] run function animat
 execute if entity @s[tag=aj.red_knight.animation.neutral_ground] run function animated_java:red_knight/zzzzzzzz/animations/neutral_ground/tick
 execute if entity @s[tag=aj.red_knight.animation.neutral_air] run function animated_java:red_knight/zzzzzzzz/animations/neutral_air/tick
 execute if entity @s[tag=aj.red_knight.animation.dash_start] run function animated_java:red_knight/zzzzzzzz/animations/dash_start/tick
-execute if entity @s[tag=aj.red_knight.animation.dash_start2] run function animated_java:red_knight/zzzzzzzz/animations/dash_start2/tick
 execute if entity @s[tag=aj.red_knight.animation.dash_end] run function animated_java:red_knight/zzzzzzzz/animations/dash_end/tick
 execute if entity @s[tag=aj.red_knight.animation.attack_melee_1] run function animated_java:red_knight/zzzzzzzz/animations/attack_melee_1/tick
 execute if entity @s[tag=aj.red_knight.animation.attack_melee_2] run function animated_java:red_knight/zzzzzzzz/animations/attack_melee_2/tick

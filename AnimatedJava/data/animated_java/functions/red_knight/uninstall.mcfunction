@@ -11,7 +11,6 @@ scoreboard objectives remove aj.red_knight.animation.summon_bak.local_anim_time
 scoreboard objectives remove aj.red_knight.animation.neutral_ground.local_anim_time
 scoreboard objectives remove aj.red_knight.animation.neutral_air.local_anim_time
 scoreboard objectives remove aj.red_knight.animation.dash_start.local_anim_time
-scoreboard objectives remove aj.red_knight.animation.dash_start2.local_anim_time
 scoreboard objectives remove aj.red_knight.animation.dash_end.local_anim_time
 scoreboard objectives remove aj.red_knight.animation.attack_melee_1.local_anim_time
 scoreboard objectives remove aj.red_knight.animation.attack_melee_2.local_anim_time
@@ -28,7 +27,6 @@ scoreboard objectives remove aj.red_knight.animation.summon_bak.loop_mode
 scoreboard objectives remove aj.red_knight.animation.neutral_ground.loop_mode
 scoreboard objectives remove aj.red_knight.animation.neutral_air.loop_mode
 scoreboard objectives remove aj.red_knight.animation.dash_start.loop_mode
-scoreboard objectives remove aj.red_knight.animation.dash_start2.loop_mode
 scoreboard objectives remove aj.red_knight.animation.dash_end.loop_mode
 scoreboard objectives remove aj.red_knight.animation.attack_melee_1.loop_mode
 scoreboard objectives remove aj.red_knight.animation.attack_melee_2.loop_mode

@@ -1,2 +1,0 @@
-execute if score @s aj.anim_time matches 32 run function animated_java:red_knight/zzzzzzzz/animations/attack_melee_2/tree/leaf_32
-execute if score @s aj.anim_time matches 33 run function animated_java:red_knight/zzzzzzzz/animations/attack_melee_2/tree/leaf_33

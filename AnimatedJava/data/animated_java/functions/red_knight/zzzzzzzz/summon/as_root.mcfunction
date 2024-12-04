@@ -21,8 +21,6 @@ execute if score #animation aj.i = $aj.red_knight.animation.neutral_air aj.id ru
 execute if score #animation aj.i = $aj.red_knight.animation.neutral_air aj.id run scoreboard players operation @s aj.red_knight.animation.neutral_air.local_anim_time = #frame aj.i
 execute if score #animation aj.i = $aj.red_knight.animation.dash_start aj.id run function animated_java:red_knight/zzzzzzzz/animations/dash_start/apply_frame_as_root
 execute if score #animation aj.i = $aj.red_knight.animation.dash_start aj.id run scoreboard players operation @s aj.red_knight.animation.dash_start.local_anim_time = #frame aj.i
-execute if score #animation aj.i = $aj.red_knight.animation.dash_start2 aj.id run function animated_java:red_knight/zzzzzzzz/animations/dash_start2/apply_frame_as_root
-execute if score #animation aj.i = $aj.red_knight.animation.dash_start2 aj.id run scoreboard players operation @s aj.red_knight.animation.dash_start2.local_anim_time = #frame aj.i
 execute if score #animation aj.i = $aj.red_knight.animation.dash_end aj.id run function animated_java:red_knight/zzzzzzzz/animations/dash_end/apply_frame_as_root
 execute if score #animation aj.i = $aj.red_knight.animation.dash_end aj.id run scoreboard players operation @s aj.red_knight.animation.dash_end.local_anim_time = #frame aj.i
 execute if score #animation aj.i = $aj.red_knight.animation.attack_melee_1 aj.id run function animated_java:red_knight/zzzzzzzz/animations/attack_melee_1/apply_frame_as_root
