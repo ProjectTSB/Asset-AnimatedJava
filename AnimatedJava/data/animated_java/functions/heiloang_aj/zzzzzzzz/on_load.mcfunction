@@ -1,1 +1,2 @@
 scoreboard players set @s aj.heiloang_aj.rig_loaded 1
+execute unless score @s aj.heiloang_aj.export_version = aj.heiloang_aj.export_version aj.i at @s run function animated_java:heiloang_aj/zzzzzzzz/mark_outdated_rig

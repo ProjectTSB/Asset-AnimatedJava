@@ -1,1 +1,0 @@
-function animated_java:heiloang_aj/zzzzzzzz/animations/4_blizzard3/tick_animation

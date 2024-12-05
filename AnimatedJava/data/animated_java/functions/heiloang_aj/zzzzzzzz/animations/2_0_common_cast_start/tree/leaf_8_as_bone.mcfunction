@@ -1,4 +1,13 @@
 execute if entity @s[tag=aj.heiloang_aj.locator_origin.locator_head] at @s on origin run tp @s ^-1.44107 ^3.65678 ^8.54835 ~-11.41474 ~21.95989
+execute if entity @s[tag=aj.heiloang_aj.locator_origin.hitbox_head_0] at @s on origin run tp @s ^-0.56314 ^2.23417 ^9.1781 ~-180 ~0
+execute if entity @s[tag=aj.heiloang_aj.locator_origin.hitbox_head_1] at @s on origin run tp @s ^-0.56314 ^2.23417 ^7.4981 ~-180 ~0
+execute if entity @s[tag=aj.heiloang_aj.locator_origin.hitbox_head_2] at @s on origin run tp @s ^-0.56314 ^3.94917 ^7.4981 ~-180 ~0
+execute if entity @s[tag=aj.heiloang_aj.locator_origin.hitbox_head_3] at @s on origin run tp @s ^-0.56314 ^3.94917 ^9.1781 ~-180 ~0
+execute if entity @s[tag=aj.heiloang_aj.locator_origin.hitbox_head_7] at @s on origin run tp @s ^-2.38314 ^2.23417 ^9.1781 ~-180 ~0
+execute if entity @s[tag=aj.heiloang_aj.locator_origin.hitbox_head_6] at @s on origin run tp @s ^-2.38314 ^2.23417 ^7.4981 ~-180 ~0
+execute if entity @s[tag=aj.heiloang_aj.locator_origin.hitbox_head_5] at @s on origin run tp @s ^-2.38314 ^3.94917 ^7.4981 ~-180 ~0
+execute if entity @s[tag=aj.heiloang_aj.locator_origin.hitbox_head_4] at @s on origin run tp @s ^-2.38314 ^3.94917 ^9.1781 ~-180 ~0
+execute if entity @s[tag=aj.heiloang_aj.bone.hitbox_head] run data modify entity @s {} merge value {transformation:[2.24f,-5.551115123125783e-17f,1.6653345369377348e-16f,-1.473135035469008f,1.1102230246251565e-16f,2.2399999999999993f,2.220446049250313e-16f,3.759543221381903f,5.551115123125783e-17f,6.661338147750939e-16f,2.24f,8.443102355314634f,0f,0f,0f,1f],start_interpolation:0}
 execute if entity @s[tag=aj.heiloang_aj.bone.head_lower] run data modify entity @s {} merge value {transformation:[-2.186830431829353f,-0.22836512202207832f,-0.4280444293165001f,-1.5399886296643837f,-0.39762880030445374f,1.975979205001456f,0.9772397446738708f,3.7853853110223667f,0.27796402571823486f,1.0300269668536133f,-1.9696142891340065f,7.954111325589443f,0f,0f,0f,1f],start_interpolation:0}
 execute if entity @s[tag=aj.heiloang_aj.bone.horne_right] run data modify entity @s {} merge value {transformation:[-1.4383102859372752f,-1.667278243540961f,-0.41115298853590365f,-2.7285635041604017f,-1.6707388847847928f,1.2347264743797912f,0.8376646777402732f,5.004816863410836f,-0.39685652348815115f,0.8445316998672229f,-2.036386777526381f,8.021210509110714f,0f,0f,0f,1f],start_interpolation:0}
 execute if entity @s[tag=aj.heiloang_aj.bone.horne_left] run data modify entity @s {} merge value {transformation:[-1.7862907477316834f,1.287524207378712f,-0.41115298853590365f,-0.8693202710190858f,1.084413478929848f,1.7719947218830945f,0.8376646777402732f,5.342880869429683f,0.8067296767092733f,0.4689521521778889f,-2.036386777526381f,7.784885494445072f,0f,0f,0f,1f],start_interpolation:0}
