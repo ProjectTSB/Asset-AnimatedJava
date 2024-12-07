@@ -1,1 +1,0 @@
-execute on passengers run function animated_java:heiloang_aj/zzzzzzzz/animations/6_1_dive_start/tree/leaf_47_as_bone

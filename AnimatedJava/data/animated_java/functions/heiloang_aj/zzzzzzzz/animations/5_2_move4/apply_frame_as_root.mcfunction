@@ -1,1 +1,0 @@
-execute if score @s aj.anim_time matches 0..50 run function animated_java:heiloang_aj/zzzzzzzz/animations/5_2_move4/tree/branch_0_50

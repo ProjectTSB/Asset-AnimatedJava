@@ -1,0 +1,1 @@
+function animated_java:heiloang_aj/zzzzzzzz/animations/6_sweep_breath/tick_animation

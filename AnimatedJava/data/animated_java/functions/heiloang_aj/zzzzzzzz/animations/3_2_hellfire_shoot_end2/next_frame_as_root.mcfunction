@@ -1,1 +1,0 @@
-function animated_java:heiloang_aj/zzzzzzzz/animations/3_2_hellfire_shoot_end2/tick_animation
