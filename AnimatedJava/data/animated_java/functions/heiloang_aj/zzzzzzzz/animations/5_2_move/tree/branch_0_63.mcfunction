@@ -4,4 +4,5 @@ execute if score @s aj.anim_time matches 16..23 run function animated_java:heilo
 execute if score @s aj.anim_time matches 24..31 run function animated_java:heiloang_aj/zzzzzzzz/animations/5_2_move/tree/branch_24_31
 execute if score @s aj.anim_time matches 32..39 run function animated_java:heiloang_aj/zzzzzzzz/animations/5_2_move/tree/branch_32_39
 execute if score @s aj.anim_time matches 40..47 run function animated_java:heiloang_aj/zzzzzzzz/animations/5_2_move/tree/branch_40_47
-execute if score @s aj.anim_time matches 48..50 run function animated_java:heiloang_aj/zzzzzzzz/animations/5_2_move/tree/branch_48_50
+execute if score @s aj.anim_time matches 48..55 run function animated_java:heiloang_aj/zzzzzzzz/animations/5_2_move/tree/branch_48_55
+execute if score @s aj.anim_time matches 56..63 run function animated_java:heiloang_aj/zzzzzzzz/animations/5_2_move/tree/branch_56_63

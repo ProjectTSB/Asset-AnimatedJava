@@ -12,6 +12,7 @@ execute if entity @s[tag=aj.heiloang_aj.animation.3_2_hellfire_shoot_end2] run f
 execute if entity @s[tag=aj.heiloang_aj.animation.4_blizzard] run function animated_java:heiloang_aj/zzzzzzzz/animations/4_blizzard/tick
 execute if entity @s[tag=aj.heiloang_aj.animation.5_1_move_start] run function animated_java:heiloang_aj/zzzzzzzz/animations/5_1_move_start/tick
 execute if entity @s[tag=aj.heiloang_aj.animation.5_2_move] run function animated_java:heiloang_aj/zzzzzzzz/animations/5_2_move/tick
+execute if entity @s[tag=aj.heiloang_aj.animation.5_2_move4] run function animated_java:heiloang_aj/zzzzzzzz/animations/5_2_move4/tick
 execute if entity @s[tag=aj.heiloang_aj.animation.5_2_move3] run function animated_java:heiloang_aj/zzzzzzzz/animations/5_2_move3/tick
 execute if entity @s[tag=aj.heiloang_aj.animation.5_2_move2] run function animated_java:heiloang_aj/zzzzzzzz/animations/5_2_move2/tick
 execute if entity @s[tag=aj.heiloang_aj.animation.99_disaster_cast] run function animated_java:heiloang_aj/zzzzzzzz/animations/99_disaster_cast/tick
