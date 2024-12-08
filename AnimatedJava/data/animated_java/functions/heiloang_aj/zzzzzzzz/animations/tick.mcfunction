@@ -12,6 +12,7 @@ execute if entity @s[tag=aj.heiloang_aj.animation.4_blizzard] run function anima
 execute if entity @s[tag=aj.heiloang_aj.animation.5_1_move_start] run function animated_java:heiloang_aj/zzzzzzzz/animations/5_1_move_start/tick
 execute if entity @s[tag=aj.heiloang_aj.animation.5_2_move] run function animated_java:heiloang_aj/zzzzzzzz/animations/5_2_move/tick
 execute if entity @s[tag=aj.heiloang_aj.animation.6_sweep_breath] run function animated_java:heiloang_aj/zzzzzzzz/animations/6_sweep_breath/tick
+execute if entity @s[tag=aj.heiloang_aj.animation.6_sweep_breath2] run function animated_java:heiloang_aj/zzzzzzzz/animations/6_sweep_breath2/tick
 execute if entity @s[tag=aj.heiloang_aj.animation.7_1_dive_start] run function animated_java:heiloang_aj/zzzzzzzz/animations/7_1_dive_start/tick
 execute if entity @s[tag=aj.heiloang_aj.animation.7_2_dive] run function animated_java:heiloang_aj/zzzzzzzz/animations/7_2_dive/tick
 execute if entity @s[tag=aj.heiloang_aj.animation.7_3_dive_end] run function animated_java:heiloang_aj/zzzzzzzz/animations/7_3_dive_end/tick

@@ -12,6 +12,7 @@ function animated_java:heiloang_aj/zzzzzzzz/animations/4_blizzard/pause_as_root
 function animated_java:heiloang_aj/zzzzzzzz/animations/5_1_move_start/pause_as_root
 function animated_java:heiloang_aj/zzzzzzzz/animations/5_2_move/pause_as_root
 function animated_java:heiloang_aj/zzzzzzzz/animations/6_sweep_breath/pause_as_root
+function animated_java:heiloang_aj/zzzzzzzz/animations/6_sweep_breath2/pause_as_root
 function animated_java:heiloang_aj/zzzzzzzz/animations/7_1_dive_start/pause_as_root
 function animated_java:heiloang_aj/zzzzzzzz/animations/7_2_dive/pause_as_root
 function animated_java:heiloang_aj/zzzzzzzz/animations/7_3_dive_end/pause_as_root
