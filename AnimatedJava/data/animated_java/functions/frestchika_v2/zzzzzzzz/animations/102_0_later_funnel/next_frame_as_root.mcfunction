@@ -1,0 +1,1 @@
+function animated_java:frestchika_v2/zzzzzzzz/animations/102_0_later_funnel/tick_animation

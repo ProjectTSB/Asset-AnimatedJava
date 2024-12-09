@@ -1,0 +1,1 @@
+function animated_java:frestchika_v2/zzzzzzzz/animations/1_1_former_warp_slash/tick_animation
