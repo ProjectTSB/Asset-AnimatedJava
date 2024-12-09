@@ -29,6 +29,8 @@ execute if score #animation aj.i = $aj.red_knight.animation.attack_melee_2 aj.id
 execute if score #animation aj.i = $aj.red_knight.animation.attack_melee_2 aj.id run scoreboard players operation @s aj.red_knight.animation.attack_melee_2.local_anim_time = #frame aj.i
 execute if score #animation aj.i = $aj.red_knight.animation.attack_melee_3 aj.id run function animated_java:red_knight/zzzzzzzz/animations/attack_melee_3/apply_frame_as_root
 execute if score #animation aj.i = $aj.red_knight.animation.attack_melee_3 aj.id run scoreboard players operation @s aj.red_knight.animation.attack_melee_3.local_anim_time = #frame aj.i
+execute if score #animation aj.i = $aj.red_knight.animation.attack_melee_3_immediate aj.id run function animated_java:red_knight/zzzzzzzz/animations/attack_melee_3_immediate/apply_frame_as_root
+execute if score #animation aj.i = $aj.red_knight.animation.attack_melee_3_immediate aj.id run scoreboard players operation @s aj.red_knight.animation.attack_melee_3_immediate.local_anim_time = #frame aj.i
 execute if score #animation aj.i = $aj.red_knight.animation.attack_projectile_1 aj.id run function animated_java:red_knight/zzzzzzzz/animations/attack_projectile_1/apply_frame_as_root
 execute if score #animation aj.i = $aj.red_knight.animation.attack_projectile_1 aj.id run scoreboard players operation @s aj.red_knight.animation.attack_projectile_1.local_anim_time = #frame aj.i
 execute if score #animation aj.i = $aj.red_knight.animation.attack_rising_slash aj.id run function animated_java:red_knight/zzzzzzzz/animations/attack_rising_slash/apply_frame_as_root

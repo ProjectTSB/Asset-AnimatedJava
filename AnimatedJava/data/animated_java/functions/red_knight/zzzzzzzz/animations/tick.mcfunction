@@ -8,6 +8,7 @@ execute if entity @s[tag=aj.red_knight.animation.dash_end] run function animated
 execute if entity @s[tag=aj.red_knight.animation.attack_melee_1] run function animated_java:red_knight/zzzzzzzz/animations/attack_melee_1/tick
 execute if entity @s[tag=aj.red_knight.animation.attack_melee_2] run function animated_java:red_knight/zzzzzzzz/animations/attack_melee_2/tick
 execute if entity @s[tag=aj.red_knight.animation.attack_melee_3] run function animated_java:red_knight/zzzzzzzz/animations/attack_melee_3/tick
+execute if entity @s[tag=aj.red_knight.animation.attack_melee_3_immediate] run function animated_java:red_knight/zzzzzzzz/animations/attack_melee_3_immediate/tick
 execute if entity @s[tag=aj.red_knight.animation.attack_projectile_1] run function animated_java:red_knight/zzzzzzzz/animations/attack_projectile_1/tick
 execute if entity @s[tag=aj.red_knight.animation.attack_rising_slash] run function animated_java:red_knight/zzzzzzzz/animations/attack_rising_slash/tick
 execute if entity @s[tag=aj.red_knight.animation.attack_fallstab_windup] run function animated_java:red_knight/zzzzzzzz/animations/attack_fallstab_windup/tick

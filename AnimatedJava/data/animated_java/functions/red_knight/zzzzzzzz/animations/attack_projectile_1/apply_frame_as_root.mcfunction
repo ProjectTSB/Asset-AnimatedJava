@@ -1,1 +1,1 @@
-execute if score @s aj.anim_time matches 0..37 run function animated_java:red_knight/zzzzzzzz/animations/attack_projectile_1/tree/branch_0_37
+execute if score @s aj.anim_time matches 0..54 run function animated_java:red_knight/zzzzzzzz/animations/attack_projectile_1/tree/branch_0_54

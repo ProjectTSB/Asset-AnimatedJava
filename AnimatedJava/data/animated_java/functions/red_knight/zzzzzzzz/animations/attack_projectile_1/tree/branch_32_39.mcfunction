@@ -4,3 +4,5 @@ execute if score @s aj.anim_time matches 34 run function animated_java:red_knigh
 execute if score @s aj.anim_time matches 35 run function animated_java:red_knight/zzzzzzzz/animations/attack_projectile_1/tree/leaf_35
 execute if score @s aj.anim_time matches 36 run function animated_java:red_knight/zzzzzzzz/animations/attack_projectile_1/tree/leaf_36
 execute if score @s aj.anim_time matches 37 run function animated_java:red_knight/zzzzzzzz/animations/attack_projectile_1/tree/leaf_37
+execute if score @s aj.anim_time matches 38 run function animated_java:red_knight/zzzzzzzz/animations/attack_projectile_1/tree/leaf_38
+execute if score @s aj.anim_time matches 39 run function animated_java:red_knight/zzzzzzzz/animations/attack_projectile_1/tree/leaf_39

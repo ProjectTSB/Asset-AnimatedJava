@@ -8,6 +8,7 @@ function animated_java:red_knight/zzzzzzzz/animations/dash_end/pause_as_root
 function animated_java:red_knight/zzzzzzzz/animations/attack_melee_1/pause_as_root
 function animated_java:red_knight/zzzzzzzz/animations/attack_melee_2/pause_as_root
 function animated_java:red_knight/zzzzzzzz/animations/attack_melee_3/pause_as_root
+function animated_java:red_knight/zzzzzzzz/animations/attack_melee_3_immediate/pause_as_root
 function animated_java:red_knight/zzzzzzzz/animations/attack_projectile_1/pause_as_root
 function animated_java:red_knight/zzzzzzzz/animations/attack_rising_slash/pause_as_root
 function animated_java:red_knight/zzzzzzzz/animations/attack_fallstab_windup/pause_as_root
