@@ -5,4 +5,4 @@ execute if score @s aj.anim_time matches 24..31 run function animated_java:convi
 execute if score @s aj.anim_time matches 32..39 run function animated_java:convict/zzzzzzzz/animations/attack3/tree/branch_32_39
 execute if score @s aj.anim_time matches 40..47 run function animated_java:convict/zzzzzzzz/animations/attack3/tree/branch_40_47
 execute if score @s aj.anim_time matches 48..55 run function animated_java:convict/zzzzzzzz/animations/attack3/tree/branch_48_55
-execute if score @s aj.anim_time matches 56..57 run function animated_java:convict/zzzzzzzz/animations/attack3/tree/branch_56_57
+execute if score @s aj.anim_time matches 56..58 run function animated_java:convict/zzzzzzzz/animations/attack3/tree/branch_56_58

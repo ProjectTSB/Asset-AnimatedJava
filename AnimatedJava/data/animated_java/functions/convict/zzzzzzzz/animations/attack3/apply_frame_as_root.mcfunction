@@ -1,1 +1,1 @@
-execute if score @s aj.anim_time matches 0..57 run function animated_java:convict/zzzzzzzz/animations/attack3/tree/branch_0_57
+execute if score @s aj.anim_time matches 0..58 run function animated_java:convict/zzzzzzzz/animations/attack3/tree/branch_0_58
