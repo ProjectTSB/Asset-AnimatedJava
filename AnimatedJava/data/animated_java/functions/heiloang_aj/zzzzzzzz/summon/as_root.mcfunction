@@ -35,6 +35,8 @@ execute if score #animation aj.i = $aj.heiloang_aj.animation.5_1_move_start aj.i
 execute if score #animation aj.i = $aj.heiloang_aj.animation.5_1_move_start aj.id run scoreboard players operation @s aj.heiloang_aj.animation.5_1_move_start.local_anim_time = #frame aj.i
 execute if score #animation aj.i = $aj.heiloang_aj.animation.5_2_move aj.id run function animated_java:heiloang_aj/zzzzzzzz/animations/5_2_move/apply_frame_as_root
 execute if score #animation aj.i = $aj.heiloang_aj.animation.5_2_move aj.id run scoreboard players operation @s aj.heiloang_aj.animation.5_2_move.local_anim_time = #frame aj.i
+execute if score #animation aj.i = $aj.heiloang_aj.animation.5_2_move2 aj.id run function animated_java:heiloang_aj/zzzzzzzz/animations/5_2_move2/apply_frame_as_root
+execute if score #animation aj.i = $aj.heiloang_aj.animation.5_2_move2 aj.id run scoreboard players operation @s aj.heiloang_aj.animation.5_2_move2.local_anim_time = #frame aj.i
 execute if score #animation aj.i = $aj.heiloang_aj.animation.6_sweep_breath aj.id run function animated_java:heiloang_aj/zzzzzzzz/animations/6_sweep_breath/apply_frame_as_root
 execute if score #animation aj.i = $aj.heiloang_aj.animation.6_sweep_breath aj.id run scoreboard players operation @s aj.heiloang_aj.animation.6_sweep_breath.local_anim_time = #frame aj.i
 execute if score #animation aj.i = $aj.heiloang_aj.animation.6_sweep_breath2 aj.id run function animated_java:heiloang_aj/zzzzzzzz/animations/6_sweep_breath2/apply_frame_as_root

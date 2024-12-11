@@ -1,0 +1,1 @@
+function animated_java:heiloang_aj/zzzzzzzz/animations/5_2_move2/tick_animation
