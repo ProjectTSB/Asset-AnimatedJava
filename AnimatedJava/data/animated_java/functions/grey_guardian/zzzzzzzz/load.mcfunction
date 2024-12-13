@@ -40,6 +40,6 @@ scoreboard players add .aj.last_id aj.id 0
 scoreboard players set $aj.loop_mode.loop aj.i 0
 scoreboard players set $aj.loop_mode.once aj.i 1
 scoreboard players set $aj.loop_mode.hold aj.i 2
-scoreboard players set aj.grey_guardian.export_version aj.i 222819687
+scoreboard players set aj.grey_guardian.export_version aj.i 395354281
 scoreboard players reset * aj.grey_guardian.rig_loaded
 execute as @e[type=minecraft:item_display,tag=aj.grey_guardian.root] run function animated_java:grey_guardian/zzzzzzzz/on_load

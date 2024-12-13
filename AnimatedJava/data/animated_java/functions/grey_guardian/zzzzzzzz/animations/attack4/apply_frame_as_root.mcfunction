@@ -1,1 +1,1 @@
-execute if score @s aj.anim_time matches 0..51 run function animated_java:grey_guardian/zzzzzzzz/animations/attack4/tree/branch_0_51
+execute if score @s aj.anim_time matches 0..66 run function animated_java:grey_guardian/zzzzzzzz/animations/attack4/tree/branch_0_66
