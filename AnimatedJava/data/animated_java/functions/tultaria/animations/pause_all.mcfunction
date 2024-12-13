@@ -14,4 +14,3 @@ tag @s remove aj.tultaria.animation.attack_melee_4_windup.playing
 tag @s remove aj.tultaria.animation.attack_melee_4_active.playing
 tag @s remove aj.tultaria.animation.dodge_back.playing
 tag @s remove aj.tultaria.animation.dodge_side.playing
-tag @s remove aj.tultaria.animation.animation_model_new.playing

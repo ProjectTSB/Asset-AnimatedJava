@@ -16,7 +16,6 @@ execute if entity @s[tag=aj.tultaria.animation.attack_melee_4_windup.playing] ru
 execute if entity @s[tag=aj.tultaria.animation.attack_melee_4_active.playing] run function animated_java:tultaria/animations/attack_melee_4_active/zzz/on_tick
 execute if entity @s[tag=aj.tultaria.animation.dodge_back.playing] run function animated_java:tultaria/animations/dodge_back/zzz/on_tick
 execute if entity @s[tag=aj.tultaria.animation.dodge_side.playing] run function animated_java:tultaria/animations/dodge_side/zzz/on_tick
-execute if entity @s[tag=aj.tultaria.animation.animation_model_new.playing] run function animated_java:tultaria/animations/animation_model_new/zzz/on_tick
 execute on passengers if entity @s[tag=aj.tultaria.data] run function animated_java:tultaria/root/zzz/1
 execute at @s on passengers run tp @s ~ ~ ~ ~ ~
 function #animated_java:tultaria/as_root/post_tick
