@@ -1,6 +1,1 @@
-{
-	"replace": false,
-	"values": [
-		"animated_java:red_knight/zzzzzzzz/load"
-	]
-}
+{"values":["animated_java:global/on_load","animated_java:global/internal/gu/load"]}
