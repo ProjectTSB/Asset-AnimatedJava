@@ -25,6 +25,8 @@ data modify entity @s data.locators.hitbox_head_5.uuid set from storage aj:uuid 
 summon minecraft:slime ~ ~ ~ {Tags:['aj.new', 'aj.locator', 'aj.heiloang_aj.locator', 'aj.heiloang_aj.locator.hitbox_head_4']}
 execute as @e[type=minecraft:slime,tag=aj.new,tag=aj.locator,limit=1,distance=..0.01] run function animated_java:heiloang_aj/zzz/9
 data modify entity @s data.locators.hitbox_head_4.uuid set from storage aj:uuid main.out
+execute on vehicle on passengers if entity @s[tag=aj.heiloang_aj.bone.flame_model] run function animated_java:global/internal/gu/convert_uuid_array_to_string with entity @s
+data modify entity @s data.bones.bone_flame_model set from storage aj:uuid main.out
 execute on vehicle on passengers if entity @s[tag=aj.heiloang_aj.bone.head_lower] run function animated_java:global/internal/gu/convert_uuid_array_to_string with entity @s
 data modify entity @s data.bones.bone_head_lower set from storage aj:uuid main.out
 execute on vehicle on passengers if entity @s[tag=aj.heiloang_aj.bone.horne_right] run function animated_java:global/internal/gu/convert_uuid_array_to_string with entity @s
