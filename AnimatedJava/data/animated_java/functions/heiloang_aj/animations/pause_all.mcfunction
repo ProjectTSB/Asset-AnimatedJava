@@ -5,6 +5,7 @@ tag @s remove aj.heiloang_aj.animation.1_idle.playing
 tag @s remove aj.heiloang_aj.animation.2_0_common_cast_start.playing
 tag @s remove aj.heiloang_aj.animation.2_1_common_casting.playing
 tag @s remove aj.heiloang_aj.animation.2_2_common_invoke.playing
+tag @s remove aj.heiloang_aj.animation.2_2_common_invoke2.playing
 tag @s remove aj.heiloang_aj.animation.2_3_common_order.playing
 tag @s remove aj.heiloang_aj.animation.2_4_common_disaster.playing
 tag @s remove aj.heiloang_aj.animation.3_0_hellfire_start.playing
@@ -20,6 +21,7 @@ tag @s remove aj.heiloang_aj.animation.7_1_dive_start.playing
 tag @s remove aj.heiloang_aj.animation.7_2_dive.playing
 tag @s remove aj.heiloang_aj.animation.7_3_dive_end.playing
 tag @s remove aj.heiloang_aj.animation.7_z_dive_test.playing
+tag @s remove aj.heiloang_aj.animation.8_1_move_flare.playing
 tag @s remove aj.heiloang_aj.animation.2_0_common_cast_bak.playing
 tag @s remove aj.heiloang_aj.animation.99_disaster_cast.playing
 tag @s remove aj.heiloang_aj.animation.99_disaster.playing

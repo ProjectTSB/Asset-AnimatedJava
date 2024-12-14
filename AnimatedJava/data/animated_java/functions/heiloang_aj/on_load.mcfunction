@@ -4,6 +4,7 @@ scoreboard objectives add aj.2_0_common_cast_bak.frame dummy
 scoreboard objectives add aj.2_0_common_cast_start.frame dummy
 scoreboard objectives add aj.2_1_common_casting.frame dummy
 scoreboard objectives add aj.2_2_common_invoke.frame dummy
+scoreboard objectives add aj.2_2_common_invoke2.frame dummy
 scoreboard objectives add aj.2_3_common_order.frame dummy
 scoreboard objectives add aj.2_4_common_disaster.frame dummy
 scoreboard objectives add aj.3_0_hellfire_start.frame dummy
@@ -19,6 +20,7 @@ scoreboard objectives add aj.7_1_dive_start.frame dummy
 scoreboard objectives add aj.7_2_dive.frame dummy
 scoreboard objectives add aj.7_3_dive_end.frame dummy
 scoreboard objectives add aj.7_z_dive_test.frame dummy
+scoreboard objectives add aj.8_1_move_flare.frame dummy
 scoreboard objectives add aj.99_disaster.frame dummy
 scoreboard objectives add aj.99_disaster2.frame dummy
 scoreboard objectives add aj.99_disaster_cast.frame dummy
@@ -28,6 +30,7 @@ data remove storage aj.heiloang_aj:animations 2_0_common_cast_bak
 data remove storage aj.heiloang_aj:animations 2_0_common_cast_start
 data remove storage aj.heiloang_aj:animations 2_1_common_casting
 data remove storage aj.heiloang_aj:animations 2_2_common_invoke
+data remove storage aj.heiloang_aj:animations 2_2_common_invoke2
 data remove storage aj.heiloang_aj:animations 2_3_common_order
 data remove storage aj.heiloang_aj:animations 2_4_common_disaster
 data remove storage aj.heiloang_aj:animations 3_0_hellfire_start
@@ -43,6 +46,7 @@ data remove storage aj.heiloang_aj:animations 7_1_dive_start
 data remove storage aj.heiloang_aj:animations 7_2_dive
 data remove storage aj.heiloang_aj:animations 7_3_dive_end
 data remove storage aj.heiloang_aj:animations 7_z_dive_test
+data remove storage aj.heiloang_aj:animations 8_1_move_flare
 data remove storage aj.heiloang_aj:animations 99_disaster
 data remove storage aj.heiloang_aj:animations 99_disaster2
 data remove storage aj.heiloang_aj:animations 99_disaster_cast
@@ -52,6 +56,7 @@ scoreboard objectives add aj.1_idle.frame dummy
 scoreboard objectives add aj.2_0_common_cast_start.frame dummy
 scoreboard objectives add aj.2_1_common_casting.frame dummy
 scoreboard objectives add aj.2_2_common_invoke.frame dummy
+scoreboard objectives add aj.2_2_common_invoke2.frame dummy
 scoreboard objectives add aj.2_3_common_order.frame dummy
 scoreboard objectives add aj.2_4_common_disaster.frame dummy
 scoreboard objectives add aj.3_0_hellfire_start.frame dummy
@@ -67,6 +72,7 @@ scoreboard objectives add aj.7_1_dive_start.frame dummy
 scoreboard objectives add aj.7_2_dive.frame dummy
 scoreboard objectives add aj.7_3_dive_end.frame dummy
 scoreboard objectives add aj.7_z_dive_test.frame dummy
+scoreboard objectives add aj.8_1_move_flare.frame dummy
 scoreboard objectives add aj.2_0_common_cast_bak.frame dummy
 scoreboard objectives add aj.99_disaster_cast.frame dummy
 scoreboard objectives add aj.99_disaster.frame dummy
