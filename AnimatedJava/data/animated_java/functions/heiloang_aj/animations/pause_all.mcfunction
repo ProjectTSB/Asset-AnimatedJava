@@ -16,12 +16,15 @@ tag @s remove aj.heiloang_aj.animation.5_1_move_start.playing
 tag @s remove aj.heiloang_aj.animation.5_2_move.playing
 tag @s remove aj.heiloang_aj.animation.5_2_move2.playing
 tag @s remove aj.heiloang_aj.animation.6_sweep_breath.playing
-tag @s remove aj.heiloang_aj.animation.6_sweep_breath2.playing
 tag @s remove aj.heiloang_aj.animation.7_1_dive_start.playing
+tag @s remove aj.heiloang_aj.animation.7_1_dive_start2.playing
 tag @s remove aj.heiloang_aj.animation.7_2_dive.playing
 tag @s remove aj.heiloang_aj.animation.7_3_dive_end.playing
 tag @s remove aj.heiloang_aj.animation.7_z_dive_test.playing
 tag @s remove aj.heiloang_aj.animation.8_1_move_flare.playing
+tag @s remove aj.heiloang_aj.animation.9_1_plamet.playing
+tag @s remove aj.heiloang_aj.animation.9_2_plamet_dive.playing
+tag @s remove aj.heiloang_aj.animation.9_1_plamet2.playing
 tag @s remove aj.heiloang_aj.animation.2_0_common_cast_bak.playing
 tag @s remove aj.heiloang_aj.animation.99_disaster_cast.playing
 tag @s remove aj.heiloang_aj.animation.99_disaster.playing
