@@ -23,9 +23,9 @@ tag @s remove aj.heiloang_aj.animation.7_z_dive_test.playing
 tag @s remove aj.heiloang_aj.animation.8_1_move_flare.playing
 tag @s remove aj.heiloang_aj.animation.9_1_plamet.playing
 tag @s remove aj.heiloang_aj.animation.9_2_plamet_dive.playing
-tag @s remove aj.heiloang_aj.animation.2_0_common_cast_bak.playing
+tag @s remove aj.heiloang_aj.animation.10_1_power_breath.playing
+tag @s remove aj.heiloang_aj.animation.10_2_power_breath_continue_1.playing
+tag @s remove aj.heiloang_aj.animation.10_3_power_breath_continue_2.playing
+tag @s remove aj.heiloang_aj.animation.10_4_power_breath_continue_end.playing
 tag @s remove aj.heiloang_aj.animation.99_disaster_cast.playing
 tag @s remove aj.heiloang_aj.animation.99_disaster.playing
-tag @s remove aj.heiloang_aj.animation.99_disaster3.playing
-tag @s remove aj.heiloang_aj.animation.99_disaster_cast2.playing
-tag @s remove aj.heiloang_aj.animation.99_disaster2.playing

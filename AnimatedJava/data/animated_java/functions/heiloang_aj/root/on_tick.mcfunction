@@ -25,12 +25,12 @@ execute if entity @s[tag=aj.heiloang_aj.animation.7_z_dive_test.playing] run fun
 execute if entity @s[tag=aj.heiloang_aj.animation.8_1_move_flare.playing] run function animated_java:heiloang_aj/animations/8_1_move_flare/zzz/on_tick
 execute if entity @s[tag=aj.heiloang_aj.animation.9_1_plamet.playing] run function animated_java:heiloang_aj/animations/9_1_plamet/zzz/on_tick
 execute if entity @s[tag=aj.heiloang_aj.animation.9_2_plamet_dive.playing] run function animated_java:heiloang_aj/animations/9_2_plamet_dive/zzz/on_tick
-execute if entity @s[tag=aj.heiloang_aj.animation.2_0_common_cast_bak.playing] run function animated_java:heiloang_aj/animations/2_0_common_cast_bak/zzz/on_tick
+execute if entity @s[tag=aj.heiloang_aj.animation.10_1_power_breath.playing] run function animated_java:heiloang_aj/animations/10_1_power_breath/zzz/on_tick
+execute if entity @s[tag=aj.heiloang_aj.animation.10_2_power_breath_continue_1.playing] run function animated_java:heiloang_aj/animations/10_2_power_breath_continue_1/zzz/on_tick
+execute if entity @s[tag=aj.heiloang_aj.animation.10_3_power_breath_continue_2.playing] run function animated_java:heiloang_aj/animations/10_3_power_breath_continue_2/zzz/on_tick
+execute if entity @s[tag=aj.heiloang_aj.animation.10_4_power_breath_continue_end.playing] run function animated_java:heiloang_aj/animations/10_4_power_breath_continue_end/zzz/on_tick
 execute if entity @s[tag=aj.heiloang_aj.animation.99_disaster_cast.playing] run function animated_java:heiloang_aj/animations/99_disaster_cast/zzz/on_tick
 execute if entity @s[tag=aj.heiloang_aj.animation.99_disaster.playing] run function animated_java:heiloang_aj/animations/99_disaster/zzz/on_tick
-execute if entity @s[tag=aj.heiloang_aj.animation.99_disaster3.playing] run function animated_java:heiloang_aj/animations/99_disaster3/zzz/on_tick
-execute if entity @s[tag=aj.heiloang_aj.animation.99_disaster_cast2.playing] run function animated_java:heiloang_aj/animations/99_disaster_cast2/zzz/on_tick
-execute if entity @s[tag=aj.heiloang_aj.animation.99_disaster2.playing] run function animated_java:heiloang_aj/animations/99_disaster2/zzz/on_tick
 execute on passengers if entity @s[tag=aj.heiloang_aj.data] run function animated_java:heiloang_aj/root/zzz/1
 execute at @s on passengers run tp @s ~ ~ ~ ~ ~
 function #animated_java:heiloang_aj/as_root/post_tick
