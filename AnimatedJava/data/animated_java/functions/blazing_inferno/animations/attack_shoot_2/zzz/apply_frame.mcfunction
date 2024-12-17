@@ -6,3 +6,5 @@ $execute on passengers if entity @s[tag=aj.blazing_inferno.bone.right_hand] run 
 $execute on passengers if entity @s[tag=aj.blazing_inferno.bone.right_arm] run data modify entity @s {} merge from storage aj.blazing_inferno:animations attack_shoot_2.$(frame).bone_right_arm
 $execute on passengers if entity @s[tag=aj.blazing_inferno.bone.head] run data modify entity @s {} merge from storage aj.blazing_inferno:animations attack_shoot_2.$(frame).bone_head
 $execute on passengers if entity @s[tag=aj.blazing_inferno.bone.bottom] run data modify entity @s {} merge from storage aj.blazing_inferno:animations attack_shoot_2.$(frame).bone_bottom
+$execute on passengers if entity @s[tag=aj.data] run data modify entity @s data.locators.locator_left_hand merge from storage aj.blazing_inferno:animations attack_shoot_2.$(frame).locator_locator_left_hand
+$execute on passengers if entity @s[tag=aj.data] run data modify entity @s data.locators.locator_right_hand merge from storage aj.blazing_inferno:animations attack_shoot_2.$(frame).locator_locator_right_hand
