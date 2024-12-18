@@ -9,5 +9,5 @@ tp @s ~ ~ ~ ~ ~
 execute at @s on passengers run tp @s ~ ~ ~ ~ ~
 data modify entity @s teleport_duration set value 1
 execute on passengers run data modify entity @s teleport_duration set value 1
-tag @s add AZ.ModelRoot
+tag @s add AX.ModelRoot
 function #animated_java:labyria/as_root/on_summon
