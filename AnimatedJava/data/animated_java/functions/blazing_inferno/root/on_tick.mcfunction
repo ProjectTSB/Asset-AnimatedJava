@@ -15,6 +15,8 @@ execute if entity @s[tag=aj.blazing_inferno.animation.attack_shoot_2.playing] ru
 execute if entity @s[tag=aj.blazing_inferno.animation.attack_fall.playing] run function animated_java:blazing_inferno/animations/attack_fall/zzz/on_tick
 execute if entity @s[tag=aj.blazing_inferno.animation.attack_oraora_windup.playing] run function animated_java:blazing_inferno/animations/attack_oraora_windup/zzz/on_tick
 execute if entity @s[tag=aj.blazing_inferno.animation.attack_oraora_loop.playing] run function animated_java:blazing_inferno/animations/attack_oraora_loop/zzz/on_tick
+execute if entity @s[tag=aj.blazing_inferno.animation.teleport.playing] run function animated_java:blazing_inferno/animations/teleport/zzz/on_tick
+execute if entity @s[tag=aj.blazing_inferno.animation.teleport_vanish.playing] run function animated_java:blazing_inferno/animations/teleport_vanish/zzz/on_tick
 execute on passengers if entity @s[tag=aj.blazing_inferno.data] run function animated_java:blazing_inferno/root/zzz/1
 execute at @s on passengers run tp @s ~ ~ ~ ~ ~
 function #animated_java:blazing_inferno/as_root/post_tick
