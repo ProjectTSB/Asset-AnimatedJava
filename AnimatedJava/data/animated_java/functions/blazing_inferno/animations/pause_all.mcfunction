@@ -15,3 +15,4 @@ tag @s remove aj.blazing_inferno.animation.attack_oraora_windup.playing
 tag @s remove aj.blazing_inferno.animation.attack_oraora_loop.playing
 tag @s remove aj.blazing_inferno.animation.teleport.playing
 tag @s remove aj.blazing_inferno.animation.teleport_vanish.playing
+tag @s remove aj.blazing_inferno.animation.damage.playing
