@@ -179,6 +179,8 @@
 			"data/animated_java/functions/haruclaire_aj/animations/1_0_rod_idle/set_frame.mcfunction",
 			"data/animated_java/functions/haruclaire_aj/animations/1_0_rod_idle/apply_frame.mcfunction",
 			"data/animated_java/functions/haruclaire_aj/animations/1_0_rod_idle/tween.mcfunction",
+			"data/animated_java/functions/haruclaire_aj/animations/1_0_rod_idle/zzz/zzz/0.mcfunction",
+			"data/animated_java/functions/haruclaire_aj/animations/1_0_rod_idle/zzz/zzz/1.mcfunction",
 			"data/animated_java/functions/haruclaire_aj/animations/1_0_rod_idle/zzz/on_tick.mcfunction",
 			"data/animated_java/functions/haruclaire_aj/animations/1_0_rod_idle/zzz/set_frame.mcfunction",
 			"data/animated_java/functions/haruclaire_aj/animations/1_0_rod_idle/zzz/apply_frame.mcfunction",
