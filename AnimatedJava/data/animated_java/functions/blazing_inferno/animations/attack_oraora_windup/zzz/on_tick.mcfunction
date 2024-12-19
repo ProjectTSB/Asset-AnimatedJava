@@ -4,5 +4,5 @@ execute if score @s aj.tween_duration matches 1.. run return 1
 execute if score @s aj.tween_duration matches 0 on passengers run data modify entity @s interpolation_duration set value 1
 execute store result storage aj:temp frame int 1 run scoreboard players get @s aj.attack_oraora_windup.frame
 function animated_java:blazing_inferno/animations/attack_oraora_windup/zzz/apply_frame with storage aj:temp
-execute if score @s aj.attack_oraora_windup.frame matches 10.. run return run function animated_java:blazing_inferno/animations/attack_oraora_windup/pause
+execute if score @s aj.attack_oraora_windup.frame matches 20.. run return run function animated_java:blazing_inferno/animations/attack_oraora_windup/pause
 scoreboard players add @s aj.attack_oraora_windup.frame 1

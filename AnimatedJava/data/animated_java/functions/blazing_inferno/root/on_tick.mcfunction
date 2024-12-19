@@ -12,6 +12,7 @@ execute if entity @s[tag=aj.blazing_inferno.animation.attack_punch_1_left.playin
 execute if entity @s[tag=aj.blazing_inferno.animation.attack_shoot_1_right.playing] run function animated_java:blazing_inferno/animations/attack_shoot_1_right/zzz/on_tick
 execute if entity @s[tag=aj.blazing_inferno.animation.attack_shoot_1_left.playing] run function animated_java:blazing_inferno/animations/attack_shoot_1_left/zzz/on_tick
 execute if entity @s[tag=aj.blazing_inferno.animation.attack_shoot_2.playing] run function animated_java:blazing_inferno/animations/attack_shoot_2/zzz/on_tick
+execute if entity @s[tag=aj.blazing_inferno.animation.attack_fall.playing] run function animated_java:blazing_inferno/animations/attack_fall/zzz/on_tick
 execute if entity @s[tag=aj.blazing_inferno.animation.attack_oraora_windup.playing] run function animated_java:blazing_inferno/animations/attack_oraora_windup/zzz/on_tick
 execute if entity @s[tag=aj.blazing_inferno.animation.attack_oraora_loop.playing] run function animated_java:blazing_inferno/animations/attack_oraora_loop/zzz/on_tick
 execute on passengers if entity @s[tag=aj.blazing_inferno.data] run function animated_java:blazing_inferno/root/zzz/1

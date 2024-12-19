@@ -10,5 +10,6 @@ tag @s remove aj.blazing_inferno.animation.attack_punch_1_left.playing
 tag @s remove aj.blazing_inferno.animation.attack_shoot_1_right.playing
 tag @s remove aj.blazing_inferno.animation.attack_shoot_1_left.playing
 tag @s remove aj.blazing_inferno.animation.attack_shoot_2.playing
+tag @s remove aj.blazing_inferno.animation.attack_fall.playing
 tag @s remove aj.blazing_inferno.animation.attack_oraora_windup.playing
 tag @s remove aj.blazing_inferno.animation.attack_oraora_loop.playing
