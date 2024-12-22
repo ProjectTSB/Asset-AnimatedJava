@@ -6,6 +6,7 @@ execute if entity @s[tag=aj.haruclaire_aj.animation.pose.playing] run function a
 execute if entity @s[tag=aj.haruclaire_aj.animation.0_0_start.playing] run function animated_java:haruclaire_aj/animations/0_0_start/zzz/on_tick
 execute if entity @s[tag=aj.haruclaire_aj.animation.1_0_rod_idle.playing] run function animated_java:haruclaire_aj/animations/1_0_rod_idle/zzz/on_tick
 execute if entity @s[tag=aj.haruclaire_aj.animation.2_0_rod_turn.playing] run function animated_java:haruclaire_aj/animations/2_0_rod_turn/zzz/on_tick
+execute if entity @s[tag=aj.haruclaire_aj.animation.3_0_rod_move.playing] run function animated_java:haruclaire_aj/animations/3_0_rod_move/zzz/on_tick
 execute if entity @s[tag=aj.haruclaire_aj.animation.4_0_rod_icewall.playing] run function animated_java:haruclaire_aj/animations/4_0_rod_icewall/zzz/on_tick
 execute if entity @s[tag=aj.haruclaire_aj.animation.5_0_rod_icebullet.playing] run function animated_java:haruclaire_aj/animations/5_0_rod_icebullet/zzz/on_tick
 execute if entity @s[tag=aj.haruclaire_aj.animation.6_0_rod_icefang.playing] run function animated_java:haruclaire_aj/animations/6_0_rod_icefang/zzz/on_tick

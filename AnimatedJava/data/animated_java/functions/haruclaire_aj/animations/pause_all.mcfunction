@@ -4,6 +4,7 @@ tag @s remove aj.haruclaire_aj.animation.pose.playing
 tag @s remove aj.haruclaire_aj.animation.0_0_start.playing
 tag @s remove aj.haruclaire_aj.animation.1_0_rod_idle.playing
 tag @s remove aj.haruclaire_aj.animation.2_0_rod_turn.playing
+tag @s remove aj.haruclaire_aj.animation.3_0_rod_move.playing
 tag @s remove aj.haruclaire_aj.animation.4_0_rod_icewall.playing
 tag @s remove aj.haruclaire_aj.animation.5_0_rod_icebullet.playing
 tag @s remove aj.haruclaire_aj.animation.6_0_rod_icefang.playing
