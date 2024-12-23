@@ -12,13 +12,16 @@ execute if entity @s[tag=aj.tutankhamen.animation.attack_magic_1.playing] run fu
 execute if entity @s[tag=aj.tutankhamen.animation.attack_magic_2.playing] run function animated_java:tutankhamen/animations/attack_magic_2/zzz/on_tick
 execute if entity @s[tag=aj.tutankhamen.animation.beam_start.playing] run function animated_java:tutankhamen/animations/beam_start/zzz/on_tick
 execute if entity @s[tag=aj.tutankhamen.animation.spawn.playing] run function animated_java:tutankhamen/animations/spawn/zzz/on_tick
-execute if entity @s[tag=aj.tutankhamen.animation.death.playing] run function animated_java:tutankhamen/animations/death/zzz/on_tick
 execute if entity @s[tag=aj.tutankhamen.animation.soul_shot.playing] run function animated_java:tutankhamen/animations/soul_shot/zzz/on_tick
 execute if entity @s[tag=aj.tutankhamen.animation.beam_long_shot.playing] run function animated_java:tutankhamen/animations/beam_long_shot/zzz/on_tick
 execute if entity @s[tag=aj.tutankhamen.animation.beam_long_charge.playing] run function animated_java:tutankhamen/animations/beam_long_charge/zzz/on_tick
 execute if entity @s[tag=aj.tutankhamen.animation.beam_long.playing] run function animated_java:tutankhamen/animations/beam_long/zzz/on_tick
 execute if entity @s[tag=aj.tutankhamen.animation.dash_slash.playing] run function animated_java:tutankhamen/animations/dash_slash/zzz/on_tick
+execute if entity @s[tag=aj.tutankhamen.animation.dash_slash2.playing] run function animated_java:tutankhamen/animations/dash_slash2/zzz/on_tick
 execute if entity @s[tag=aj.tutankhamen.animation.rod_ground_end.playing] run function animated_java:tutankhamen/animations/rod_ground_end/zzz/on_tick
 execute if entity @s[tag=aj.tutankhamen.animation.rod_ground.playing] run function animated_java:tutankhamen/animations/rod_ground/zzz/on_tick
+execute if entity @s[tag=aj.tutankhamen.animation.attack_melee_1.playing] run function animated_java:tutankhamen/animations/attack_melee_1/zzz/on_tick
+execute if entity @s[tag=aj.tutankhamen.animation.death.playing] run function animated_java:tutankhamen/animations/death/zzz/on_tick
+execute if entity @s[tag=aj.tutankhamen.animation.death_tokumei.playing] run function animated_java:tutankhamen/animations/death_tokumei/zzz/on_tick
 execute at @s on passengers run tp @s ~ ~ ~ ~ ~
 function #animated_java:tutankhamen/as_root/post_tick

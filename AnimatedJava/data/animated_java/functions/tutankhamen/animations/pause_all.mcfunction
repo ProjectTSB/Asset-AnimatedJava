@@ -10,11 +10,14 @@ tag @s remove aj.tutankhamen.animation.attack_magic_1.playing
 tag @s remove aj.tutankhamen.animation.attack_magic_2.playing
 tag @s remove aj.tutankhamen.animation.beam_start.playing
 tag @s remove aj.tutankhamen.animation.spawn.playing
-tag @s remove aj.tutankhamen.animation.death.playing
 tag @s remove aj.tutankhamen.animation.soul_shot.playing
 tag @s remove aj.tutankhamen.animation.beam_long_shot.playing
 tag @s remove aj.tutankhamen.animation.beam_long_charge.playing
 tag @s remove aj.tutankhamen.animation.beam_long.playing
 tag @s remove aj.tutankhamen.animation.dash_slash.playing
+tag @s remove aj.tutankhamen.animation.dash_slash2.playing
 tag @s remove aj.tutankhamen.animation.rod_ground_end.playing
 tag @s remove aj.tutankhamen.animation.rod_ground.playing
+tag @s remove aj.tutankhamen.animation.attack_melee_1.playing
+tag @s remove aj.tutankhamen.animation.death.playing
+tag @s remove aj.tutankhamen.animation.death_tokumei.playing
