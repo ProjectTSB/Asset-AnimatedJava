@@ -15,4 +15,6 @@ $execute on passengers run data modify entity @s[tag=aj.tutankhamen.bone.left_fo
 $execute on passengers run data modify entity @s[tag=aj.tutankhamen.bone.left_leg] {} merge from storage aj.tutankhamen:animations death_tokumei.$(frame).bone_left_leg
 $execute on passengers run data modify entity @s[tag=aj.tutankhamen.bone.right_foot] {} merge from storage aj.tutankhamen:animations death_tokumei.$(frame).bone_right_foot
 $execute on passengers run data modify entity @s[tag=aj.tutankhamen.bone.right_leg] {} merge from storage aj.tutankhamen:animations death_tokumei.$(frame).bone_right_leg
+$execute on passengers if entity @s[tag=aj.data] run data modify entity @s data.locators.weapon merge from storage aj.tutankhamen:animations death_tokumei.$(frame).locator_weapon
+$execute on passengers if entity @s[tag=aj.data] run data modify entity @s data.locators.body merge from storage aj.tutankhamen:animations death_tokumei.$(frame).locator_body
 execute on passengers run data modify entity @s[type=!marker] start_interpolation set value -1

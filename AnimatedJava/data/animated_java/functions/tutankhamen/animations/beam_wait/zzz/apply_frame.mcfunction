@@ -15,3 +15,5 @@ $execute on passengers if entity @s[tag=aj.tutankhamen.bone.left_foot] run data 
 $execute on passengers if entity @s[tag=aj.tutankhamen.bone.left_leg] run data modify entity @s {} merge from storage aj.tutankhamen:animations beam_wait.$(frame).bone_left_leg
 $execute on passengers if entity @s[tag=aj.tutankhamen.bone.right_foot] run data modify entity @s {} merge from storage aj.tutankhamen:animations beam_wait.$(frame).bone_right_foot
 $execute on passengers if entity @s[tag=aj.tutankhamen.bone.right_leg] run data modify entity @s {} merge from storage aj.tutankhamen:animations beam_wait.$(frame).bone_right_leg
+$execute on passengers if entity @s[tag=aj.data] run data modify entity @s data.locators.weapon merge from storage aj.tutankhamen:animations beam_wait.$(frame).locator_weapon
+$execute on passengers if entity @s[tag=aj.data] run data modify entity @s data.locators.body merge from storage aj.tutankhamen:animations beam_wait.$(frame).locator_body
