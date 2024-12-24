@@ -19,5 +19,6 @@ tag @s remove aj.tutankhamen.animation.rod_ground_end.playing
 tag @s remove aj.tutankhamen.animation.rod_ground.playing
 tag @s remove aj.tutankhamen.animation.attack_melee_1.playing
 tag @s remove aj.tutankhamen.animation.attack_dash_1.playing
-tag @s remove aj.tutankhamen.animation.death.playing
+tag @s remove aj.tutankhamen.animation.attack_dash_2.playing
 tag @s remove aj.tutankhamen.animation.death_tokumei.playing
+tag @s remove aj.tutankhamen.animation.death.playing

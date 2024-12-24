@@ -4,5 +4,5 @@ execute if score @s aj.tween_duration matches 1.. run return 1
 execute if score @s aj.tween_duration matches 0 on passengers run data modify entity @s interpolation_duration set value 1
 execute store result storage aj:temp frame int 1 run scoreboard players get @s aj.attack_dash_1.frame
 function animated_java:tutankhamen/animations/attack_dash_1/zzz/apply_frame with storage aj:temp
-execute if score @s aj.attack_dash_1.frame matches 35.. run return run function animated_java:tutankhamen/animations/attack_dash_1/pause
+execute if score @s aj.attack_dash_1.frame matches 55.. run return run function animated_java:tutankhamen/animations/attack_dash_1/pause
 scoreboard players add @s aj.attack_dash_1.frame 1

@@ -21,7 +21,8 @@ execute if entity @s[tag=aj.tutankhamen.animation.rod_ground_end.playing] run fu
 execute if entity @s[tag=aj.tutankhamen.animation.rod_ground.playing] run function animated_java:tutankhamen/animations/rod_ground/zzz/on_tick
 execute if entity @s[tag=aj.tutankhamen.animation.attack_melee_1.playing] run function animated_java:tutankhamen/animations/attack_melee_1/zzz/on_tick
 execute if entity @s[tag=aj.tutankhamen.animation.attack_dash_1.playing] run function animated_java:tutankhamen/animations/attack_dash_1/zzz/on_tick
-execute if entity @s[tag=aj.tutankhamen.animation.death.playing] run function animated_java:tutankhamen/animations/death/zzz/on_tick
+execute if entity @s[tag=aj.tutankhamen.animation.attack_dash_2.playing] run function animated_java:tutankhamen/animations/attack_dash_2/zzz/on_tick
 execute if entity @s[tag=aj.tutankhamen.animation.death_tokumei.playing] run function animated_java:tutankhamen/animations/death_tokumei/zzz/on_tick
+execute if entity @s[tag=aj.tutankhamen.animation.death.playing] run function animated_java:tutankhamen/animations/death/zzz/on_tick
 execute at @s on passengers run tp @s ~ ~ ~ ~ ~
 function #animated_java:tutankhamen/as_root/post_tick
