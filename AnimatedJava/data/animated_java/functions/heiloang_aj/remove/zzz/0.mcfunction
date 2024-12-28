@@ -7,3 +7,5 @@ function animated_java:heiloang_aj/remove/zzz/kill with entity @s data.locators.
 function animated_java:heiloang_aj/remove/zzz/kill with entity @s data.locators.hitbox_head_6
 function animated_java:heiloang_aj/remove/zzz/kill with entity @s data.locators.hitbox_head_5
 function animated_java:heiloang_aj/remove/zzz/kill with entity @s data.locators.hitbox_head_4
+function animated_java:heiloang_aj/remove/zzz/kill with entity @s data.locators.hitbox_head_8
+function animated_java:heiloang_aj/remove/zzz/kill with entity @s data.locators.hitbox_head_9

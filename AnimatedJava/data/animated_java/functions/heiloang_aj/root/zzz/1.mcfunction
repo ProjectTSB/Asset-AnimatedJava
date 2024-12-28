@@ -10,3 +10,5 @@ function animated_java:heiloang_aj/root/zzz/16 with entity @s data.locators.hitb
 function animated_java:heiloang_aj/root/zzz/18 with entity @s data.locators.hitbox_head_6
 function animated_java:heiloang_aj/root/zzz/20 with entity @s data.locators.hitbox_head_5
 function animated_java:heiloang_aj/root/zzz/22 with entity @s data.locators.hitbox_head_4
+function animated_java:heiloang_aj/root/zzz/24 with entity @s data.locators.hitbox_head_8
+function animated_java:heiloang_aj/root/zzz/26 with entity @s data.locators.hitbox_head_9
