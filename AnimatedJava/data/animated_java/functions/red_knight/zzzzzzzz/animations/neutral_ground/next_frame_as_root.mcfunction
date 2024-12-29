@@ -1,1 +1,0 @@
-function animated_java:red_knight/zzzzzzzz/animations/neutral_ground/tick_animation

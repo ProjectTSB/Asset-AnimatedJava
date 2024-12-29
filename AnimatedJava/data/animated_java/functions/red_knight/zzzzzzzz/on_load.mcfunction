@@ -1,2 +1,0 @@
-scoreboard players set @s aj.red_knight.rig_loaded 1
-execute unless score @s aj.red_knight.export_version = aj.red_knight.export_version aj.i at @s run function animated_java:red_knight/zzzzzzzz/mark_outdated_rig

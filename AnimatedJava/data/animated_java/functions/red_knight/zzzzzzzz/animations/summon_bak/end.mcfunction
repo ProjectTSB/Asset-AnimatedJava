@@ -1,3 +1,0 @@
-execute if score @s aj.red_knight.animation.summon_bak.loop_mode = $aj.loop_mode.loop aj.i run function animated_java:red_knight/zzzzzzzz/animations/summon_bak/end_loop
-execute if score @s aj.red_knight.animation.summon_bak.loop_mode = $aj.loop_mode.once aj.i run function animated_java:red_knight/animations/summon_bak/stop
-execute if score @s aj.red_knight.animation.summon_bak.loop_mode = $aj.loop_mode.hold aj.i run function animated_java:red_knight/animations/summon_bak/pause

@@ -1,1 +1,0 @@
-execute if score @s aj.anim_time matches 0..90 run function animated_java:red_knight/zzzzzzzz/animations/summon_2/tree/branch_0_90

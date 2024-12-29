@@ -1,1 +1,0 @@
-execute if score @s aj.anim_time matches 0..153 run function animated_java:red_knight/zzzzzzzz/animations/summon_bak/tree/branch_0_153

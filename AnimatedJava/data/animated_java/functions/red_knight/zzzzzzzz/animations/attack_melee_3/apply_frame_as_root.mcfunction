@@ -1,1 +1,0 @@
-execute if score @s aj.anim_time matches 0..58 run function animated_java:red_knight/zzzzzzzz/animations/attack_melee_3/tree/branch_0_58

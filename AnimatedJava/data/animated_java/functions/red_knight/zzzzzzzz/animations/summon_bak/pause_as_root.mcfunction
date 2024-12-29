@@ -1,1 +1,0 @@
-tag @s remove aj.red_knight.animation.summon_bak

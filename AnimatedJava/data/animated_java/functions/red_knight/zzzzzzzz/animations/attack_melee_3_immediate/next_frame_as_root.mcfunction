@@ -1,1 +1,0 @@
-function animated_java:red_knight/zzzzzzzz/animations/attack_melee_3_immediate/tick_animation

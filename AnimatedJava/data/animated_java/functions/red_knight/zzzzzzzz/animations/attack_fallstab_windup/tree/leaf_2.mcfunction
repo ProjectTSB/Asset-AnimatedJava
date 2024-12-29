@@ -1,1 +1,0 @@
-execute on passengers run function animated_java:red_knight/zzzzzzzz/animations/attack_fallstab_windup/tree/leaf_2_as_bone

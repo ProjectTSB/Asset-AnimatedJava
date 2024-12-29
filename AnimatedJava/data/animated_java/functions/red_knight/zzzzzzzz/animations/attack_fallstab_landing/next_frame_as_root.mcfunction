@@ -1,1 +1,0 @@
-function animated_java:red_knight/zzzzzzzz/animations/attack_fallstab_landing/tick_animation

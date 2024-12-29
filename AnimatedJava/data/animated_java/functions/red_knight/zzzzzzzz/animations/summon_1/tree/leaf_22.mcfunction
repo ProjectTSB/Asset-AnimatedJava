@@ -1,1 +1,0 @@
-execute on passengers run function animated_java:red_knight/zzzzzzzz/animations/summon_1/tree/leaf_22_as_bone

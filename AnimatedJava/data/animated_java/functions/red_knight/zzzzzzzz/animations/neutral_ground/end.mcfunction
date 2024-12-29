@@ -1,3 +1,0 @@
-execute if score @s aj.red_knight.animation.neutral_ground.loop_mode = $aj.loop_mode.loop aj.i run function animated_java:red_knight/zzzzzzzz/animations/neutral_ground/end_loop
-execute if score @s aj.red_knight.animation.neutral_ground.loop_mode = $aj.loop_mode.once aj.i run function animated_java:red_knight/animations/neutral_ground/stop
-execute if score @s aj.red_knight.animation.neutral_ground.loop_mode = $aj.loop_mode.hold aj.i run function animated_java:red_knight/animations/neutral_ground/pause

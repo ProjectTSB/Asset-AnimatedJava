@@ -1,1 +1,0 @@
-execute if score @s aj.anim_time matches 0..10 run function animated_java:red_knight/zzzzzzzz/animations/dash_start/tree/branch_0_10

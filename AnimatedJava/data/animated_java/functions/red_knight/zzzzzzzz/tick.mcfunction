@@ -1,1 +1,0 @@
-execute if entity @s[tag=aj.red_knight.root] run function animated_java:red_knight/zzzzzzzz/tick_as_root
