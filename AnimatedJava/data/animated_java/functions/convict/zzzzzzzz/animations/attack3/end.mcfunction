@@ -1,3 +1,0 @@
-execute if score @s aj.convict.animation.attack3.loop_mode = $aj.loop_mode.loop aj.i run function animated_java:convict/zzzzzzzz/animations/attack3/end_loop
-execute if score @s aj.convict.animation.attack3.loop_mode = $aj.loop_mode.once aj.i run function animated_java:convict/animations/attack3/stop
-execute if score @s aj.convict.animation.attack3.loop_mode = $aj.loop_mode.hold aj.i run function animated_java:convict/animations/attack3/pause

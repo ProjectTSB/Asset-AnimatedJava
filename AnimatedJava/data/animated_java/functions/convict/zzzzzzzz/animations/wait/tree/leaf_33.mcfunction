@@ -1,1 +1,0 @@
-execute on passengers run function animated_java:convict/zzzzzzzz/animations/wait/tree/leaf_33_as_bone

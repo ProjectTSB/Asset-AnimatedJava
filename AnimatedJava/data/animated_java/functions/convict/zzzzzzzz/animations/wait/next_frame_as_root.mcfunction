@@ -1,1 +1,0 @@
-function animated_java:convict/zzzzzzzz/animations/wait/tick_animation

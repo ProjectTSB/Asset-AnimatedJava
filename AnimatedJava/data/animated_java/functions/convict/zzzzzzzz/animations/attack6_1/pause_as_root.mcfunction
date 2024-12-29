@@ -1,1 +1,0 @@
-tag @s remove aj.convict.animation.attack6_1
