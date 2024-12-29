@@ -1,0 +1,1 @@
+execute if entity @s[tag=aj.convict.root] run function animated_java:convict/zzzzzzzz/tick_as_root

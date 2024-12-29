@@ -1,1 +1,0 @@
-function animated_java:grey_guardian/zzzzzzzz/animations/backstep/tick_animation
