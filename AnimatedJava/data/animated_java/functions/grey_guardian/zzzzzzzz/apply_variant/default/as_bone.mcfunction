@@ -1,0 +1,11 @@
+execute if entity @s[tag=aj.grey_guardian.bone.head] run data modify entity @s item.tag.CustomModelData set value 30
+execute if entity @s[tag=aj.grey_guardian.bone.sword] run data modify entity @s item.tag.CustomModelData set value 31
+execute if entity @s[tag=aj.grey_guardian.bone.axe] run data modify entity @s item.tag.CustomModelData set value 32
+execute if entity @s[tag=aj.grey_guardian.bone.left_arm_2] run data modify entity @s item.tag.CustomModelData set value 33
+execute if entity @s[tag=aj.grey_guardian.bone.left_arm] run data modify entity @s item.tag.CustomModelData set value 34
+execute if entity @s[tag=aj.grey_guardian.bone.left_shoulder] run data modify entity @s item.tag.CustomModelData set value 35
+execute if entity @s[tag=aj.grey_guardian.bone.right_arm_2] run data modify entity @s item.tag.CustomModelData set value 36
+execute if entity @s[tag=aj.grey_guardian.bone.right_arm] run data modify entity @s item.tag.CustomModelData set value 37
+execute if entity @s[tag=aj.grey_guardian.bone.right_shoulder] run data modify entity @s item.tag.CustomModelData set value 38
+execute if entity @s[tag=aj.grey_guardian.bone.upper_body] run data modify entity @s item.tag.CustomModelData set value 39
+execute if entity @s[tag=aj.grey_guardian.bone.body] run data modify entity @s item.tag.CustomModelData set value 40

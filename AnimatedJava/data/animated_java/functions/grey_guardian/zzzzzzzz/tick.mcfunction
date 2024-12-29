@@ -1,0 +1,1 @@
+execute if entity @s[tag=aj.grey_guardian.root] run function animated_java:grey_guardian/zzzzzzzz/tick_as_root

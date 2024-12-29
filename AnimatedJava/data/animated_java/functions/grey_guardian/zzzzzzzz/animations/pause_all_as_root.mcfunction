@@ -1,0 +1,10 @@
+function animated_java:grey_guardian/zzzzzzzz/animations/wait/pause_as_root
+function animated_java:grey_guardian/zzzzzzzz/animations/summon/pause_as_root
+function animated_java:grey_guardian/zzzzzzzz/animations/move/pause_as_root
+function animated_java:grey_guardian/zzzzzzzz/animations/backstep/pause_as_root
+function animated_java:grey_guardian/zzzzzzzz/animations/attack1/pause_as_root
+function animated_java:grey_guardian/zzzzzzzz/animations/attack2/pause_as_root
+function animated_java:grey_guardian/zzzzzzzz/animations/attack3/pause_as_root
+function animated_java:grey_guardian/zzzzzzzz/animations/attack4/pause_as_root
+function animated_java:grey_guardian/zzzzzzzz/animations/attack5/pause_as_root
+function animated_java:grey_guardian/zzzzzzzz/animations/dead/pause_as_root
