@@ -1,0 +1,1 @@
+execute on passengers run function animated_java:convict/zzzzzzzz/animations/attack7_hard/tree/leaf_35_as_bone

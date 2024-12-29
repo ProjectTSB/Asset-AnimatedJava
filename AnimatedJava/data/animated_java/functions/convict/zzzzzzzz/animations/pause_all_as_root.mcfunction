@@ -1,0 +1,12 @@
+function animated_java:convict/zzzzzzzz/animations/wait/pause_as_root
+function animated_java:convict/zzzzzzzz/animations/dead/pause_as_root
+function animated_java:convict/zzzzzzzz/animations/summon/pause_as_root
+function animated_java:convict/zzzzzzzz/animations/attack1/pause_as_root
+function animated_java:convict/zzzzzzzz/animations/attack2/pause_as_root
+function animated_java:convict/zzzzzzzz/animations/attack3/pause_as_root
+function animated_java:convict/zzzzzzzz/animations/attack4/pause_as_root
+function animated_java:convict/zzzzzzzz/animations/attack5/pause_as_root
+function animated_java:convict/zzzzzzzz/animations/attack6_1/pause_as_root
+function animated_java:convict/zzzzzzzz/animations/attack6_2/pause_as_root
+function animated_java:convict/zzzzzzzz/animations/attack7/pause_as_root
+function animated_java:convict/zzzzzzzz/animations/attack7_hard/pause_as_root

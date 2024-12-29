@@ -1,0 +1,12 @@
+execute if entity @s[tag=aj.convict.animation.wait] run function animated_java:convict/zzzzzzzz/animations/wait/tick
+execute if entity @s[tag=aj.convict.animation.dead] run function animated_java:convict/zzzzzzzz/animations/dead/tick
+execute if entity @s[tag=aj.convict.animation.summon] run function animated_java:convict/zzzzzzzz/animations/summon/tick
+execute if entity @s[tag=aj.convict.animation.attack1] run function animated_java:convict/zzzzzzzz/animations/attack1/tick
+execute if entity @s[tag=aj.convict.animation.attack2] run function animated_java:convict/zzzzzzzz/animations/attack2/tick
+execute if entity @s[tag=aj.convict.animation.attack3] run function animated_java:convict/zzzzzzzz/animations/attack3/tick
+execute if entity @s[tag=aj.convict.animation.attack4] run function animated_java:convict/zzzzzzzz/animations/attack4/tick
+execute if entity @s[tag=aj.convict.animation.attack5] run function animated_java:convict/zzzzzzzz/animations/attack5/tick
+execute if entity @s[tag=aj.convict.animation.attack6_1] run function animated_java:convict/zzzzzzzz/animations/attack6_1/tick
+execute if entity @s[tag=aj.convict.animation.attack6_2] run function animated_java:convict/zzzzzzzz/animations/attack6_2/tick
+execute if entity @s[tag=aj.convict.animation.attack7] run function animated_java:convict/zzzzzzzz/animations/attack7/tick
+execute if entity @s[tag=aj.convict.animation.attack7_hard] run function animated_java:convict/zzzzzzzz/animations/attack7_hard/tick

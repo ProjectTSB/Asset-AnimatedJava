@@ -1,0 +1,1 @@
+execute if score @s aj.anim_time matches 0..107 run function animated_java:convict/zzzzzzzz/animations/attack7_hard/tree/branch_0_107
