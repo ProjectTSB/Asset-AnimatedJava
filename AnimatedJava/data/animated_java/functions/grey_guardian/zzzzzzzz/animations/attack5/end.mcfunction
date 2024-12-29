@@ -1,0 +1,3 @@
+execute if score @s aj.grey_guardian.animation.attack5.loop_mode = $aj.loop_mode.loop aj.i run function animated_java:grey_guardian/zzzzzzzz/animations/attack5/end_loop
+execute if score @s aj.grey_guardian.animation.attack5.loop_mode = $aj.loop_mode.once aj.i run function animated_java:grey_guardian/animations/attack5/stop
+execute if score @s aj.grey_guardian.animation.attack5.loop_mode = $aj.loop_mode.hold aj.i run function animated_java:grey_guardian/animations/attack5/pause

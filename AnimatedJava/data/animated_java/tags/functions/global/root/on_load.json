@@ -1,1 +1,6 @@
-{"values":["animated_java:tutankhamen/root/on_load"]}
+{
+    "values":[
+        "animated_java:tutankhamen/root/on_load",
+        "animated_java:grey_guardian/root/on_load"
+    ]
+}

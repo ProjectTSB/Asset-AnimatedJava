@@ -1,0 +1,1 @@
+execute if score @s aj.anim_time matches 0..94 run function animated_java:grey_guardian/zzzzzzzz/animations/dead/tree/branch_0_94

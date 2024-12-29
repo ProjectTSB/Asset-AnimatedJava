@@ -1,0 +1,3 @@
+execute if score @s aj.grey_guardian.animation.wait.loop_mode = $aj.loop_mode.loop aj.i run function animated_java:grey_guardian/zzzzzzzz/animations/wait/end_loop
+execute if score @s aj.grey_guardian.animation.wait.loop_mode = $aj.loop_mode.once aj.i run function animated_java:grey_guardian/animations/wait/stop
+execute if score @s aj.grey_guardian.animation.wait.loop_mode = $aj.loop_mode.hold aj.i run function animated_java:grey_guardian/animations/wait/pause

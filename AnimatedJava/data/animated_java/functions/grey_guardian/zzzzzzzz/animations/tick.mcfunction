@@ -1,0 +1,10 @@
+execute if entity @s[tag=aj.grey_guardian.animation.wait] run function animated_java:grey_guardian/zzzzzzzz/animations/wait/tick
+execute if entity @s[tag=aj.grey_guardian.animation.summon] run function animated_java:grey_guardian/zzzzzzzz/animations/summon/tick
+execute if entity @s[tag=aj.grey_guardian.animation.move] run function animated_java:grey_guardian/zzzzzzzz/animations/move/tick
+execute if entity @s[tag=aj.grey_guardian.animation.backstep] run function animated_java:grey_guardian/zzzzzzzz/animations/backstep/tick
+execute if entity @s[tag=aj.grey_guardian.animation.attack1] run function animated_java:grey_guardian/zzzzzzzz/animations/attack1/tick
+execute if entity @s[tag=aj.grey_guardian.animation.attack2] run function animated_java:grey_guardian/zzzzzzzz/animations/attack2/tick
+execute if entity @s[tag=aj.grey_guardian.animation.attack3] run function animated_java:grey_guardian/zzzzzzzz/animations/attack3/tick
+execute if entity @s[tag=aj.grey_guardian.animation.attack4] run function animated_java:grey_guardian/zzzzzzzz/animations/attack4/tick
+execute if entity @s[tag=aj.grey_guardian.animation.attack5] run function animated_java:grey_guardian/zzzzzzzz/animations/attack5/tick
+execute if entity @s[tag=aj.grey_guardian.animation.dead] run function animated_java:grey_guardian/zzzzzzzz/animations/dead/tick
