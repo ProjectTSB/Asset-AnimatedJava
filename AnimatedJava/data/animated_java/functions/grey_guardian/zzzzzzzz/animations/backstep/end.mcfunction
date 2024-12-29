@@ -1,3 +1,0 @@
-execute if score @s aj.grey_guardian.animation.backstep.loop_mode = $aj.loop_mode.loop aj.i run function animated_java:grey_guardian/zzzzzzzz/animations/backstep/end_loop
-execute if score @s aj.grey_guardian.animation.backstep.loop_mode = $aj.loop_mode.once aj.i run function animated_java:grey_guardian/animations/backstep/stop
-execute if score @s aj.grey_guardian.animation.backstep.loop_mode = $aj.loop_mode.hold aj.i run function animated_java:grey_guardian/animations/backstep/pause

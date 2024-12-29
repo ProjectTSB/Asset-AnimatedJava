@@ -1,1 +1,0 @@
-function animated_java:grey_guardian/zzzzzzzz/animations/attack3/tick_animation

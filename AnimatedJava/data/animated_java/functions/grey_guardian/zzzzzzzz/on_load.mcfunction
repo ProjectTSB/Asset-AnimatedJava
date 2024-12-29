@@ -1,2 +1,0 @@
-scoreboard players set @s aj.grey_guardian.rig_loaded 1
-execute unless score @s aj.grey_guardian.export_version = aj.grey_guardian.export_version aj.i at @s run function animated_java:grey_guardian/zzzzzzzz/mark_outdated_rig

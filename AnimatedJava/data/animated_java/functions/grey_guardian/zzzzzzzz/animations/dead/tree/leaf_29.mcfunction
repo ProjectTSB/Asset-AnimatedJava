@@ -1,1 +1,0 @@
-execute on passengers run function animated_java:grey_guardian/zzzzzzzz/animations/dead/tree/leaf_29_as_bone
