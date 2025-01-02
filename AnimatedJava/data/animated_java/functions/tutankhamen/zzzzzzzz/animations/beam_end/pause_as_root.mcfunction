@@ -1,0 +1,1 @@
+tag @s remove aj.tutankhamen.animation.beam_end

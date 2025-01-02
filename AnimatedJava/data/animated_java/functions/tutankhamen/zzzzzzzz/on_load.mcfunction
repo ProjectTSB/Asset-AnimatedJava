@@ -1,0 +1,2 @@
+scoreboard players set @s aj.tutankhamen.rig_loaded 1
+execute unless score @s aj.tutankhamen.export_version = aj.tutankhamen.export_version aj.i at @s run function animated_java:tutankhamen/zzzzzzzz/mark_outdated_rig

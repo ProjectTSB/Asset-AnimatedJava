@@ -1,0 +1,1 @@
+tag @s remove aj.tutankhamen.animation.attack_magic_2

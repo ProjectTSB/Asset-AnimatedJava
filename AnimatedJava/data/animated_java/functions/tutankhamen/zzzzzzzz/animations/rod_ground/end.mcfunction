@@ -1,0 +1,3 @@
+execute if score @s aj.tutankhamen.animation.rod_ground.loop_mode = $aj.loop_mode.loop aj.i run function animated_java:tutankhamen/zzzzzzzz/animations/rod_ground/end_loop
+execute if score @s aj.tutankhamen.animation.rod_ground.loop_mode = $aj.loop_mode.once aj.i run function animated_java:tutankhamen/animations/rod_ground/stop
+execute if score @s aj.tutankhamen.animation.rod_ground.loop_mode = $aj.loop_mode.hold aj.i run function animated_java:tutankhamen/animations/rod_ground/pause

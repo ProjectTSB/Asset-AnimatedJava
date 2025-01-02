@@ -1,0 +1,16 @@
+execute if entity @s[tag=aj.tutankhamen.bone.head] run data modify entity @s item.tag.CustomModelData set value 14
+execute if entity @s[tag=aj.tutankhamen.bone.back_cape] run data modify entity @s item.tag.CustomModelData set value 15
+execute if entity @s[tag=aj.tutankhamen.bone.left_hand] run data modify entity @s item.tag.CustomModelData set value 16
+execute if entity @s[tag=aj.tutankhamen.bone.cape_left_back] run data modify entity @s item.tag.CustomModelData set value 17
+execute if entity @s[tag=aj.tutankhamen.bone.cape_left_side] run data modify entity @s item.tag.CustomModelData set value 18
+execute if entity @s[tag=aj.tutankhamen.bone.left_arm] run data modify entity @s item.tag.CustomModelData set value 19
+execute if entity @s[tag=aj.tutankhamen.bone.cape_right_back] run data modify entity @s item.tag.CustomModelData set value 20
+execute if entity @s[tag=aj.tutankhamen.bone.cape_right] run data modify entity @s item.tag.CustomModelData set value 21
+execute if entity @s[tag=aj.tutankhamen.bone.weapon] run data modify entity @s item.tag.CustomModelData set value 22
+execute if entity @s[tag=aj.tutankhamen.bone.right_hand] run data modify entity @s item.tag.CustomModelData set value 23
+execute if entity @s[tag=aj.tutankhamen.bone.right_arm] run data modify entity @s item.tag.CustomModelData set value 24
+execute if entity @s[tag=aj.tutankhamen.bone.body] run data modify entity @s item.tag.CustomModelData set value 25
+execute if entity @s[tag=aj.tutankhamen.bone.left_foot] run data modify entity @s item.tag.CustomModelData set value 26
+execute if entity @s[tag=aj.tutankhamen.bone.left_leg] run data modify entity @s item.tag.CustomModelData set value 27
+execute if entity @s[tag=aj.tutankhamen.bone.right_foot] run data modify entity @s item.tag.CustomModelData set value 28
+execute if entity @s[tag=aj.tutankhamen.bone.right_leg] run data modify entity @s item.tag.CustomModelData set value 29
