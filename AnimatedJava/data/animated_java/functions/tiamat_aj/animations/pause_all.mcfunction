@@ -2,3 +2,4 @@
 execute unless entity @s[type=item_display,tag=aj.tiamat_aj.root] run return run function animated_java:global/errors/function_not_executed_as_root_entity {'export_namespace': 'tiamat_aj', 'function_path': 'animated_java:tiamat_aj/animations/pause_all'}
 tag @s remove aj.tiamat_aj.animation.pose.playing
 tag @s remove aj.tiamat_aj.animation.1_idle.playing
+tag @s remove aj.tiamat_aj.animation.1_idle2.playing

@@ -4,5 +4,6 @@ execute unless score @s aj.is_rig_loaded matches 1 run function #animated_java:g
 function #animated_java:tiamat_aj/as_root/pre_tick
 execute if entity @s[tag=aj.tiamat_aj.animation.pose.playing] run function animated_java:tiamat_aj/animations/pose/zzz/on_tick
 execute if entity @s[tag=aj.tiamat_aj.animation.1_idle.playing] run function animated_java:tiamat_aj/animations/1_idle/zzz/on_tick
+execute if entity @s[tag=aj.tiamat_aj.animation.1_idle2.playing] run function animated_java:tiamat_aj/animations/1_idle2/zzz/on_tick
 execute at @s on passengers run tp @s ~ ~ ~ ~ ~
 function #animated_java:tiamat_aj/as_root/post_tick
