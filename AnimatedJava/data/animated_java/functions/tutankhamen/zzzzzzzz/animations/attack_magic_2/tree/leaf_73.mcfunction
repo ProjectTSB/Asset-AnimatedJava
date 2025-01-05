@@ -1,0 +1,1 @@
+execute on passengers run function animated_java:tutankhamen/zzzzzzzz/animations/attack_magic_2/tree/leaf_73_as_bone

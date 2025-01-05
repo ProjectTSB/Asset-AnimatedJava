@@ -1,0 +1,1 @@
+execute if entity @s[tag=aj.tutankhamen.root] run function animated_java:tutankhamen/zzzzzzzz/tick_as_root
