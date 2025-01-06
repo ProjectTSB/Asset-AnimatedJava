@@ -1,0 +1,1 @@
+function animated_java:tutankhamen/zzzzzzzz/animations/rod_ground/tick_animation

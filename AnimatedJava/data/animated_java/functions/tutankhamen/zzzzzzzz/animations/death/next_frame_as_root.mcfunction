@@ -1,0 +1,1 @@
+function animated_java:tutankhamen/zzzzzzzz/animations/death/tick_animation
