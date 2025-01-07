@@ -1,1 +1,0 @@
-execute if score @s aj.anim_time matches 0..88 run function animated_java:tutankhamen/zzzzzzzz/animations/soul_shot/tree/branch_0_88

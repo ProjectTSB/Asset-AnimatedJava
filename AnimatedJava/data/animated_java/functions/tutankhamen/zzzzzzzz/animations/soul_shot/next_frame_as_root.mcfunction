@@ -1,1 +1,0 @@
-function animated_java:tutankhamen/zzzzzzzz/animations/soul_shot/tick_animation

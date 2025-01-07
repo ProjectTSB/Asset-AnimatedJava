@@ -1,1 +1,0 @@
-execute if score @s aj.anim_time matches 0..33 run function animated_java:tutankhamen/zzzzzzzz/animations/rod_ground_end/tree/branch_0_33

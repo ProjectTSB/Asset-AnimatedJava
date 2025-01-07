@@ -1,3 +1,0 @@
-execute if score @s aj.tutankhamen.animation.beam_wait.loop_mode = $aj.loop_mode.loop aj.i run function animated_java:tutankhamen/zzzzzzzz/animations/beam_wait/end_loop
-execute if score @s aj.tutankhamen.animation.beam_wait.loop_mode = $aj.loop_mode.once aj.i run function animated_java:tutankhamen/animations/beam_wait/stop
-execute if score @s aj.tutankhamen.animation.beam_wait.loop_mode = $aj.loop_mode.hold aj.i run function animated_java:tutankhamen/animations/beam_wait/pause
