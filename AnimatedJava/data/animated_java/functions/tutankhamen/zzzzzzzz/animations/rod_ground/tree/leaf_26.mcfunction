@@ -1,1 +1,0 @@
-execute on passengers run function animated_java:tutankhamen/zzzzzzzz/animations/rod_ground/tree/leaf_26_as_bone

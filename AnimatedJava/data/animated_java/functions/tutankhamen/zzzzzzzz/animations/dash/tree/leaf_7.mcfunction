@@ -1,1 +1,0 @@
-execute on passengers run function animated_java:tutankhamen/zzzzzzzz/animations/dash/tree/leaf_7_as_bone

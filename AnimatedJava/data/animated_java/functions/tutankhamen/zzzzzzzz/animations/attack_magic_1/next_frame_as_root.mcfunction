@@ -1,1 +1,0 @@
-function animated_java:tutankhamen/zzzzzzzz/animations/attack_magic_1/tick_animation
