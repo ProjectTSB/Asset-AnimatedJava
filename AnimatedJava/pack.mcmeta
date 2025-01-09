@@ -1,6 +1,14 @@
 {
-    "pack": {
-        "pack_format": 26,
-        "description": "AnimatedJava用のDatapack"
-    }
+	"pack": {
+		"pack_format": 26,
+		"description": "AnimatedJava用のDatapack"
+	},
+	"overlays": {
+		"entries": [
+			{
+				"directory": "animated_java",
+				"formats": 26
+			}
+		]
+	}
 }
