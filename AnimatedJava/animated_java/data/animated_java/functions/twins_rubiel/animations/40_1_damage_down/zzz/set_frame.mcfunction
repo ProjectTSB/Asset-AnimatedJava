@@ -29,4 +29,7 @@ $execute on passengers run data modify entity @s[tag=aj.twins_rubiel.bone.leg_le
 $execute on passengers run data modify entity @s[tag=aj.twins_rubiel.bone.saya_belt] {} merge from storage aj.twins_rubiel:animations 40_1_damage_down.$(frame).bone_saya_belt
 $execute on passengers run data modify entity @s[tag=aj.twins_rubiel.bone.saya] {} merge from storage aj.twins_rubiel:animations 40_1_damage_down.$(frame).bone_saya
 $execute on passengers run data modify entity @s[tag=aj.twins_rubiel.bone.body_1] {} merge from storage aj.twins_rubiel:animations 40_1_damage_down.$(frame).bone_body_1
+$execute if data storage aj.twins_rubiel:animations 40_1_damage_down.$(frame).variant unless entity @s[tag=aj.transforms_only] run data modify storage aj:temp variant set from storage aj.twins_rubiel:animations 40_1_damage_down.$(frame).variant
+$execute if data storage aj.twins_rubiel:animations 40_1_damage_down.$(frame).variant unless entity @s[tag=aj.transforms_only] run function animated_java:twins_rubiel/animations/40_1_damage_down/zzz/apply_variant with storage aj:temp variant
+$execute if data storage aj.twins_rubiel:animations 40_1_damage_down.$(frame).variant unless entity @s[tag=aj.transforms_only] run data remove storage aj:temp variant
 execute on passengers run data modify entity @s[type=!marker] start_interpolation set value -1

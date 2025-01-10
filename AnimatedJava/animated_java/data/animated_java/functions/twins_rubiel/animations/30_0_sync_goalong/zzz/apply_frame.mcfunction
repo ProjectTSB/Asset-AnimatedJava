@@ -29,3 +29,6 @@ $execute on passengers if entity @s[tag=aj.twins_rubiel.bone.leg_left_0] run dat
 $execute on passengers if entity @s[tag=aj.twins_rubiel.bone.saya_belt] run data modify entity @s {} merge from storage aj.twins_rubiel:animations 30_0_sync_goalong.$(frame).bone_saya_belt
 $execute on passengers if entity @s[tag=aj.twins_rubiel.bone.saya] run data modify entity @s {} merge from storage aj.twins_rubiel:animations 30_0_sync_goalong.$(frame).bone_saya
 $execute on passengers if entity @s[tag=aj.twins_rubiel.bone.body_1] run data modify entity @s {} merge from storage aj.twins_rubiel:animations 30_0_sync_goalong.$(frame).bone_body_1
+$execute if data storage aj.twins_rubiel:animations 30_0_sync_goalong.$(frame).variant unless entity @s[tag=aj.transforms_only] run data modify storage aj:temp variant set from storage aj.twins_rubiel:animations 30_0_sync_goalong.$(frame).variant
+$execute if data storage aj.twins_rubiel:animations 30_0_sync_goalong.$(frame).variant unless entity @s[tag=aj.transforms_only] run function animated_java:twins_rubiel/animations/30_0_sync_goalong/zzz/apply_variant with storage aj:temp variant
+$execute if data storage aj.twins_rubiel:animations 30_0_sync_goalong.$(frame).variant unless entity @s[tag=aj.transforms_only] run data remove storage aj:temp variant

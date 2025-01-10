@@ -38,8 +38,6 @@ tag @s remove aj.twins_rubiel.animation.13_1_scythe_warp_1_slash.playing
 tag @s remove aj.twins_rubiel.animation.13_2_scythe_warp_2_upper.playing
 tag @s remove aj.twins_rubiel.animation.13_3_scythe_warp_3_throw.playing
 tag @s remove aj.twins_rubiel.animation.13_4_scythe_warp_4_end.playing
-tag @s remove aj.twins_rubiel.animation.new.playing
-tag @s remove aj.twins_rubiel.animation.6_2_katana_sheathe_iai.playing
 tag @s remove aj.twins_rubiel.animation.30_0_sync_goalong.playing
 tag @s remove aj.twins_rubiel.animation.31_0_sync_crossfire_0.playing
 tag @s remove aj.twins_rubiel.animation.31_1_sync_crossfire_1.playing
