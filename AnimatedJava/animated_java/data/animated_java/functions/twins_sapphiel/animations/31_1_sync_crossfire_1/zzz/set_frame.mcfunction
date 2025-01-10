@@ -35,4 +35,7 @@ $execute on passengers run data modify entity @s[tag=aj.twins_sapphiel.bone.belt
 $execute on passengers run data modify entity @s[tag=aj.twins_sapphiel.bone.belt_left_1] {} merge from storage aj.twins_sapphiel:animations 31_1_sync_crossfire_1.$(frame).bone_belt_left_1
 $execute on passengers run data modify entity @s[tag=aj.twins_sapphiel.bone.belt_left_0] {} merge from storage aj.twins_sapphiel:animations 31_1_sync_crossfire_1.$(frame).bone_belt_left_0
 $execute on passengers run data modify entity @s[tag=aj.twins_sapphiel.bone.body_1] {} merge from storage aj.twins_sapphiel:animations 31_1_sync_crossfire_1.$(frame).bone_body_1
+$execute if data storage aj.twins_sapphiel:animations 31_1_sync_crossfire_1.$(frame).variant unless entity @s[tag=aj.transforms_only] run data modify storage aj:temp variant set from storage aj.twins_sapphiel:animations 31_1_sync_crossfire_1.$(frame).variant
+$execute if data storage aj.twins_sapphiel:animations 31_1_sync_crossfire_1.$(frame).variant unless entity @s[tag=aj.transforms_only] run function animated_java:twins_sapphiel/animations/31_1_sync_crossfire_1/zzz/apply_variant with storage aj:temp variant
+$execute if data storage aj.twins_sapphiel:animations 31_1_sync_crossfire_1.$(frame).variant unless entity @s[tag=aj.transforms_only] run data remove storage aj:temp variant
 execute on passengers run data modify entity @s[type=!marker] start_interpolation set value -1

@@ -35,3 +35,6 @@ $execute on passengers if entity @s[tag=aj.twins_sapphiel.bone.belt_right_0] run
 $execute on passengers if entity @s[tag=aj.twins_sapphiel.bone.belt_left_1] run data modify entity @s {} merge from storage aj.twins_sapphiel:animations 5_2_hg_kickcombo.$(frame).bone_belt_left_1
 $execute on passengers if entity @s[tag=aj.twins_sapphiel.bone.belt_left_0] run data modify entity @s {} merge from storage aj.twins_sapphiel:animations 5_2_hg_kickcombo.$(frame).bone_belt_left_0
 $execute on passengers if entity @s[tag=aj.twins_sapphiel.bone.body_1] run data modify entity @s {} merge from storage aj.twins_sapphiel:animations 5_2_hg_kickcombo.$(frame).bone_body_1
+$execute if data storage aj.twins_sapphiel:animations 5_2_hg_kickcombo.$(frame).variant unless entity @s[tag=aj.transforms_only] run data modify storage aj:temp variant set from storage aj.twins_sapphiel:animations 5_2_hg_kickcombo.$(frame).variant
+$execute if data storage aj.twins_sapphiel:animations 5_2_hg_kickcombo.$(frame).variant unless entity @s[tag=aj.transforms_only] run function animated_java:twins_sapphiel/animations/5_2_hg_kickcombo/zzz/apply_variant with storage aj:temp variant
+$execute if data storage aj.twins_sapphiel:animations 5_2_hg_kickcombo.$(frame).variant unless entity @s[tag=aj.transforms_only] run data remove storage aj:temp variant
