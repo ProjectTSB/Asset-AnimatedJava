@@ -29,6 +29,7 @@ execute if entity @s[tag=aj.heiloang_aj.animation.10_1_power_breath.playing] run
 execute if entity @s[tag=aj.heiloang_aj.animation.10_2_power_breath_continue_1.playing] run function animated_java:heiloang_aj/animations/10_2_power_breath_continue_1/zzz/on_tick
 execute if entity @s[tag=aj.heiloang_aj.animation.10_3_power_breath_continue_2.playing] run function animated_java:heiloang_aj/animations/10_3_power_breath_continue_2/zzz/on_tick
 execute if entity @s[tag=aj.heiloang_aj.animation.10_4_power_breath_continue_end.playing] run function animated_java:heiloang_aj/animations/10_4_power_breath_continue_end/zzz/on_tick
+execute if entity @s[tag=aj.heiloang_aj.animation.11_damage.playing] run function animated_java:heiloang_aj/animations/11_damage/zzz/on_tick
 execute if entity @s[tag=aj.heiloang_aj.animation.99_disaster_cast.playing] run function animated_java:heiloang_aj/animations/99_disaster_cast/zzz/on_tick
 execute if entity @s[tag=aj.heiloang_aj.animation.99_disaster.playing] run function animated_java:heiloang_aj/animations/99_disaster/zzz/on_tick
 execute on passengers if entity @s[tag=aj.heiloang_aj.data] run function animated_java:heiloang_aj/root/zzz/1

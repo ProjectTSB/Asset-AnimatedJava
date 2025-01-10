@@ -27,5 +27,6 @@ tag @s remove aj.heiloang_aj.animation.10_1_power_breath.playing
 tag @s remove aj.heiloang_aj.animation.10_2_power_breath_continue_1.playing
 tag @s remove aj.heiloang_aj.animation.10_3_power_breath_continue_2.playing
 tag @s remove aj.heiloang_aj.animation.10_4_power_breath_continue_end.playing
+tag @s remove aj.heiloang_aj.animation.11_damage.playing
 tag @s remove aj.heiloang_aj.animation.99_disaster_cast.playing
 tag @s remove aj.heiloang_aj.animation.99_disaster.playing
