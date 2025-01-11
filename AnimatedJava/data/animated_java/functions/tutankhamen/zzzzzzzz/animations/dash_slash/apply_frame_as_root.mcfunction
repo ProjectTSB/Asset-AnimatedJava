@@ -1,1 +1,0 @@
-execute if score @s aj.anim_time matches 0..65 run function animated_java:tutankhamen/zzzzzzzz/animations/dash_slash/tree/branch_0_65

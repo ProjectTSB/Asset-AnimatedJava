@@ -1,1 +1,0 @@
-function animated_java:tutankhamen/zzzzzzzz/animations/dash/tick_animation

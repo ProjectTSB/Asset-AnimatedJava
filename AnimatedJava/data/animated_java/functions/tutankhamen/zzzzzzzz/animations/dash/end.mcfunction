@@ -1,3 +1,0 @@
-execute if score @s aj.tutankhamen.animation.dash.loop_mode = $aj.loop_mode.loop aj.i run function animated_java:tutankhamen/zzzzzzzz/animations/dash/end_loop
-execute if score @s aj.tutankhamen.animation.dash.loop_mode = $aj.loop_mode.once aj.i run function animated_java:tutankhamen/animations/dash/stop
-execute if score @s aj.tutankhamen.animation.dash.loop_mode = $aj.loop_mode.hold aj.i run function animated_java:tutankhamen/animations/dash/pause
