@@ -3,7 +3,7 @@ execute store result storage aj:temp x int 1 store result score #this.x aj.i run
 execute store result storage aj:temp y int 1 store result score #this.y aj.i run data get entity @s Pos[1] 1
 execute store result storage aj:temp z int 1 store result score #this.z aj.i run data get entity @s Pos[2] 1
 function animated_java:grey_guardian/root/outdated_tellraw with storage aj:temp
-data modify entity @s data.rigHash set value '3ba7a463ee519baf76b3bb48061eb16349bb2ec8bd1f11c27766a3cb8a704bbf'
+data modify entity @s data.rigHash set value 'bc88d0ad4db784bd53299f21cfd1dc361111e7180e3b38751e20c29efd83dc8d'
 execute on passengers run data merge entity @s {Glowing: 1b, glow_color_override: 16711680}
 summon minecraft:text_display ~ ~ ~ {Tags:['aj.rig_entity', 'aj.outdated_rig_text_display', 'aj.new'], text:'["",{"text":"This rig instance is outdated!\\nIt will not function correctly and should be removed or re-summoned.","color":"red"}]', billboard: "vertical", transformation:{translation:[0f,3f,0f],left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],scale:[1f,1f,1f]}}
 ride @e[type=minecraft:text_display,tag=aj.new,limit=1,distance=..0.01] mount @s
