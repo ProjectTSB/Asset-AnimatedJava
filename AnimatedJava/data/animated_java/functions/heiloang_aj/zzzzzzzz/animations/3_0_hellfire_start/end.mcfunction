@@ -1,3 +1,0 @@
-execute if score @s aj.heiloang_aj.animation.3_0_hellfire_start.loop_mode = $aj.loop_mode.loop aj.i run function animated_java:heiloang_aj/zzzzzzzz/animations/3_0_hellfire_start/end_loop
-execute if score @s aj.heiloang_aj.animation.3_0_hellfire_start.loop_mode = $aj.loop_mode.once aj.i run function animated_java:heiloang_aj/animations/3_0_hellfire_start/stop
-execute if score @s aj.heiloang_aj.animation.3_0_hellfire_start.loop_mode = $aj.loop_mode.hold aj.i run function animated_java:heiloang_aj/animations/3_0_hellfire_start/pause

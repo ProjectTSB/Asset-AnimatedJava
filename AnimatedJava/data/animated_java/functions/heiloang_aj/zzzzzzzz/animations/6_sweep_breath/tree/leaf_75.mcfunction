@@ -1,1 +1,0 @@
-execute on passengers run function animated_java:heiloang_aj/zzzzzzzz/animations/6_sweep_breath/tree/leaf_75_as_bone

@@ -1,1 +1,0 @@
-tag @s remove aj.heiloang_aj.animation.6_sweep_breath

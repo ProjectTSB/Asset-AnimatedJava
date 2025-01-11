@@ -1,4 +1,0 @@
-summon minecraft:marker ~ ~ ~ {Tags:["aj.heiloang_aj.locator","aj.heiloang_aj.locator.locator_head","aj.new"],CustomName:"[{\"text\":\"[\",\"color\":\"gray\"},{\"text\":\"AJ\",\"color\":\"aqua\"},\"] \",[\"\",{\"text\":\"heiloang_aj\",\"color\":\"light_purple\"},\".\",{\"text\":\"locatorEntity\",\"color\":\"white\"},\"[\",{\"text\":\"locator_head\",\"color\":\"yellow\"},\"]\"]]"}
-execute as @e[type=minecraft:marker,tag=aj.heiloang_aj.locator.locator_head,tag=aj.new,limit=1,distance=..1] run function animated_java:heiloang_aj/zzzzzzzz/summon/locator_locator_head/as_entity
-data modify entity @s Owner set from storage animated_java Owner
-data remove storage animated_java Owner

@@ -1,3 +1,0 @@
-execute if score @s aj.anim_time matches 64..71 run function animated_java:heiloang_aj/zzzzzzzz/animations/7_3_dive_end/tree/branch_64_71
-execute if score @s aj.anim_time matches 72..79 run function animated_java:heiloang_aj/zzzzzzzz/animations/7_3_dive_end/tree/branch_72_79
-execute if score @s aj.anim_time matches 80..86 run function animated_java:heiloang_aj/zzzzzzzz/animations/7_3_dive_end/tree/branch_80_86

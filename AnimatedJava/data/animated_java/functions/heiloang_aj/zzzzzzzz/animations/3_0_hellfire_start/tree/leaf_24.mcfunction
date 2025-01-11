@@ -1,1 +1,0 @@
-execute on passengers run function animated_java:heiloang_aj/zzzzzzzz/animations/3_0_hellfire_start/tree/leaf_24_as_bone

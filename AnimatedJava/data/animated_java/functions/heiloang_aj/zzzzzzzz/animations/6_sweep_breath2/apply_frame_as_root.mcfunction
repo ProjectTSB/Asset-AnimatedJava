@@ -1,1 +1,0 @@
-execute if score @s aj.anim_time matches 0..105 run function animated_java:heiloang_aj/zzzzzzzz/animations/6_sweep_breath2/tree/branch_0_105
