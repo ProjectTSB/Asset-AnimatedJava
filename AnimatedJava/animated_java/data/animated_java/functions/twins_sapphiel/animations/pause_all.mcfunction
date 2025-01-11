@@ -40,3 +40,4 @@ tag @s remove aj.twins_sapphiel.animation.40_2_damage_end.playing
 tag @s remove aj.twins_sapphiel.animation.40_3_damage_stun_start.playing
 tag @s remove aj.twins_sapphiel.animation.40_4_damage_stun.playing
 tag @s remove aj.twins_sapphiel.animation.41_0_cover.playing
+tag @s remove aj.twins_sapphiel.animation.42_escape.playing

@@ -42,5 +42,6 @@ execute if entity @s[tag=aj.twins_sapphiel.animation.40_2_damage_end.playing] ru
 execute if entity @s[tag=aj.twins_sapphiel.animation.40_3_damage_stun_start.playing] run function animated_java:twins_sapphiel/animations/40_3_damage_stun_start/zzz/on_tick
 execute if entity @s[tag=aj.twins_sapphiel.animation.40_4_damage_stun.playing] run function animated_java:twins_sapphiel/animations/40_4_damage_stun/zzz/on_tick
 execute if entity @s[tag=aj.twins_sapphiel.animation.41_0_cover.playing] run function animated_java:twins_sapphiel/animations/41_0_cover/zzz/on_tick
+execute if entity @s[tag=aj.twins_sapphiel.animation.42_escape.playing] run function animated_java:twins_sapphiel/animations/42_escape/zzz/on_tick
 execute at @s on passengers run tp @s ~ ~ ~ ~ ~
 function #animated_java:twins_sapphiel/as_root/post_tick

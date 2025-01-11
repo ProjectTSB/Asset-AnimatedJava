@@ -51,5 +51,6 @@ execute if entity @s[tag=aj.twins_rubiel.animation.40_2_damage_end.playing] run 
 execute if entity @s[tag=aj.twins_rubiel.animation.40_3_damage_stun_start.playing] run function animated_java:twins_rubiel/animations/40_3_damage_stun_start/zzz/on_tick
 execute if entity @s[tag=aj.twins_rubiel.animation.40_4_damage_stun.playing] run function animated_java:twins_rubiel/animations/40_4_damage_stun/zzz/on_tick
 execute if entity @s[tag=aj.twins_rubiel.animation.41_0_cover.playing] run function animated_java:twins_rubiel/animations/41_0_cover/zzz/on_tick
+execute if entity @s[tag=aj.twins_rubiel.animation.42_escape.playing] run function animated_java:twins_rubiel/animations/42_escape/zzz/on_tick
 execute at @s on passengers run tp @s ~ ~ ~ ~ ~
 function #animated_java:twins_rubiel/as_root/post_tick
