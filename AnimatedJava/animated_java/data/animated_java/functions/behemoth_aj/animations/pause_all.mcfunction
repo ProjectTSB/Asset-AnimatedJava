@@ -7,6 +7,7 @@ tag @s remove aj.behemoth_aj.animation.2_move.playing
 tag @s remove aj.behemoth_aj.animation.3_0_cast_start.playing
 tag @s remove aj.behemoth_aj.animation.3_1_casting.playing
 tag @s remove aj.behemoth_aj.animation.4_breath.playing
+tag @s remove aj.behemoth_aj.animation.4_breath_continue.playing
 tag @s remove aj.behemoth_aj.animation.5_flatten.playing
 tag @s remove aj.behemoth_aj.animation.6_0_flymove_start.playing
 tag @s remove aj.behemoth_aj.animation.6_1_flymove_end.playing

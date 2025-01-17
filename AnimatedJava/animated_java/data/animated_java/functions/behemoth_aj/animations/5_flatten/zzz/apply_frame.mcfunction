@@ -36,3 +36,4 @@ $execute on passengers if entity @s[tag=aj.behemoth_aj.bone.tail_2] run data mod
 $execute on passengers if entity @s[tag=aj.behemoth_aj.bone.tail_1] run data modify entity @s {} merge from storage aj.behemoth_aj:animations 5_flatten.$(frame).bone_tail_1
 $execute on passengers if entity @s[tag=aj.behemoth_aj.bone.tail_0] run data modify entity @s {} merge from storage aj.behemoth_aj:animations 5_flatten.$(frame).bone_tail_0
 $execute on passengers if entity @s[tag=aj.behemoth_aj.bone.body_1] run data modify entity @s {} merge from storage aj.behemoth_aj:animations 5_flatten.$(frame).bone_body_1
+$execute on passengers if entity @s[tag=aj.data] run data modify entity @s data.locators.pos_head merge from storage aj.behemoth_aj:animations 5_flatten.$(frame).locator_pos_head
