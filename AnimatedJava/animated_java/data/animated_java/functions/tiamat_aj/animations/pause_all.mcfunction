@@ -8,6 +8,7 @@ tag @s remove aj.tiamat_aj.animation.3_0_cast_start.playing
 tag @s remove aj.tiamat_aj.animation.3_1_casting.playing
 tag @s remove aj.tiamat_aj.animation.4_breath.playing
 tag @s remove aj.tiamat_aj.animation.5_deathwing.playing
+tag @s remove aj.tiamat_aj.animation.5_deathwing3.playing
 tag @s remove aj.tiamat_aj.animation.5_tailend.playing
 tag @s remove aj.tiamat_aj.animation.6_0_flymove_start.playing
 tag @s remove aj.tiamat_aj.animation.6_1_flymove_end.playing

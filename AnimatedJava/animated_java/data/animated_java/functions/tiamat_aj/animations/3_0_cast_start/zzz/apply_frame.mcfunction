@@ -37,3 +37,4 @@ $execute on passengers if entity @s[tag=aj.tiamat_aj.bone.tail_2] run data modif
 $execute on passengers if entity @s[tag=aj.tiamat_aj.bone.tail_1] run data modify entity @s {} merge from storage aj.tiamat_aj:animations 3_0_cast_start.$(frame).bone_tail_1
 $execute on passengers if entity @s[tag=aj.tiamat_aj.bone.tail_0] run data modify entity @s {} merge from storage aj.tiamat_aj:animations 3_0_cast_start.$(frame).bone_tail_0
 $execute on passengers if entity @s[tag=aj.tiamat_aj.bone.body_2] run data modify entity @s {} merge from storage aj.tiamat_aj:animations 3_0_cast_start.$(frame).bone_body_2
+$execute on passengers if entity @s[tag=aj.data] run data modify entity @s data.locators.pos_head merge from storage aj.tiamat_aj:animations 3_0_cast_start.$(frame).locator_pos_head

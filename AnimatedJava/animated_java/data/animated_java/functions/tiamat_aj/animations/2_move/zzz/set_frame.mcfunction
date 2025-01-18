@@ -37,4 +37,5 @@ $execute on passengers run data modify entity @s[tag=aj.tiamat_aj.bone.tail_2] {
 $execute on passengers run data modify entity @s[tag=aj.tiamat_aj.bone.tail_1] {} merge from storage aj.tiamat_aj:animations 2_move.$(frame).bone_tail_1
 $execute on passengers run data modify entity @s[tag=aj.tiamat_aj.bone.tail_0] {} merge from storage aj.tiamat_aj:animations 2_move.$(frame).bone_tail_0
 $execute on passengers run data modify entity @s[tag=aj.tiamat_aj.bone.body_2] {} merge from storage aj.tiamat_aj:animations 2_move.$(frame).bone_body_2
+$execute on passengers if entity @s[tag=aj.data] run data modify entity @s data.locators.pos_head merge from storage aj.tiamat_aj:animations 2_move.$(frame).locator_pos_head
 execute on passengers run data modify entity @s[type=!marker] start_interpolation set value -1
