@@ -14,6 +14,7 @@ execute if entity @s[tag=aj.behemoth_aj.animation.5_flatten.playing] run functio
 execute if entity @s[tag=aj.behemoth_aj.animation.6_0_flymove_start.playing] run function animated_java:behemoth_aj/animations/6_0_flymove_start/zzz/on_tick
 execute if entity @s[tag=aj.behemoth_aj.animation.6_1_flymove_end.playing] run function animated_java:behemoth_aj/animations/6_1_flymove_end/zzz/on_tick
 execute if entity @s[tag=aj.behemoth_aj.animation.7_dive.playing] run function animated_java:behemoth_aj/animations/7_dive/zzz/on_tick
+execute if entity @s[tag=aj.behemoth_aj.animation.7_dive2.playing] run function animated_java:behemoth_aj/animations/7_dive2/zzz/on_tick
 execute on passengers if entity @s[tag=aj.behemoth_aj.data] run function animated_java:behemoth_aj/root/zzz/1
 execute at @s on passengers run tp @s ~ ~ ~ ~ ~
 function #animated_java:behemoth_aj/as_root/post_tick

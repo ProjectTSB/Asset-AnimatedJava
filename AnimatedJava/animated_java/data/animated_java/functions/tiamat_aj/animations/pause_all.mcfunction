@@ -13,3 +13,4 @@ tag @s remove aj.tiamat_aj.animation.5_tailend.playing
 tag @s remove aj.tiamat_aj.animation.6_0_flymove_start.playing
 tag @s remove aj.tiamat_aj.animation.6_1_flymove_end.playing
 tag @s remove aj.tiamat_aj.animation.7_dive.playing
+tag @s remove aj.tiamat_aj.animation.7_dive2.playing
