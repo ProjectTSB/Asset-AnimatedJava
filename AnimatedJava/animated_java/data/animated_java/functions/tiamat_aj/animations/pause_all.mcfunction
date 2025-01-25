@@ -6,11 +6,15 @@ tag @s remove aj.tiamat_aj.animation.1_idle.playing
 tag @s remove aj.tiamat_aj.animation.2_move.playing
 tag @s remove aj.tiamat_aj.animation.3_0_cast_start.playing
 tag @s remove aj.tiamat_aj.animation.3_1_casting.playing
+tag @s remove aj.tiamat_aj.animation.3_2_cast_land_start.playing
+tag @s remove aj.tiamat_aj.animation.3_3_casting_land.playing
+tag @s remove aj.tiamat_aj.animation.3_4_cast_fly2land_start.playing
 tag @s remove aj.tiamat_aj.animation.4_breath.playing
 tag @s remove aj.tiamat_aj.animation.5_deathwing.playing
-tag @s remove aj.tiamat_aj.animation.5_deathwing3.playing
 tag @s remove aj.tiamat_aj.animation.5_tailend.playing
 tag @s remove aj.tiamat_aj.animation.6_0_flymove_start.playing
 tag @s remove aj.tiamat_aj.animation.6_1_flymove_end.playing
 tag @s remove aj.tiamat_aj.animation.7_dive.playing
-tag @s remove aj.tiamat_aj.animation.7_dive2.playing
+tag @s remove aj.tiamat_aj.animation.8_spin.playing
+tag @s remove aj.tiamat_aj.animation.9_roar.playing
+tag @s remove aj.tiamat_aj.animation.10_land.playing

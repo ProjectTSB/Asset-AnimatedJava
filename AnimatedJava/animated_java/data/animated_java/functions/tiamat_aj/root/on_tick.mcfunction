@@ -8,14 +8,18 @@ execute if entity @s[tag=aj.tiamat_aj.animation.1_idle.playing] run function ani
 execute if entity @s[tag=aj.tiamat_aj.animation.2_move.playing] run function animated_java:tiamat_aj/animations/2_move/zzz/on_tick
 execute if entity @s[tag=aj.tiamat_aj.animation.3_0_cast_start.playing] run function animated_java:tiamat_aj/animations/3_0_cast_start/zzz/on_tick
 execute if entity @s[tag=aj.tiamat_aj.animation.3_1_casting.playing] run function animated_java:tiamat_aj/animations/3_1_casting/zzz/on_tick
+execute if entity @s[tag=aj.tiamat_aj.animation.3_2_cast_land_start.playing] run function animated_java:tiamat_aj/animations/3_2_cast_land_start/zzz/on_tick
+execute if entity @s[tag=aj.tiamat_aj.animation.3_3_casting_land.playing] run function animated_java:tiamat_aj/animations/3_3_casting_land/zzz/on_tick
+execute if entity @s[tag=aj.tiamat_aj.animation.3_4_cast_fly2land_start.playing] run function animated_java:tiamat_aj/animations/3_4_cast_fly2land_start/zzz/on_tick
 execute if entity @s[tag=aj.tiamat_aj.animation.4_breath.playing] run function animated_java:tiamat_aj/animations/4_breath/zzz/on_tick
 execute if entity @s[tag=aj.tiamat_aj.animation.5_deathwing.playing] run function animated_java:tiamat_aj/animations/5_deathwing/zzz/on_tick
-execute if entity @s[tag=aj.tiamat_aj.animation.5_deathwing3.playing] run function animated_java:tiamat_aj/animations/5_deathwing3/zzz/on_tick
 execute if entity @s[tag=aj.tiamat_aj.animation.5_tailend.playing] run function animated_java:tiamat_aj/animations/5_tailend/zzz/on_tick
 execute if entity @s[tag=aj.tiamat_aj.animation.6_0_flymove_start.playing] run function animated_java:tiamat_aj/animations/6_0_flymove_start/zzz/on_tick
 execute if entity @s[tag=aj.tiamat_aj.animation.6_1_flymove_end.playing] run function animated_java:tiamat_aj/animations/6_1_flymove_end/zzz/on_tick
 execute if entity @s[tag=aj.tiamat_aj.animation.7_dive.playing] run function animated_java:tiamat_aj/animations/7_dive/zzz/on_tick
-execute if entity @s[tag=aj.tiamat_aj.animation.7_dive2.playing] run function animated_java:tiamat_aj/animations/7_dive2/zzz/on_tick
+execute if entity @s[tag=aj.tiamat_aj.animation.8_spin.playing] run function animated_java:tiamat_aj/animations/8_spin/zzz/on_tick
+execute if entity @s[tag=aj.tiamat_aj.animation.9_roar.playing] run function animated_java:tiamat_aj/animations/9_roar/zzz/on_tick
+execute if entity @s[tag=aj.tiamat_aj.animation.10_land.playing] run function animated_java:tiamat_aj/animations/10_land/zzz/on_tick
 execute on passengers if entity @s[tag=aj.tiamat_aj.data] run function animated_java:tiamat_aj/root/zzz/1
 execute at @s on passengers run tp @s ~ ~ ~ ~ ~
 function #animated_java:tiamat_aj/as_root/post_tick
