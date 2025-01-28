@@ -17,4 +17,4 @@ tag @s remove aj.tiamat_aj.animation.6_1_flymove_end.playing
 tag @s remove aj.tiamat_aj.animation.7_dive.playing
 tag @s remove aj.tiamat_aj.animation.8_spin.playing
 tag @s remove aj.tiamat_aj.animation.9_roar.playing
-tag @s remove aj.tiamat_aj.animation.10_land.playing
+tag @s remove aj.tiamat_aj.animation.10_attack.playing

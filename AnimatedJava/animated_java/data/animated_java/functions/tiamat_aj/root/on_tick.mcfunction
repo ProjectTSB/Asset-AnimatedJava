@@ -19,7 +19,7 @@ execute if entity @s[tag=aj.tiamat_aj.animation.6_1_flymove_end.playing] run fun
 execute if entity @s[tag=aj.tiamat_aj.animation.7_dive.playing] run function animated_java:tiamat_aj/animations/7_dive/zzz/on_tick
 execute if entity @s[tag=aj.tiamat_aj.animation.8_spin.playing] run function animated_java:tiamat_aj/animations/8_spin/zzz/on_tick
 execute if entity @s[tag=aj.tiamat_aj.animation.9_roar.playing] run function animated_java:tiamat_aj/animations/9_roar/zzz/on_tick
-execute if entity @s[tag=aj.tiamat_aj.animation.10_land.playing] run function animated_java:tiamat_aj/animations/10_land/zzz/on_tick
+execute if entity @s[tag=aj.tiamat_aj.animation.10_attack.playing] run function animated_java:tiamat_aj/animations/10_attack/zzz/on_tick
 execute on passengers if entity @s[tag=aj.tiamat_aj.data] run function animated_java:tiamat_aj/root/zzz/1
 execute at @s on passengers run tp @s ~ ~ ~ ~ ~
 function #animated_java:tiamat_aj/as_root/post_tick
