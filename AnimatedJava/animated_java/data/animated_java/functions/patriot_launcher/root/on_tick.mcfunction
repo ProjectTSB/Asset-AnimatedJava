@@ -6,5 +6,7 @@ execute if entity @s[tag=aj.patriot_launcher.animation.default.playing] run func
 execute if entity @s[tag=aj.patriot_launcher.animation.launch.playing] run function animated_java:patriot_launcher/animations/launch/zzz/on_tick
 execute if entity @s[tag=aj.patriot_launcher.animation.reload.playing] run function animated_java:patriot_launcher/animations/reload/zzz/on_tick
 execute if entity @s[tag=aj.patriot_launcher.animation.destroy.playing] run function animated_java:patriot_launcher/animations/destroy/zzz/on_tick
+execute if entity @s[tag=aj.patriot_launcher.animation.rotation.playing] run function animated_java:patriot_launcher/animations/rotation/zzz/on_tick
+execute if entity @s[tag=aj.patriot_launcher.animation.rotation_no_missile.playing] run function animated_java:patriot_launcher/animations/rotation_no_missile/zzz/on_tick
 execute at @s on passengers run tp @s ~ ~ ~ ~ ~
 function #animated_java:patriot_launcher/as_root/post_tick

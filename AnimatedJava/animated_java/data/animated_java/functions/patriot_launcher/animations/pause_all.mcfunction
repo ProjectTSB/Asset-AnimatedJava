@@ -4,3 +4,5 @@ tag @s remove aj.patriot_launcher.animation.default.playing
 tag @s remove aj.patriot_launcher.animation.launch.playing
 tag @s remove aj.patriot_launcher.animation.reload.playing
 tag @s remove aj.patriot_launcher.animation.destroy.playing
+tag @s remove aj.patriot_launcher.animation.rotation.playing
+tag @s remove aj.patriot_launcher.animation.rotation_no_missile.playing

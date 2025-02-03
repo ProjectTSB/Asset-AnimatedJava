@@ -3,8 +3,8 @@ function animated_java:global/internal/gu/convert_uuid_array_to_string with enti
 data modify entity @s data.bones.data_data set from storage aj:uuid main.out
 execute on vehicle on passengers if entity @s[tag=aj.patriot_launcher.bone.radar1] run function animated_java:global/internal/gu/convert_uuid_array_to_string with entity @s
 data modify entity @s data.bones.bone_radar1 set from storage aj:uuid main.out
-execute on vehicle on passengers if entity @s[tag=aj.patriot_launcher.bone.missile1] run function animated_java:global/internal/gu/convert_uuid_array_to_string with entity @s
-data modify entity @s data.bones.bone_missile1 set from storage aj:uuid main.out
+execute on vehicle on passengers if entity @s[tag=aj.patriot_launcher.bone.missile5] run function animated_java:global/internal/gu/convert_uuid_array_to_string with entity @s
+data modify entity @s data.bones.bone_missile5 set from storage aj:uuid main.out
 execute on vehicle on passengers if entity @s[tag=aj.patriot_launcher.bone.arm1] run function animated_java:global/internal/gu/convert_uuid_array_to_string with entity @s
 data modify entity @s data.bones.bone_arm1 set from storage aj:uuid main.out
 execute on vehicle on passengers if entity @s[tag=aj.patriot_launcher.bone.turret3] run function animated_java:global/internal/gu/convert_uuid_array_to_string with entity @s
