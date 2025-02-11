@@ -32,3 +32,4 @@ tag @s remove aj.heiloang_aj.animation.12_1_flymove_end.playing
 tag @s remove aj.heiloang_aj.animation.13_summon.playing
 tag @s remove aj.heiloang_aj.animation.99_disaster_cast.playing
 tag @s remove aj.heiloang_aj.animation.99_disaster.playing
+tag @s remove aj.heiloang_aj.animation.1_idle2.playing
