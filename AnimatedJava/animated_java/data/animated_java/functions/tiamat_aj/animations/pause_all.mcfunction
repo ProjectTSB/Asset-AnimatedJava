@@ -19,5 +19,3 @@ tag @s remove aj.tiamat_aj.animation.8_spin.playing
 tag @s remove aj.tiamat_aj.animation.9_roar.playing
 tag @s remove aj.tiamat_aj.animation.10_attack.playing
 tag @s remove aj.tiamat_aj.animation.11_death.playing
-tag @s remove aj.tiamat_aj.animation.11_death3.playing
-tag @s remove aj.tiamat_aj.animation.11_death2.playing
