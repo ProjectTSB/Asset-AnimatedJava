@@ -2,7 +2,6 @@
 execute unless entity @s[type=item_display,tag=aj.behemoth_aj.root] run return run function animated_java:global/errors/function_not_executed_as_root_entity {'export_namespace': 'behemoth_aj', 'function_path': 'animated_java:behemoth_aj/animations/pause_all'}
 tag @s remove aj.behemoth_aj.animation.pose.playing
 tag @s remove aj.behemoth_aj.animation.0_start.playing
-tag @s remove aj.behemoth_aj.animation.0_start2.playing
 tag @s remove aj.behemoth_aj.animation.1_idle.playing
 tag @s remove aj.behemoth_aj.animation.2_move.playing
 tag @s remove aj.behemoth_aj.animation.3_0_cast_start.playing

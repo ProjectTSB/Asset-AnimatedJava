@@ -4,7 +4,6 @@ execute unless score @s aj.is_rig_loaded matches 1 run function #animated_java:g
 function #animated_java:behemoth_aj/as_root/pre_tick
 execute if entity @s[tag=aj.behemoth_aj.animation.pose.playing] run function animated_java:behemoth_aj/animations/pose/zzz/on_tick
 execute if entity @s[tag=aj.behemoth_aj.animation.0_start.playing] run function animated_java:behemoth_aj/animations/0_start/zzz/on_tick
-execute if entity @s[tag=aj.behemoth_aj.animation.0_start2.playing] run function animated_java:behemoth_aj/animations/0_start2/zzz/on_tick
 execute if entity @s[tag=aj.behemoth_aj.animation.1_idle.playing] run function animated_java:behemoth_aj/animations/1_idle/zzz/on_tick
 execute if entity @s[tag=aj.behemoth_aj.animation.2_move.playing] run function animated_java:behemoth_aj/animations/2_move/zzz/on_tick
 execute if entity @s[tag=aj.behemoth_aj.animation.3_0_cast_start.playing] run function animated_java:behemoth_aj/animations/3_0_cast_start/zzz/on_tick
