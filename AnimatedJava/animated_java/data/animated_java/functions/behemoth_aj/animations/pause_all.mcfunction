@@ -17,3 +17,4 @@ tag @s remove aj.behemoth_aj.animation.9_death.playing
 tag @s remove aj.behemoth_aj.animation.10_0_blazing_start.playing
 tag @s remove aj.behemoth_aj.animation.10_1_blazing_cast.playing
 tag @s remove aj.behemoth_aj.animation.10_2_blazing_end.playing
+tag @s remove aj.behemoth_aj.animation.11_offering.playing

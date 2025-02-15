@@ -13,8 +13,11 @@ data modify entity @s data.locators.hitbox_2.uuid set from storage aj:uuid main.
 summon minecraft:slime ~ ~ ~ {Tags:['aj.new', 'aj.locator', 'aj.tiamat_aj.locator', 'aj.tiamat_aj.locator.hitbox_1']}
 execute as @e[type=minecraft:slime,tag=aj.new,tag=aj.locator,limit=1,distance=..0.01] run function animated_java:tiamat_aj/zzz/5
 data modify entity @s data.locators.hitbox_1.uuid set from storage aj:uuid main.out
-summon minecraft:slime ~ ~ ~ {Tags:['aj.new', 'aj.locator', 'aj.tiamat_aj.locator', 'aj.tiamat_aj.locator.hitbox_0']}
+summon minecraft:slime ~ ~ ~ {Tags:['aj.new', 'aj.locator', 'aj.tiamat_aj.locator', 'aj.tiamat_aj.locator.hitbox_5']}
 execute as @e[type=minecraft:slime,tag=aj.new,tag=aj.locator,limit=1,distance=..0.01] run function animated_java:tiamat_aj/zzz/6
+data modify entity @s data.locators.hitbox_5.uuid set from storage aj:uuid main.out
+summon minecraft:slime ~ ~ ~ {Tags:['aj.new', 'aj.locator', 'aj.tiamat_aj.locator', 'aj.tiamat_aj.locator.hitbox_0']}
+execute as @e[type=minecraft:slime,tag=aj.new,tag=aj.locator,limit=1,distance=..0.01] run function animated_java:tiamat_aj/zzz/7
 data modify entity @s data.locators.hitbox_0.uuid set from storage aj:uuid main.out
 execute on vehicle on passengers if entity @s[tag=aj.tiamat_aj.bone.head_lower] run function animated_java:global/internal/gu/convert_uuid_array_to_string with entity @s
 data modify entity @s data.bones.bone_head_lower set from storage aj:uuid main.out

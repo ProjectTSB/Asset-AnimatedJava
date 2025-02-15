@@ -3,4 +3,5 @@ function animated_java:tiamat_aj/remove/zzz/kill with entity @s data.locators.hi
 function animated_java:tiamat_aj/remove/zzz/kill with entity @s data.locators.hitbox_3
 function animated_java:tiamat_aj/remove/zzz/kill with entity @s data.locators.hitbox_2
 function animated_java:tiamat_aj/remove/zzz/kill with entity @s data.locators.hitbox_1
+function animated_java:tiamat_aj/remove/zzz/kill with entity @s data.locators.hitbox_5
 function animated_java:tiamat_aj/remove/zzz/kill with entity @s data.locators.hitbox_0

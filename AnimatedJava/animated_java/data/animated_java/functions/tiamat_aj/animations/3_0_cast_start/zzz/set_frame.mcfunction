@@ -41,6 +41,7 @@ $execute on passengers if entity @s[tag=aj.data] run data modify entity @s data.
 $execute on passengers if entity @s[tag=aj.data] run data modify entity @s data.locators.hitbox_3 merge from storage aj.tiamat_aj:animations 3_0_cast_start.$(frame).locator_hitbox_3
 $execute on passengers if entity @s[tag=aj.data] run data modify entity @s data.locators.hitbox_2 merge from storage aj.tiamat_aj:animations 3_0_cast_start.$(frame).locator_hitbox_2
 $execute on passengers if entity @s[tag=aj.data] run data modify entity @s data.locators.hitbox_1 merge from storage aj.tiamat_aj:animations 3_0_cast_start.$(frame).locator_hitbox_1
+$execute on passengers if entity @s[tag=aj.data] run data modify entity @s data.locators.hitbox_5 merge from storage aj.tiamat_aj:animations 3_0_cast_start.$(frame).locator_hitbox_5
 $execute on passengers if entity @s[tag=aj.data] run data modify entity @s data.locators.hitbox_0 merge from storage aj.tiamat_aj:animations 3_0_cast_start.$(frame).locator_hitbox_0
 $execute on passengers if entity @s[tag=aj.data] run data modify entity @s data.locators.pos_head merge from storage aj.tiamat_aj:animations 3_0_cast_start.$(frame).locator_pos_head
 execute on passengers run data modify entity @s[type=!marker] start_interpolation set value -1

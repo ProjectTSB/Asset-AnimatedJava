@@ -19,6 +19,7 @@ execute if entity @s[tag=aj.behemoth_aj.animation.9_death.playing] run function 
 execute if entity @s[tag=aj.behemoth_aj.animation.10_0_blazing_start.playing] run function animated_java:behemoth_aj/animations/10_0_blazing_start/zzz/on_tick
 execute if entity @s[tag=aj.behemoth_aj.animation.10_1_blazing_cast.playing] run function animated_java:behemoth_aj/animations/10_1_blazing_cast/zzz/on_tick
 execute if entity @s[tag=aj.behemoth_aj.animation.10_2_blazing_end.playing] run function animated_java:behemoth_aj/animations/10_2_blazing_end/zzz/on_tick
+execute if entity @s[tag=aj.behemoth_aj.animation.11_offering.playing] run function animated_java:behemoth_aj/animations/11_offering/zzz/on_tick
 execute on passengers if entity @s[tag=aj.behemoth_aj.data] run function animated_java:behemoth_aj/root/zzz/1
 execute at @s on passengers run tp @s ~ ~ ~ ~ ~
 function #animated_java:behemoth_aj/as_root/post_tick
