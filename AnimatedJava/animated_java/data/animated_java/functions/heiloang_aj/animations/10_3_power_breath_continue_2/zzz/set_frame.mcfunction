@@ -37,6 +37,7 @@ $execute on passengers run data modify entity @s[tag=aj.heiloang_aj.bone.tail_1]
 $execute on passengers run data modify entity @s[tag=aj.heiloang_aj.bone.tail_ring] {} merge from storage aj.heiloang_aj:animations 10_3_power_breath_continue_2.$(frame).bone_tail_ring
 $execute on passengers run data modify entity @s[tag=aj.heiloang_aj.bone.tail_0] {} merge from storage aj.heiloang_aj:animations 10_3_power_breath_continue_2.$(frame).bone_tail_0
 $execute on passengers run data modify entity @s[tag=aj.heiloang_aj.bone.body_1] {} merge from storage aj.heiloang_aj:animations 10_3_power_breath_continue_2.$(frame).bone_body_1
+$execute on passengers if entity @s[tag=aj.data] run data modify entity @s data.locators.locator_root merge from storage aj.heiloang_aj:animations 10_3_power_breath_continue_2.$(frame).locator_locator_root
 $execute on passengers if entity @s[tag=aj.data] run data modify entity @s data.locators.beam_start merge from storage aj.heiloang_aj:animations 10_3_power_breath_continue_2.$(frame).locator_beam_start
 $execute on passengers if entity @s[tag=aj.data] run data modify entity @s data.locators.beam_end merge from storage aj.heiloang_aj:animations 10_3_power_breath_continue_2.$(frame).locator_beam_end
 $execute on passengers if entity @s[tag=aj.data] run data modify entity @s data.locators.locator_head merge from storage aj.heiloang_aj:animations 10_3_power_breath_continue_2.$(frame).locator_locator_head

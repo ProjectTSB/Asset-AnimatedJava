@@ -37,6 +37,7 @@ $execute on passengers if entity @s[tag=aj.heiloang_aj.bone.tail_1] run data mod
 $execute on passengers if entity @s[tag=aj.heiloang_aj.bone.tail_ring] run data modify entity @s {} merge from storage aj.heiloang_aj:animations 9_2_plamet_dive.$(frame).bone_tail_ring
 $execute on passengers if entity @s[tag=aj.heiloang_aj.bone.tail_0] run data modify entity @s {} merge from storage aj.heiloang_aj:animations 9_2_plamet_dive.$(frame).bone_tail_0
 $execute on passengers if entity @s[tag=aj.heiloang_aj.bone.body_1] run data modify entity @s {} merge from storage aj.heiloang_aj:animations 9_2_plamet_dive.$(frame).bone_body_1
+$execute on passengers if entity @s[tag=aj.data] run data modify entity @s data.locators.locator_root merge from storage aj.heiloang_aj:animations 9_2_plamet_dive.$(frame).locator_locator_root
 $execute on passengers if entity @s[tag=aj.data] run data modify entity @s data.locators.beam_start merge from storage aj.heiloang_aj:animations 9_2_plamet_dive.$(frame).locator_beam_start
 $execute on passengers if entity @s[tag=aj.data] run data modify entity @s data.locators.beam_end merge from storage aj.heiloang_aj:animations 9_2_plamet_dive.$(frame).locator_beam_end
 $execute on passengers if entity @s[tag=aj.data] run data modify entity @s data.locators.locator_head merge from storage aj.heiloang_aj:animations 9_2_plamet_dive.$(frame).locator_locator_head

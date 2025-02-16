@@ -33,8 +33,7 @@ tag @s remove aj.heiloang_aj.animation.12_0_flymove_start.playing
 tag @s remove aj.heiloang_aj.animation.12_1_flymove_end.playing
 tag @s remove aj.heiloang_aj.animation.13_summon.playing
 tag @s remove aj.heiloang_aj.animation.14_awaken.playing
-tag @s remove aj.heiloang_aj.animation.14_awaken4.playing
-tag @s remove aj.heiloang_aj.animation.14_awaken3.playing
-tag @s remove aj.heiloang_aj.animation.14_awaken2.playing
+tag @s remove aj.heiloang_aj.animation.15_death.playing
+tag @s remove aj.heiloang_aj.animation.15_death2.playing
 tag @s remove aj.heiloang_aj.animation.99_disaster_cast.playing
 tag @s remove aj.heiloang_aj.animation.99_disaster.playing
