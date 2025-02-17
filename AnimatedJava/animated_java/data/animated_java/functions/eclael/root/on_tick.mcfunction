@@ -7,6 +7,7 @@ execute if entity @s[tag=aj.eclael.animation.0_1_former_idle_akubi.playing] run 
 execute if entity @s[tag=aj.eclael.animation.0_2_former_idle_sleep.playing] run function animated_java:eclael/animations/0_2_former_idle_sleep/zzz/on_tick
 execute if entity @s[tag=aj.eclael.animation.0_3_former_idle_bikkuri.playing] run function animated_java:eclael/animations/0_3_former_idle_bikkuri/zzz/on_tick
 execute if entity @s[tag=aj.eclael.animation.1_0_former_iai_start.playing] run function animated_java:eclael/animations/1_0_former_iai_start/zzz/on_tick
+execute if entity @s[tag=aj.eclael.animation.1_0_former_iai_start2.playing] run function animated_java:eclael/animations/1_0_former_iai_start2/zzz/on_tick
 execute if entity @s[tag=aj.eclael.animation.1_1_former_iai_move.playing] run function animated_java:eclael/animations/1_1_former_iai_move/zzz/on_tick
 execute if entity @s[tag=aj.eclael.animation.1_2_former_iai_attack.playing] run function animated_java:eclael/animations/1_2_former_iai_attack/zzz/on_tick
 execute if entity @s[tag=aj.eclael.animation.1_3_former_iai_damage.playing] run function animated_java:eclael/animations/1_3_former_iai_damage/zzz/on_tick

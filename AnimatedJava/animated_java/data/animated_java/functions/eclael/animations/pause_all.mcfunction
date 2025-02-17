@@ -5,6 +5,7 @@ tag @s remove aj.eclael.animation.0_1_former_idle_akubi.playing
 tag @s remove aj.eclael.animation.0_2_former_idle_sleep.playing
 tag @s remove aj.eclael.animation.0_3_former_idle_bikkuri.playing
 tag @s remove aj.eclael.animation.1_0_former_iai_start.playing
+tag @s remove aj.eclael.animation.1_0_former_iai_start2.playing
 tag @s remove aj.eclael.animation.1_1_former_iai_move.playing
 tag @s remove aj.eclael.animation.1_2_former_iai_attack.playing
 tag @s remove aj.eclael.animation.1_3_former_iai_damage.playing
