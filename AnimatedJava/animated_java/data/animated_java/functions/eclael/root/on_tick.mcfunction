@@ -10,6 +10,7 @@ execute if entity @s[tag=aj.eclael.animation.1_0_former_iai_start.playing] run f
 execute if entity @s[tag=aj.eclael.animation.1_1_former_iai_move.playing] run function animated_java:eclael/animations/1_1_former_iai_move/zzz/on_tick
 execute if entity @s[tag=aj.eclael.animation.1_2_former_iai_attack.playing] run function animated_java:eclael/animations/1_2_former_iai_attack/zzz/on_tick
 execute if entity @s[tag=aj.eclael.animation.1_3_former_iai_damage.playing] run function animated_java:eclael/animations/1_3_former_iai_damage/zzz/on_tick
+execute if entity @s[tag=aj.eclael.animation.1_3_former_iai_damage2.playing] run function animated_java:eclael/animations/1_3_former_iai_damage2/zzz/on_tick
 execute if entity @s[tag=aj.eclael.animation.2_0_former_slash_start.playing] run function animated_java:eclael/animations/2_0_former_slash_start/zzz/on_tick
 execute if entity @s[tag=aj.eclael.animation.2_1_former_slash_0.playing] run function animated_java:eclael/animations/2_1_former_slash_0/zzz/on_tick
 execute if entity @s[tag=aj.eclael.animation.2_2_former_slash_1.playing] run function animated_java:eclael/animations/2_2_former_slash_1/zzz/on_tick
@@ -79,6 +80,7 @@ execute if entity @s[tag=aj.eclael.animation.27_0_latter_thunderstorm.playing] r
 execute if entity @s[tag=aj.eclael.animation.28_0_latter_sorafune_start.playing] run function animated_java:eclael/animations/28_0_latter_sorafune_start/zzz/on_tick
 execute if entity @s[tag=aj.eclael.animation.29_0_phase_start.playing] run function animated_java:eclael/animations/29_0_phase_start/zzz/on_tick
 execute if entity @s[tag=aj.eclael.animation.30_0_phase_death.playing] run function animated_java:eclael/animations/30_0_phase_death/zzz/on_tick
+execute if entity @s[tag=aj.eclael.animation.31_0_field_thunder.playing] run function animated_java:eclael/animations/31_0_field_thunder/zzz/on_tick
 execute if entity @s[tag=aj.eclael.animation.99_pose.playing] run function animated_java:eclael/animations/99_pose/zzz/on_tick
 execute if entity @s[tag=aj.eclael.animation.99_invisible.playing] run function animated_java:eclael/animations/99_invisible/zzz/on_tick
 execute at @s on passengers run tp @s ~ ~ ~ ~ ~

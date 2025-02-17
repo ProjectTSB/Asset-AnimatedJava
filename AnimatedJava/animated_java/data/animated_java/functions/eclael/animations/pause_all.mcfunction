@@ -8,6 +8,7 @@ tag @s remove aj.eclael.animation.1_0_former_iai_start.playing
 tag @s remove aj.eclael.animation.1_1_former_iai_move.playing
 tag @s remove aj.eclael.animation.1_2_former_iai_attack.playing
 tag @s remove aj.eclael.animation.1_3_former_iai_damage.playing
+tag @s remove aj.eclael.animation.1_3_former_iai_damage2.playing
 tag @s remove aj.eclael.animation.2_0_former_slash_start.playing
 tag @s remove aj.eclael.animation.2_1_former_slash_0.playing
 tag @s remove aj.eclael.animation.2_2_former_slash_1.playing
@@ -77,5 +78,6 @@ tag @s remove aj.eclael.animation.27_0_latter_thunderstorm.playing
 tag @s remove aj.eclael.animation.28_0_latter_sorafune_start.playing
 tag @s remove aj.eclael.animation.29_0_phase_start.playing
 tag @s remove aj.eclael.animation.30_0_phase_death.playing
+tag @s remove aj.eclael.animation.31_0_field_thunder.playing
 tag @s remove aj.eclael.animation.99_pose.playing
 tag @s remove aj.eclael.animation.99_invisible.playing
