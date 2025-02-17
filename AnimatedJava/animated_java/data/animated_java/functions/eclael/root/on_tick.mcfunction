@@ -79,6 +79,7 @@ execute if entity @s[tag=aj.eclael.animation.26_0_phase_change.playing] run func
 execute if entity @s[tag=aj.eclael.animation.27_0_latter_thunderstorm.playing] run function animated_java:eclael/animations/27_0_latter_thunderstorm/zzz/on_tick
 execute if entity @s[tag=aj.eclael.animation.28_0_latter_sorafune_start.playing] run function animated_java:eclael/animations/28_0_latter_sorafune_start/zzz/on_tick
 execute if entity @s[tag=aj.eclael.animation.29_0_phase_start.playing] run function animated_java:eclael/animations/29_0_phase_start/zzz/on_tick
+execute if entity @s[tag=aj.eclael.animation.29_0_phase_start2.playing] run function animated_java:eclael/animations/29_0_phase_start2/zzz/on_tick
 execute if entity @s[tag=aj.eclael.animation.30_0_phase_death.playing] run function animated_java:eclael/animations/30_0_phase_death/zzz/on_tick
 execute if entity @s[tag=aj.eclael.animation.31_0_field_thunder.playing] run function animated_java:eclael/animations/31_0_field_thunder/zzz/on_tick
 execute if entity @s[tag=aj.eclael.animation.99_pose.playing] run function animated_java:eclael/animations/99_pose/zzz/on_tick

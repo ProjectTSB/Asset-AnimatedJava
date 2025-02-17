@@ -77,6 +77,7 @@ tag @s remove aj.eclael.animation.26_0_phase_change.playing
 tag @s remove aj.eclael.animation.27_0_latter_thunderstorm.playing
 tag @s remove aj.eclael.animation.28_0_latter_sorafune_start.playing
 tag @s remove aj.eclael.animation.29_0_phase_start.playing
+tag @s remove aj.eclael.animation.29_0_phase_start2.playing
 tag @s remove aj.eclael.animation.30_0_phase_death.playing
 tag @s remove aj.eclael.animation.31_0_field_thunder.playing
 tag @s remove aj.eclael.animation.99_pose.playing
