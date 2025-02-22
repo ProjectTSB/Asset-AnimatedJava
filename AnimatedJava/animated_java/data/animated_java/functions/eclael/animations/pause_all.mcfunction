@@ -3,9 +3,9 @@ execute unless entity @s[type=item_display,tag=aj.eclael.root] run return run fu
 tag @s remove aj.eclael.animation.0_0_former_idle_normal.playing
 tag @s remove aj.eclael.animation.0_1_former_idle_akubi.playing
 tag @s remove aj.eclael.animation.0_2_former_idle_sleep.playing
+tag @s remove aj.eclael.animation.0_2_former_idle_sleep_rare.playing
 tag @s remove aj.eclael.animation.0_3_former_idle_bikkuri.playing
 tag @s remove aj.eclael.animation.1_0_former_iai_start.playing
-tag @s remove aj.eclael.animation.1_0_former_iai_start2.playing
 tag @s remove aj.eclael.animation.1_1_former_iai_move.playing
 tag @s remove aj.eclael.animation.1_2_former_iai_attack.playing
 tag @s remove aj.eclael.animation.1_3_former_iai_damage.playing
@@ -24,7 +24,6 @@ tag @s remove aj.eclael.animation.4_3_former_upper_damage.playing
 tag @s remove aj.eclael.animation.4_4_former_upper_damage_end.playing
 tag @s remove aj.eclael.animation.5_0_former_magic.playing
 tag @s remove aj.eclael.animation.6_0_former_shortmagic.playing
-tag @s remove aj.eclael.animation.6_0_former_shortmagic2.playing
 tag @s remove aj.eclael.animation.10_0_latter_idle_normal.playing
 tag @s remove aj.eclael.animation.10_1_latter_idle_rare.playing
 tag @s remove aj.eclael.animation.11_0_latter_damage_0.playing
@@ -81,5 +80,18 @@ tag @s remove aj.eclael.animation.29_0_phase_start.playing
 tag @s remove aj.eclael.animation.29_0_phase_start2.playing
 tag @s remove aj.eclael.animation.30_0_phase_death.playing
 tag @s remove aj.eclael.animation.31_0_field_thunder.playing
+tag @s remove aj.eclael.animation.32_0_jump_start.playing
+tag @s remove aj.eclael.animation.32_1_jump_fall.playing
+tag @s remove aj.eclael.animation.32_1_jump_fall2.playing
+tag @s remove aj.eclael.animation.32_1_jump_spin.playing
+tag @s remove aj.eclael.animation.32_1_jump_spin3.playing
+tag @s remove aj.eclael.animation.33_1_moveslash_1.playing
+tag @s remove aj.eclael.animation.33_1_moveslash_6.playing
+tag @s remove aj.eclael.animation.33_1_moveslash_5.playing
+tag @s remove aj.eclael.animation.33_1_moveslash_4.playing
+tag @s remove aj.eclael.animation.33_1_moveslash_3.playing
+tag @s remove aj.eclael.animation.33_1_moveslash_2.playing
+tag @s remove aj.eclael.animation.32_1_jump_spin2.playing
 tag @s remove aj.eclael.animation.99_pose.playing
 tag @s remove aj.eclael.animation.99_invisible.playing
+tag @s remove aj.eclael.animation.new.playing
