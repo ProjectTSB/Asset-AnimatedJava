@@ -8,5 +8,7 @@ execute if entity @s[tag=aj.terrible_sonic_bomber.animation.wing_back.playing] r
 execute if entity @s[tag=aj.terrible_sonic_bomber.animation.roll_back.playing] run function animated_java:terrible_sonic_bomber/animations/roll_back/zzz/on_tick
 execute if entity @s[tag=aj.terrible_sonic_bomber.animation.wing_straight.playing] run function animated_java:terrible_sonic_bomber/animations/wing_straight/zzz/on_tick
 execute if entity @s[tag=aj.terrible_sonic_bomber.animation.destroy.playing] run function animated_java:terrible_sonic_bomber/animations/destroy/zzz/on_tick
+execute if entity @s[tag=aj.terrible_sonic_bomber.animation.roll_straight_and_wing_back.playing] run function animated_java:terrible_sonic_bomber/animations/roll_straight_and_wing_back/zzz/on_tick
+execute if entity @s[tag=aj.terrible_sonic_bomber.animation.roll_back_and_wing_straight.playing] run function animated_java:terrible_sonic_bomber/animations/roll_back_and_wing_straight/zzz/on_tick
 execute at @s on passengers run tp @s ~ ~ ~ ~ ~
 function #animated_java:terrible_sonic_bomber/as_root/post_tick

@@ -6,3 +6,5 @@ tag @s remove aj.terrible_sonic_bomber.animation.wing_back.playing
 tag @s remove aj.terrible_sonic_bomber.animation.roll_back.playing
 tag @s remove aj.terrible_sonic_bomber.animation.wing_straight.playing
 tag @s remove aj.terrible_sonic_bomber.animation.destroy.playing
+tag @s remove aj.terrible_sonic_bomber.animation.roll_straight_and_wing_back.playing
+tag @s remove aj.terrible_sonic_bomber.animation.roll_back_and_wing_straight.playing
