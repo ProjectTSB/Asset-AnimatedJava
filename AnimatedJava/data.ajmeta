@@ -4617,6 +4617,8 @@
 			"animated_java/data/animated_java/functions/tultaria/variants/face_eyeclose/apply.mcfunction",
 			"animated_java/data/animated_java/functions/tultaria/variants/face_eyehalf/zzz/0.mcfunction",
 			"animated_java/data/animated_java/functions/tultaria/variants/face_eyehalf/apply.mcfunction",
+			"animated_java/data/animated_java/functions/tultaria/variants/face_eyeopen/zzz/0.mcfunction",
+			"animated_java/data/animated_java/functions/tultaria/variants/face_eyeopen/apply.mcfunction",
 			"animated_java/data/animated_java/functions/tultaria/apply_default_pose.mcfunction",
 			"animated_java/data/animated_java/functions/tultaria/set_default_pose.mcfunction",
 			"animated_java/data/animated_java/tags/functions/tultaria/as_root/pre_tick.json",
