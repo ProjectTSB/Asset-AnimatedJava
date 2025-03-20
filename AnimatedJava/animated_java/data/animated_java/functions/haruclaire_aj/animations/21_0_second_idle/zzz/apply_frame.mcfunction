@@ -32,3 +32,7 @@ $execute on passengers if entity @s[tag=aj.haruclaire_aj.bone.hato_tail] run dat
 $execute on passengers if entity @s[tag=aj.haruclaire_aj.bone.hato_wing_right] run data modify entity @s {} merge from storage aj.haruclaire_aj:animations 21_0_second_idle.$(frame).bone_hato_wing_right
 $execute on passengers if entity @s[tag=aj.haruclaire_aj.bone.hato_wing_left] run data modify entity @s {} merge from storage aj.haruclaire_aj:animations 21_0_second_idle.$(frame).bone_hato_wing_left
 $execute on passengers if entity @s[tag=aj.haruclaire_aj.bone.hato_body] run data modify entity @s {} merge from storage aj.haruclaire_aj:animations 21_0_second_idle.$(frame).bone_hato_body
+$execute on passengers if entity @s[tag=aj.haruclaire_aj.bone.block_display] run data modify entity @s {} merge from storage aj.haruclaire_aj:animations 21_0_second_idle.$(frame).block_display_block_display
+$execute if data storage aj.haruclaire_aj:animations 21_0_second_idle.$(frame).variant unless entity @s[tag=aj.transforms_only] run data modify storage aj:temp variant set from storage aj.haruclaire_aj:animations 21_0_second_idle.$(frame).variant
+$execute if data storage aj.haruclaire_aj:animations 21_0_second_idle.$(frame).variant unless entity @s[tag=aj.transforms_only] run function animated_java:haruclaire_aj/animations/21_0_second_idle/zzz/apply_variant with storage aj:temp variant
+$execute if data storage aj.haruclaire_aj:animations 21_0_second_idle.$(frame).variant unless entity @s[tag=aj.transforms_only] run data remove storage aj:temp variant

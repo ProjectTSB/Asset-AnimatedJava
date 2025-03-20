@@ -32,3 +32,4 @@ $execute on passengers if entity @s[tag=aj.haruclaire_aj.bone.hato_tail] run dat
 $execute on passengers if entity @s[tag=aj.haruclaire_aj.bone.hato_wing_right] run data modify entity @s {} merge from storage aj.haruclaire_aj:animations 7_0_rod_icespear.$(frame).bone_hato_wing_right
 $execute on passengers if entity @s[tag=aj.haruclaire_aj.bone.hato_wing_left] run data modify entity @s {} merge from storage aj.haruclaire_aj:animations 7_0_rod_icespear.$(frame).bone_hato_wing_left
 $execute on passengers if entity @s[tag=aj.haruclaire_aj.bone.hato_body] run data modify entity @s {} merge from storage aj.haruclaire_aj:animations 7_0_rod_icespear.$(frame).bone_hato_body
+$execute on passengers if entity @s[tag=aj.haruclaire_aj.bone.block_display] run data modify entity @s {} merge from storage aj.haruclaire_aj:animations 7_0_rod_icespear.$(frame).block_display_block_display

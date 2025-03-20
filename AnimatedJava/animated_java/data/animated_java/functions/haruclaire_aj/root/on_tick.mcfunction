@@ -16,13 +16,19 @@ execute if entity @s[tag=aj.haruclaire_aj.animation.7_1_rod_iceray.playing] run 
 execute if entity @s[tag=aj.haruclaire_aj.animation.8_0_rod_punch.playing] run function animated_java:haruclaire_aj/animations/8_0_rod_punch/zzz/on_tick
 execute if entity @s[tag=aj.haruclaire_aj.animation.9_0_rod_laser.playing] run function animated_java:haruclaire_aj/animations/9_0_rod_laser/zzz/on_tick
 execute if entity @s[tag=aj.haruclaire_aj.animation.10_death.playing] run function animated_java:haruclaire_aj/animations/10_death/zzz/on_tick
-execute if entity @s[tag=aj.haruclaire_aj.animation.10_death3.playing] run function animated_java:haruclaire_aj/animations/10_death3/zzz/on_tick
-execute if entity @s[tag=aj.haruclaire_aj.animation.10_death2.playing] run function animated_java:haruclaire_aj/animations/10_death2/zzz/on_tick
 execute if entity @s[tag=aj.haruclaire_aj.animation.20_second_start.playing] run function animated_java:haruclaire_aj/animations/20_second_start/zzz/on_tick
 execute if entity @s[tag=aj.haruclaire_aj.animation.21_0_second_idle.playing] run function animated_java:haruclaire_aj/animations/21_0_second_idle/zzz/on_tick
 execute if entity @s[tag=aj.haruclaire_aj.animation.22_0_second_sword.playing] run function animated_java:haruclaire_aj/animations/22_0_second_sword/zzz/on_tick
 execute if entity @s[tag=aj.haruclaire_aj.animation.23_0_second_twin_laser_start.playing] run function animated_java:haruclaire_aj/animations/23_0_second_twin_laser_start/zzz/on_tick
 execute if entity @s[tag=aj.haruclaire_aj.animation.23_1_second_twin_laser_shooting.playing] run function animated_java:haruclaire_aj/animations/23_1_second_twin_laser_shooting/zzz/on_tick
 execute if entity @s[tag=aj.haruclaire_aj.animation.23_2_second_twin_laser_end.playing] run function animated_java:haruclaire_aj/animations/23_2_second_twin_laser_end/zzz/on_tick
+execute if entity @s[tag=aj.haruclaire_aj.animation.24_0_second_sword_line_first.playing] run function animated_java:haruclaire_aj/animations/24_0_second_sword_line_first/zzz/on_tick
+execute if entity @s[tag=aj.haruclaire_aj.animation.24_0_second_sword_line_short.playing] run function animated_java:haruclaire_aj/animations/24_0_second_sword_line_short/zzz/on_tick
+execute if entity @s[tag=aj.haruclaire_aj.animation.25_0_second_icebullet_duo.playing] run function animated_java:haruclaire_aj/animations/25_0_second_icebullet_duo/zzz/on_tick
+execute if entity @s[tag=aj.haruclaire_aj.animation.26_0_second_ice_cremation_first.playing] run function animated_java:haruclaire_aj/animations/26_0_second_ice_cremation_first/zzz/on_tick
+execute if entity @s[tag=aj.haruclaire_aj.animation.26_1_second_ice_cremation_short.playing] run function animated_java:haruclaire_aj/animations/26_1_second_ice_cremation_short/zzz/on_tick
+execute if entity @s[tag=aj.haruclaire_aj.animation.27_0_second_icepillar.playing] run function animated_java:haruclaire_aj/animations/27_0_second_icepillar/zzz/on_tick
+execute if entity @s[tag=aj.haruclaire_aj.animation.28_0_second_icewall.playing] run function animated_java:haruclaire_aj/animations/28_0_second_icewall/zzz/on_tick
+execute if entity @s[tag=aj.haruclaire_aj.animation.99_pose.playing] run function animated_java:haruclaire_aj/animations/99_pose/zzz/on_tick
 execute at @s on passengers run tp @s ~ ~ ~ ~ ~
 function #animated_java:haruclaire_aj/as_root/post_tick

@@ -32,4 +32,5 @@ $execute on passengers run data modify entity @s[tag=aj.haruclaire_aj.bone.hato_
 $execute on passengers run data modify entity @s[tag=aj.haruclaire_aj.bone.hato_wing_right] {} merge from storage aj.haruclaire_aj:animations 8_0_rod_punch.$(frame).bone_hato_wing_right
 $execute on passengers run data modify entity @s[tag=aj.haruclaire_aj.bone.hato_wing_left] {} merge from storage aj.haruclaire_aj:animations 8_0_rod_punch.$(frame).bone_hato_wing_left
 $execute on passengers run data modify entity @s[tag=aj.haruclaire_aj.bone.hato_body] {} merge from storage aj.haruclaire_aj:animations 8_0_rod_punch.$(frame).bone_hato_body
+$execute on passengers run data modify entity @s[tag=aj.haruclaire_aj.bone.block_display] {} merge from storage aj.haruclaire_aj:animations 8_0_rod_punch.$(frame).block_display_block_display
 execute on passengers run data modify entity @s[type=!marker] start_interpolation set value -1
