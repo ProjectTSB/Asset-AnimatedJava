@@ -72,6 +72,9 @@
             "id":"animated_java:patriot_launcher/root/on_tick",
             "required": false
         },
-        "animated_java:terrible_sonic_bomber/root/on_tick"
+        {
+            "id":"animated_java:terrible_sonic_bomber/root/on_tick",
+            "required": false
+        }
     ]
 }
