@@ -68,7 +68,10 @@
             "id":"animated_java:twins_sapphiel/on_load",
             "required": false
         },
-        "animated_java:patriot_launcher/on_load",
+        {
+            "id":"animated_java:patriot_launcher/on_load",
+            "required": false
+        },
         "animated_java:terrible_sonic_bomber/on_load"
     ]
 }
