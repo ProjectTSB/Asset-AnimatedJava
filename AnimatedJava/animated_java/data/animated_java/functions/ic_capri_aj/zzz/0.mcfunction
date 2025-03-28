@@ -9,5 +9,6 @@ tp @s ~ ~ ~ ~ ~
 execute at @s on passengers run tp @s ~ ~ ~ ~ ~
 data modify entity @s teleport_duration set value 1
 execute on passengers run data modify entity @s teleport_duration set value 1
-2159.Model
+tag @s add AK.IceCreature.Model
+tag @s add 2159.Model
 function #animated_java:ic_capri_aj/as_root/on_summon
