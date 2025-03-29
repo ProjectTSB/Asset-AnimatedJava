@@ -6,3 +6,4 @@ $execute on passengers if entity @s[tag=aj.ic_pisce_aj.bone.body3] run data modi
 $execute on passengers if entity @s[tag=aj.ic_pisce_aj.bone.tail_6] run data modify entity @s {} merge from storage aj.ic_pisce_aj:animations 1_idle.$(frame).bone_tail_6
 $execute on passengers if entity @s[tag=aj.ic_pisce_aj.bone.tail_5] run data modify entity @s {} merge from storage aj.ic_pisce_aj:animations 1_idle.$(frame).bone_tail_5
 $execute on passengers if entity @s[tag=aj.ic_pisce_aj.bone.root3] run data modify entity @s {} merge from storage aj.ic_pisce_aj:animations 1_idle.$(frame).bone_root3
+$execute on passengers if entity @s[tag=aj.data] run data modify entity @s data.locators.pos merge from storage aj.ic_pisce_aj:animations 1_idle.$(frame).locator_pos

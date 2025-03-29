@@ -4,4 +4,3 @@ tag @s remove aj.ic_pisce_aj.animation.pose.playing
 tag @s remove aj.ic_pisce_aj.animation.0_start.playing
 tag @s remove aj.ic_pisce_aj.animation.1_idle.playing
 tag @s remove aj.ic_pisce_aj.animation.2_attack.playing
-tag @s remove aj.ic_pisce_aj.animation.2_attack2.playing

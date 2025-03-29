@@ -6,6 +6,6 @@ execute if entity @s[tag=aj.ic_pisce_aj.animation.pose.playing] run function ani
 execute if entity @s[tag=aj.ic_pisce_aj.animation.0_start.playing] run function animated_java:ic_pisce_aj/animations/0_start/zzz/on_tick
 execute if entity @s[tag=aj.ic_pisce_aj.animation.1_idle.playing] run function animated_java:ic_pisce_aj/animations/1_idle/zzz/on_tick
 execute if entity @s[tag=aj.ic_pisce_aj.animation.2_attack.playing] run function animated_java:ic_pisce_aj/animations/2_attack/zzz/on_tick
-execute if entity @s[tag=aj.ic_pisce_aj.animation.2_attack2.playing] run function animated_java:ic_pisce_aj/animations/2_attack2/zzz/on_tick
+execute on passengers if entity @s[tag=aj.ic_pisce_aj.data] run function animated_java:ic_pisce_aj/root/zzz/1
 execute at @s on passengers run tp @s ~ ~ ~ ~ ~
 function #animated_java:ic_pisce_aj/as_root/post_tick

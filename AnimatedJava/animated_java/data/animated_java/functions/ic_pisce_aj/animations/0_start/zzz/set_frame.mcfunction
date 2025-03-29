@@ -6,4 +6,5 @@ $execute on passengers run data modify entity @s[tag=aj.ic_pisce_aj.bone.body3] 
 $execute on passengers run data modify entity @s[tag=aj.ic_pisce_aj.bone.tail_6] {} merge from storage aj.ic_pisce_aj:animations 0_start.$(frame).bone_tail_6
 $execute on passengers run data modify entity @s[tag=aj.ic_pisce_aj.bone.tail_5] {} merge from storage aj.ic_pisce_aj:animations 0_start.$(frame).bone_tail_5
 $execute on passengers run data modify entity @s[tag=aj.ic_pisce_aj.bone.root3] {} merge from storage aj.ic_pisce_aj:animations 0_start.$(frame).bone_root3
+$execute on passengers if entity @s[tag=aj.data] run data modify entity @s data.locators.pos merge from storage aj.ic_pisce_aj:animations 0_start.$(frame).locator_pos
 execute on passengers run data modify entity @s[type=!marker] start_interpolation set value -1
