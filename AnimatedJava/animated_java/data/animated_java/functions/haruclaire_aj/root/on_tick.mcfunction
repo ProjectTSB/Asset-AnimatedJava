@@ -30,6 +30,10 @@ execute if entity @s[tag=aj.haruclaire_aj.animation.26_1_second_ice_cremation_sh
 execute if entity @s[tag=aj.haruclaire_aj.animation.27_0_second_icepillar.playing] run function animated_java:haruclaire_aj/animations/27_0_second_icepillar/zzz/on_tick
 execute if entity @s[tag=aj.haruclaire_aj.animation.28_0_second_icewall.playing] run function animated_java:haruclaire_aj/animations/28_0_second_icewall/zzz/on_tick
 execute if entity @s[tag=aj.haruclaire_aj.animation.29_0_second_press.playing] run function animated_java:haruclaire_aj/animations/29_0_second_press/zzz/on_tick
+execute if entity @s[tag=aj.haruclaire_aj.animation.30_0_move_back.playing] run function animated_java:haruclaire_aj/animations/30_0_move_back/zzz/on_tick
+execute if entity @s[tag=aj.haruclaire_aj.animation.30_0_move_forward.playing] run function animated_java:haruclaire_aj/animations/30_0_move_forward/zzz/on_tick
+execute if entity @s[tag=aj.haruclaire_aj.animation.30_0_move_right.playing] run function animated_java:haruclaire_aj/animations/30_0_move_right/zzz/on_tick
+execute if entity @s[tag=aj.haruclaire_aj.animation.30_0_move_left.playing] run function animated_java:haruclaire_aj/animations/30_0_move_left/zzz/on_tick
 execute if entity @s[tag=aj.haruclaire_aj.animation.99_pose.playing] run function animated_java:haruclaire_aj/animations/99_pose/zzz/on_tick
 execute at @s on passengers run tp @s ~ ~ ~ ~ ~
 function #animated_java:haruclaire_aj/as_root/post_tick

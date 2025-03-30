@@ -28,4 +28,8 @@ tag @s remove aj.haruclaire_aj.animation.26_1_second_ice_cremation_short.playing
 tag @s remove aj.haruclaire_aj.animation.27_0_second_icepillar.playing
 tag @s remove aj.haruclaire_aj.animation.28_0_second_icewall.playing
 tag @s remove aj.haruclaire_aj.animation.29_0_second_press.playing
+tag @s remove aj.haruclaire_aj.animation.30_0_move_back.playing
+tag @s remove aj.haruclaire_aj.animation.30_0_move_forward.playing
+tag @s remove aj.haruclaire_aj.animation.30_0_move_right.playing
+tag @s remove aj.haruclaire_aj.animation.30_0_move_left.playing
 tag @s remove aj.haruclaire_aj.animation.99_pose.playing
