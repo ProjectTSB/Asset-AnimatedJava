@@ -1,1 +1,84 @@
-{"values":["animated_java:tutankhamen/root/on_tick"]}
+{
+    "values": [
+        {
+            "id":"animated_java:axia/root/on_tick",
+            "required": false
+        },
+        {
+            "id":"animated_java:blazing_inferno/root/on_tick",
+            "required": false
+        },
+        {
+            "id":"animated_java:convict/root/on_tick",
+            "required": false
+        },
+        {
+            "id":"animated_java:eclael/root/on_tick",
+            "required": false
+        },
+        {
+            "id":"animated_java:ecual/root/on_tick",
+            "required": false
+        },
+        {
+            "id":"animated_java:grey_guardian/root/on_tick",
+            "required": false
+        },
+        {
+            "id":"animated_java:haruclaire_aj/root/on_tick",
+            "required": false
+        },
+        {
+            "id":"animated_java:heiloang_aj/root/on_tick",
+            "required": false
+        },
+        {
+            "id":"animated_java:illusion_of_loyalty/root/on_tick",
+            "required": false
+        },
+        {
+            "id":"animated_java:labyria/root/on_tick",
+            "required": false
+        },
+        {
+            "id":"animated_java:lexiel/root/on_tick",
+            "required": false
+        },
+        {
+            "id":"animated_java:louvert/root/on_tick",
+            "required": false
+        },
+        {
+            "id":"animated_java:red_knight/root/on_tick",
+            "required": false
+        },
+        {
+            "id":"animated_java:tultaria/root/on_tick",
+            "required": false
+        },
+        {
+            "id":"animated_java:tutankhamen/root/on_tick",
+            "required": false
+        },
+        {
+            "id":"animated_java:twins_rubiel/root/on_tick",
+            "required": false
+        },
+        {
+            "id":"animated_java:twins_sapphiel/root/on_tick",
+            "required": false
+        },
+        {
+            "id":"animated_java:patriot_launcher/root/on_tick",
+            "required": false
+        },
+        {
+            "id":"animated_java:terrible_sonic_bomber/root/on_tick",
+            "required": false
+        },
+        {
+            "id":"animated_java:frestchika/root/on_tick",
+            "required": false
+        }
+    ]
+}
