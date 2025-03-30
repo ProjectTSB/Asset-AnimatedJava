@@ -75,6 +75,10 @@
         {
             "id":"animated_java:terrible_sonic_bomber/root/on_tick",
             "required": false
+        },
+        {
+            "id":"animated_java:frestchika/root/on_tick",
+            "required": false
         }
     ]
 }

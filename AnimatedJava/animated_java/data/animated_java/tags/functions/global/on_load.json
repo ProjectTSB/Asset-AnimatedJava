@@ -75,6 +75,10 @@
         {
             "id":"animated_java:terrible_sonic_bomber/on_load",
             "required": false
+        },
+        {
+            "id":"animated_java:frestchika/on_load",
+            "required": false
         }
     ]
 }
