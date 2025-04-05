@@ -32,3 +32,6 @@ $execute on passengers if entity @s[tag=aj.eclael.bone.skirt_right] run data mod
 $execute on passengers if entity @s[tag=aj.eclael.bone.skirt_left] run data modify entity @s {} merge from storage aj.eclael:animations 4_4_former_upper_damage_end.$(frame).bone_skirt_left
 $execute on passengers if entity @s[tag=aj.eclael.bone.sword_sheathe] run data modify entity @s {} merge from storage aj.eclael:animations 4_4_former_upper_damage_end.$(frame).bone_sword_sheathe
 $execute on passengers if entity @s[tag=aj.eclael.bone.body_1] run data modify entity @s {} merge from storage aj.eclael:animations 4_4_former_upper_damage_end.$(frame).bone_body_1
+$execute if data storage aj.eclael:animations 4_4_former_upper_damage_end.$(frame).variant unless entity @s[tag=aj.transforms_only] run data modify storage aj:temp variant set from storage aj.eclael:animations 4_4_former_upper_damage_end.$(frame).variant
+$execute if data storage aj.eclael:animations 4_4_former_upper_damage_end.$(frame).variant unless entity @s[tag=aj.transforms_only] run function animated_java:eclael/animations/4_4_former_upper_damage_end/zzz/apply_variant with storage aj:temp variant
+$execute if data storage aj.eclael:animations 4_4_former_upper_damage_end.$(frame).variant unless entity @s[tag=aj.transforms_only] run data remove storage aj:temp variant

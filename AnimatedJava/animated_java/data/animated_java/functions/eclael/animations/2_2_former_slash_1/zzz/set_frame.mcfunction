@@ -32,4 +32,7 @@ $execute on passengers run data modify entity @s[tag=aj.eclael.bone.skirt_right]
 $execute on passengers run data modify entity @s[tag=aj.eclael.bone.skirt_left] {} merge from storage aj.eclael:animations 2_2_former_slash_1.$(frame).bone_skirt_left
 $execute on passengers run data modify entity @s[tag=aj.eclael.bone.sword_sheathe] {} merge from storage aj.eclael:animations 2_2_former_slash_1.$(frame).bone_sword_sheathe
 $execute on passengers run data modify entity @s[tag=aj.eclael.bone.body_1] {} merge from storage aj.eclael:animations 2_2_former_slash_1.$(frame).bone_body_1
+$execute if data storage aj.eclael:animations 2_2_former_slash_1.$(frame).variant unless entity @s[tag=aj.transforms_only] run data modify storage aj:temp variant set from storage aj.eclael:animations 2_2_former_slash_1.$(frame).variant
+$execute if data storage aj.eclael:animations 2_2_former_slash_1.$(frame).variant unless entity @s[tag=aj.transforms_only] run function animated_java:eclael/animations/2_2_former_slash_1/zzz/apply_variant with storage aj:temp variant
+$execute if data storage aj.eclael:animations 2_2_former_slash_1.$(frame).variant unless entity @s[tag=aj.transforms_only] run data remove storage aj:temp variant
 execute on passengers run data modify entity @s[type=!marker] start_interpolation set value -1

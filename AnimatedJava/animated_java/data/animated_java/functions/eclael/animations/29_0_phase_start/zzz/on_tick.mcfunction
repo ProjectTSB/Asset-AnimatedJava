@@ -4,5 +4,5 @@ execute if score @s aj.tween_duration matches 1.. run return 1
 execute if score @s aj.tween_duration matches 0 on passengers run data modify entity @s interpolation_duration set value 1
 execute store result storage aj:temp frame int 1 run scoreboard players get @s aj.29_0_phase_start.frame
 function animated_java:eclael/animations/29_0_phase_start/zzz/apply_frame with storage aj:temp
-execute if score @s aj.29_0_phase_start.frame matches 100.. run return run function animated_java:eclael/animations/29_0_phase_start/pause
+execute if score @s aj.29_0_phase_start.frame matches 172.. run return run function animated_java:eclael/animations/29_0_phase_start/pause
 scoreboard players add @s aj.29_0_phase_start.frame 1
