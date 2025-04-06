@@ -9,6 +9,7 @@ tag @s remove aj.behemoth_aj.animation.3_1_casting.playing
 tag @s remove aj.behemoth_aj.animation.4_breath.playing
 tag @s remove aj.behemoth_aj.animation.4_breath_continue.playing
 tag @s remove aj.behemoth_aj.animation.5_flatten.playing
+tag @s remove aj.behemoth_aj.animation.5_flatten_dual.playing
 tag @s remove aj.behemoth_aj.animation.6_0_flymove_start.playing
 tag @s remove aj.behemoth_aj.animation.6_1_flymove_end.playing
 tag @s remove aj.behemoth_aj.animation.7_dive.playing
@@ -17,4 +18,5 @@ tag @s remove aj.behemoth_aj.animation.9_death.playing
 tag @s remove aj.behemoth_aj.animation.10_0_blazing_start.playing
 tag @s remove aj.behemoth_aj.animation.10_1_blazing_cast.playing
 tag @s remove aj.behemoth_aj.animation.10_2_blazing_end.playing
+tag @s remove aj.behemoth_aj.animation.10_2_blazing_end_bak.playing
 tag @s remove aj.behemoth_aj.animation.11_offering.playing

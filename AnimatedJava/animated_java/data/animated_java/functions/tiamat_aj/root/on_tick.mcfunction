@@ -22,6 +22,7 @@ execute if entity @s[tag=aj.tiamat_aj.animation.9_roar.playing] run function ani
 execute if entity @s[tag=aj.tiamat_aj.animation.10_attack.playing] run function animated_java:tiamat_aj/animations/10_attack/zzz/on_tick
 execute if entity @s[tag=aj.tiamat_aj.animation.11_death.playing] run function animated_java:tiamat_aj/animations/11_death/zzz/on_tick
 execute if entity @s[tag=aj.tiamat_aj.animation.12_offering.playing] run function animated_java:tiamat_aj/animations/12_offering/zzz/on_tick
+execute if entity @s[tag=aj.tiamat_aj.animation.13_offering_end.playing] run function animated_java:tiamat_aj/animations/13_offering_end/zzz/on_tick
 execute on passengers if entity @s[tag=aj.tiamat_aj.data] run function animated_java:tiamat_aj/root/zzz/1
 execute at @s on passengers run tp @s ~ ~ ~ ~ ~
 function #animated_java:tiamat_aj/as_root/post_tick

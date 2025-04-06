@@ -20,3 +20,4 @@ tag @s remove aj.tiamat_aj.animation.9_roar.playing
 tag @s remove aj.tiamat_aj.animation.10_attack.playing
 tag @s remove aj.tiamat_aj.animation.11_death.playing
 tag @s remove aj.tiamat_aj.animation.12_offering.playing
+tag @s remove aj.tiamat_aj.animation.13_offering_end.playing
