@@ -20,4 +20,5 @@ tag @s remove aj.lawless_iron_doll.animation.death.playing
 tag @s remove aj.lawless_iron_doll.animation.jump.playing
 tag @s remove aj.lawless_iron_doll.animation.walk.playing
 tag @s remove aj.lawless_iron_doll.animation.run.playing
-tag @s remove aj.lawless_iron_doll.animation.run4.playing
+tag @s remove aj.lawless_iron_doll.animation.run2.playing
+tag @s remove aj.lawless_iron_doll.animation.run2_stop.playing

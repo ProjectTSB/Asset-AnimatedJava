@@ -22,6 +22,7 @@ execute if entity @s[tag=aj.lawless_iron_doll.animation.death.playing] run funct
 execute if entity @s[tag=aj.lawless_iron_doll.animation.jump.playing] run function animated_java:lawless_iron_doll/animations/jump/zzz/on_tick
 execute if entity @s[tag=aj.lawless_iron_doll.animation.walk.playing] run function animated_java:lawless_iron_doll/animations/walk/zzz/on_tick
 execute if entity @s[tag=aj.lawless_iron_doll.animation.run.playing] run function animated_java:lawless_iron_doll/animations/run/zzz/on_tick
-execute if entity @s[tag=aj.lawless_iron_doll.animation.run4.playing] run function animated_java:lawless_iron_doll/animations/run4/zzz/on_tick
+execute if entity @s[tag=aj.lawless_iron_doll.animation.run2.playing] run function animated_java:lawless_iron_doll/animations/run2/zzz/on_tick
+execute if entity @s[tag=aj.lawless_iron_doll.animation.run2_stop.playing] run function animated_java:lawless_iron_doll/animations/run2_stop/zzz/on_tick
 execute at @s on passengers run tp @s ~ ~ ~ ~ ~
 function #animated_java:lawless_iron_doll/as_root/post_tick
