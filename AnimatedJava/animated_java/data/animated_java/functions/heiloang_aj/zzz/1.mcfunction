@@ -61,18 +61,18 @@ execute on vehicle on passengers if entity @s[tag=aj.heiloang_aj.node.wing_left_
 data modify entity @s data.bones.bone_wing_left_1 set from storage aj:uuid main.out
 execute on vehicle on passengers if entity @s[tag=aj.heiloang_aj.node.wing_left_0] run function animated_java:global/internal/gu/convert_uuid_array_to_string with entity @s
 data modify entity @s data.bones.bone_wing_left_0 set from storage aj:uuid main.out
-execute on vehicle on passengers if entity @s[tag=aj.heiloang_aj.node.kazari_right_a2] run function animated_java:global/internal/gu/convert_uuid_array_to_string with entity @s
-data modify entity @s data.bones.bone_kazari_right_a2 set from storage aj:uuid main.out
-execute on vehicle on passengers if entity @s[tag=aj.heiloang_aj.node.kazari_right_b2] run function animated_java:global/internal/gu/convert_uuid_array_to_string with entity @s
-data modify entity @s data.bones.bone_kazari_right_b2 set from storage aj:uuid main.out
-execute on vehicle on passengers if entity @s[tag=aj.heiloang_aj.node.kazari_right_c2] run function animated_java:global/internal/gu/convert_uuid_array_to_string with entity @s
-data modify entity @s data.bones.bone_kazari_right_c2 set from storage aj:uuid main.out
-execute on vehicle on passengers if entity @s[tag=aj.heiloang_aj.node.kazari_left_a2] run function animated_java:global/internal/gu/convert_uuid_array_to_string with entity @s
-data modify entity @s data.bones.bone_kazari_left_a2 set from storage aj:uuid main.out
-execute on vehicle on passengers if entity @s[tag=aj.heiloang_aj.node.kazari_left_b2] run function animated_java:global/internal/gu/convert_uuid_array_to_string with entity @s
-data modify entity @s data.bones.bone_kazari_left_b2 set from storage aj:uuid main.out
-execute on vehicle on passengers if entity @s[tag=aj.heiloang_aj.node.kazari_left_c2] run function animated_java:global/internal/gu/convert_uuid_array_to_string with entity @s
-data modify entity @s data.bones.bone_kazari_left_c2 set from storage aj:uuid main.out
+execute on vehicle on passengers if entity @s[tag=aj.heiloang_aj.node.kazari_right_a] run function animated_java:global/internal/gu/convert_uuid_array_to_string with entity @s
+data modify entity @s data.bones.bone_kazari_right_a set from storage aj:uuid main.out
+execute on vehicle on passengers if entity @s[tag=aj.heiloang_aj.node.kazari_right_b] run function animated_java:global/internal/gu/convert_uuid_array_to_string with entity @s
+data modify entity @s data.bones.bone_kazari_right_b set from storage aj:uuid main.out
+execute on vehicle on passengers if entity @s[tag=aj.heiloang_aj.node.kazari_right_c] run function animated_java:global/internal/gu/convert_uuid_array_to_string with entity @s
+data modify entity @s data.bones.bone_kazari_right_c set from storage aj:uuid main.out
+execute on vehicle on passengers if entity @s[tag=aj.heiloang_aj.node.kazari_left_a] run function animated_java:global/internal/gu/convert_uuid_array_to_string with entity @s
+data modify entity @s data.bones.bone_kazari_left_a set from storage aj:uuid main.out
+execute on vehicle on passengers if entity @s[tag=aj.heiloang_aj.node.kazari_left_b] run function animated_java:global/internal/gu/convert_uuid_array_to_string with entity @s
+data modify entity @s data.bones.bone_kazari_left_b set from storage aj:uuid main.out
+execute on vehicle on passengers if entity @s[tag=aj.heiloang_aj.node.kazari_left_c] run function animated_java:global/internal/gu/convert_uuid_array_to_string with entity @s
+data modify entity @s data.bones.bone_kazari_left_c set from storage aj:uuid main.out
 execute on vehicle on passengers if entity @s[tag=aj.heiloang_aj.node.ring] run function animated_java:global/internal/gu/convert_uuid_array_to_string with entity @s
 data modify entity @s data.bones.bone_ring set from storage aj:uuid main.out
 execute on vehicle on passengers if entity @s[tag=aj.heiloang_aj.node.body_0] run function animated_java:global/internal/gu/convert_uuid_array_to_string with entity @s

@@ -31,8 +31,6 @@ tag @s remove aj.heiloang_aj.animation.13_summon.playing
 tag @s remove aj.heiloang_aj.animation.14_awaken.playing
 tag @s remove aj.heiloang_aj.animation.15_death.playing
 tag @s remove aj.heiloang_aj.animation.16_final_flare.playing
-tag @s remove aj.heiloang_aj.animation.16_final_flare2.playing
 tag @s remove aj.heiloang_aj.animation.16_final_start.playing
-tag @s remove aj.heiloang_aj.animation.16_final_start2.playing
 tag @s remove aj.heiloang_aj.animation.99_disaster_cast.playing
 tag @s remove aj.heiloang_aj.animation.99_disaster.playing
