@@ -33,3 +33,6 @@ $execute on passengers if entity @s[tag=aj.haruclaire_aj.node.hato_wing_right] r
 $execute on passengers if entity @s[tag=aj.haruclaire_aj.node.hato_wing_left] run data modify entity @s {} merge from storage aj.haruclaire_aj:animations 30_0_move_left.$(frame).10
 $execute on passengers if entity @s[tag=aj.haruclaire_aj.node.hato_body] run data modify entity @s {} merge from storage aj.haruclaire_aj:animations 30_0_move_left.$(frame).w
 $execute on passengers if entity @s[tag=aj.haruclaire_aj.node.block_display] run data modify entity @s {} merge from storage aj.haruclaire_aj:animations 30_0_move_left.$(frame).b_11
+$execute if data storage aj.haruclaire_aj:animations 30_0_move_left.$(frame).variant unless entity @s[tag=aj.transforms_only] run data modify storage aj:temp variant set from storage aj.haruclaire_aj:animations 30_0_move_left.$(frame).variant
+$execute if data storage aj.haruclaire_aj:animations 30_0_move_left.$(frame).variant unless entity @s[tag=aj.transforms_only] run function animated_java:haruclaire_aj/animations/30_0_move_left/zzz/apply_variant with storage aj:temp variant
+$execute if data storage aj.haruclaire_aj:animations 30_0_move_left.$(frame).variant unless entity @s[tag=aj.transforms_only] run data remove storage aj:temp variant
