@@ -63,13 +63,5 @@ execute on vehicle on passengers if entity @s[tag=aj.twins_sapphiel.node.skirt_r
 data modify entity @s data.bones.bone_skirt_right set from storage aj:uuid main.out
 execute on vehicle on passengers if entity @s[tag=aj.twins_sapphiel.node.skirt_left] run function animated_java:global/internal/gu/convert_uuid_array_to_string with entity @s
 data modify entity @s data.bones.bone_skirt_left set from storage aj:uuid main.out
-execute on vehicle on passengers if entity @s[tag=aj.twins_sapphiel.node.belt_right_1] run function animated_java:global/internal/gu/convert_uuid_array_to_string with entity @s
-data modify entity @s data.bones.bone_belt_right_1 set from storage aj:uuid main.out
-execute on vehicle on passengers if entity @s[tag=aj.twins_sapphiel.node.belt_right_0] run function animated_java:global/internal/gu/convert_uuid_array_to_string with entity @s
-data modify entity @s data.bones.bone_belt_right_0 set from storage aj:uuid main.out
-execute on vehicle on passengers if entity @s[tag=aj.twins_sapphiel.node.belt_left_1] run function animated_java:global/internal/gu/convert_uuid_array_to_string with entity @s
-data modify entity @s data.bones.bone_belt_left_1 set from storage aj:uuid main.out
-execute on vehicle on passengers if entity @s[tag=aj.twins_sapphiel.node.belt_left_0] run function animated_java:global/internal/gu/convert_uuid_array_to_string with entity @s
-data modify entity @s data.bones.bone_belt_left_0 set from storage aj:uuid main.out
 execute on vehicle on passengers if entity @s[tag=aj.twins_sapphiel.node.body_1] run function animated_java:global/internal/gu/convert_uuid_array_to_string with entity @s
 data modify entity @s data.bones.bone_body_1 set from storage aj:uuid main.out
