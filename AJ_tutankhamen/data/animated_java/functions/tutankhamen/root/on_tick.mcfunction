@@ -2,13 +2,9 @@
 execute unless entity @s[tag=aj.tutankhamen.root] run return 0
 execute unless score @s aj.is_rig_loaded matches 1 run function #animated_java:global/root/on_load
 function #animated_java:tutankhamen/as_root/pre_tick
-execute if entity @s[tag=aj.tutankhamen.animation.beam_start.playing] run function animated_java:tutankhamen/animations/beam_start/zzz/on_tick
-execute if entity @s[tag=aj.tutankhamen.animation.beam_shot.playing] run function animated_java:tutankhamen/animations/beam_shot/zzz/on_tick
 execute if entity @s[tag=aj.tutankhamen.animation.neutral.playing] run function animated_java:tutankhamen/animations/neutral/zzz/on_tick
 execute if entity @s[tag=aj.tutankhamen.animation.dash.playing] run function animated_java:tutankhamen/animations/dash/zzz/on_tick
 execute if entity @s[tag=aj.tutankhamen.animation.dash_end.playing] run function animated_java:tutankhamen/animations/dash_end/zzz/on_tick
-execute if entity @s[tag=aj.tutankhamen.animation.attack_magic_1.playing] run function animated_java:tutankhamen/animations/attack_magic_1/zzz/on_tick
-execute if entity @s[tag=aj.tutankhamen.animation.attack_magic_2.playing] run function animated_java:tutankhamen/animations/attack_magic_2/zzz/on_tick
 execute if entity @s[tag=aj.tutankhamen.animation.spawn.playing] run function animated_java:tutankhamen/animations/spawn/zzz/on_tick
 execute if entity @s[tag=aj.tutankhamen.animation.soul_shot.playing] run function animated_java:tutankhamen/animations/soul_shot/zzz/on_tick
 execute if entity @s[tag=aj.tutankhamen.animation.beam_long_shot.playing] run function animated_java:tutankhamen/animations/beam_long_shot/zzz/on_tick
@@ -23,7 +19,6 @@ execute if entity @s[tag=aj.tutankhamen.animation.attack_dash_2.playing] run fun
 execute if entity @s[tag=aj.tutankhamen.animation.attack_laser_windup.playing] run function animated_java:tutankhamen/animations/attack_laser_windup/zzz/on_tick
 execute if entity @s[tag=aj.tutankhamen.animation.attack_laser_loop.playing] run function animated_java:tutankhamen/animations/attack_laser_loop/zzz/on_tick
 execute if entity @s[tag=aj.tutankhamen.animation.attack_laser_end.playing] run function animated_java:tutankhamen/animations/attack_laser_end/zzz/on_tick
-execute if entity @s[tag=aj.tutankhamen.animation.death_tokumei.playing] run function animated_java:tutankhamen/animations/death_tokumei/zzz/on_tick
 execute if entity @s[tag=aj.tutankhamen.animation.death.playing] run function animated_java:tutankhamen/animations/death/zzz/on_tick
 execute if entity @s[tag=aj.tutankhamen.animation.damage.playing] run function animated_java:tutankhamen/animations/damage/zzz/on_tick
 execute if entity @s[tag=aj.tutankhamen.animation.attack_laser_2_windup.playing] run function animated_java:tutankhamen/animations/attack_laser_2_windup/zzz/on_tick
