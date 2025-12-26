@@ -11,6 +11,8 @@ tag @s remove aj.tiamat_aj.animation.3_3_casting_land.playing
 tag @s remove aj.tiamat_aj.animation.3_4_cast_fly2land_start.playing
 tag @s remove aj.tiamat_aj.animation.3_5_cast_start_dive.playing
 tag @s remove aj.tiamat_aj.animation.3_6_casting_dive.playing
+tag @s remove aj.tiamat_aj.animation.3_7_cast_start_breath.playing
+tag @s remove aj.tiamat_aj.animation.3_8_casting_breath.playing
 tag @s remove aj.tiamat_aj.animation.4_breath.playing
 tag @s remove aj.tiamat_aj.animation.5_deathwing.playing
 tag @s remove aj.tiamat_aj.animation.5_tailend.playing
