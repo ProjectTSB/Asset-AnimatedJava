@@ -3,6 +3,22 @@
         {
             "id": "animated_java:gargo_ex_machina/on_load",
             "required": false
+        },
+        {
+            "id": "animated_java:gem_attack_drone/on_load",
+            "required": false
+        },
+        {
+            "id": "animated_java:gem_panjan_drone/on_load",
+            "required": false
+        },
+        {
+            "id": "animated_java:gem_tnt_drone/on_load",
+            "required": false
+        },
+        {
+            "id": "animated_java:sheep_avenger/on_load",
+            "required": false
         }
     ]
 }
