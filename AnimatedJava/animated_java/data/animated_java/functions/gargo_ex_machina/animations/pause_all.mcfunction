@@ -4,14 +4,22 @@ tag @s remove aj.gargo_ex_machina.animation.pose.playing
 tag @s remove aj.gargo_ex_machina.animation.activation.playing
 tag @s remove aj.gargo_ex_machina.animation.move_to_field_slow.playing
 tag @s remove aj.gargo_ex_machina.animation.move_to_field_fast.playing
+tag @s remove aj.gargo_ex_machina.animation.move_to_field_short.playing
+tag @s remove aj.gargo_ex_machina.animation.change_head_start.playing
+tag @s remove aj.gargo_ex_machina.animation.change_head.playing
+tag @s remove aj.gargo_ex_machina.animation.death.playing
 tag @s remove aj.gargo_ex_machina.animation.idle.playing
 tag @s remove aj.gargo_ex_machina.animation.idle_shot.playing
+tag @s remove aj.gargo_ex_machina.animation.walk_start.playing
 tag @s remove aj.gargo_ex_machina.animation.walk.playing
+tag @s remove aj.gargo_ex_machina.animation.walk_end.playing
+tag @s remove aj.gargo_ex_machina.animation.walk_bak.playing
 tag @s remove aj.gargo_ex_machina.animation.change_to_shot.playing
 tag @s remove aj.gargo_ex_machina.animation.change_to_sword.playing
 tag @s remove aj.gargo_ex_machina.animation.sword_smash_start.playing
 tag @s remove aj.gargo_ex_machina.animation.sword_smash_charge.playing
 tag @s remove aj.gargo_ex_machina.animation.sword_smash_attack.playing
+tag @s remove aj.gargo_ex_machina.animation.sword_smash_attack_double.playing
 tag @s remove aj.gargo_ex_machina.animation.beam_start.playing
 tag @s remove aj.gargo_ex_machina.animation.beam_charge.playing
 tag @s remove aj.gargo_ex_machina.animation.beam_attack_right.playing
@@ -32,3 +40,4 @@ tag @s remove aj.gargo_ex_machina.animation.shot_target_spin.playing
 tag @s remove aj.gargo_ex_machina.animation.shot_upper.playing
 tag @s remove aj.gargo_ex_machina.animation.summon_punch.playing
 tag @s remove aj.gargo_ex_machina.animation.call_drone.playing
+tag @s remove aj.gargo_ex_machina.animation.call_drone_first.playing

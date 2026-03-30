@@ -2,6 +2,10 @@
 execute unless entity @s[tag=aj.gem_panjan_drone.root] run return 0
 execute unless score @s aj.is_rig_loaded matches 1 run function #animated_java:global/root/on_load
 function #animated_java:gem_panjan_drone/as_root/pre_tick
+execute if entity @s[tag=aj.gem_panjan_drone.animation.summon.playing] run function animated_java:gem_panjan_drone/animations/summon/zzz/on_tick
 execute if entity @s[tag=aj.gem_panjan_drone.animation.idle.playing] run function animated_java:gem_panjan_drone/animations/idle/zzz/on_tick
+execute if entity @s[tag=aj.gem_panjan_drone.animation.move_start.playing] run function animated_java:gem_panjan_drone/animations/move_start/zzz/on_tick
+execute if entity @s[tag=aj.gem_panjan_drone.animation.move.playing] run function animated_java:gem_panjan_drone/animations/move/zzz/on_tick
+execute if entity @s[tag=aj.gem_panjan_drone.animation.attack.playing] run function animated_java:gem_panjan_drone/animations/attack/zzz/on_tick
 execute at @s on passengers run tp @s ~ ~ ~ ~ ~
 function #animated_java:gem_panjan_drone/as_root/post_tick

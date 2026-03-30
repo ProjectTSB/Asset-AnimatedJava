@@ -3,13 +3,15 @@ function animated_java:global/internal/gu/convert_uuid_array_to_string with enti
 data modify entity @s data.bones.data_data set from storage aj:uuid main.out
 execute on vehicle on passengers if entity @s[tag=aj.gem_attack_drone.node.head] run function animated_java:global/internal/gu/convert_uuid_array_to_string with entity @s
 data modify entity @s data.bones.bone_head set from storage aj:uuid main.out
-execute on vehicle on passengers if entity @s[tag=aj.gem_attack_drone.node.weapon] run function animated_java:global/internal/gu/convert_uuid_array_to_string with entity @s
-data modify entity @s data.bones.bone_weapon set from storage aj:uuid main.out
+execute on vehicle on passengers if entity @s[tag=aj.gem_attack_drone.node.weapon_model] run function animated_java:global/internal/gu/convert_uuid_array_to_string with entity @s
+data modify entity @s data.bones.bone_weapon_model set from storage aj:uuid main.out
 execute on vehicle on passengers if entity @s[tag=aj.gem_attack_drone.node.arm_right] run function animated_java:global/internal/gu/convert_uuid_array_to_string with entity @s
 data modify entity @s data.bones.bone_arm_right set from storage aj:uuid main.out
 execute on vehicle on passengers if entity @s[tag=aj.gem_attack_drone.node.arm_left] run function animated_java:global/internal/gu/convert_uuid_array_to_string with entity @s
 data modify entity @s data.bones.bone_arm_left set from storage aj:uuid main.out
+execute on vehicle on passengers if entity @s[tag=aj.gem_attack_drone.node.body_1] run function animated_java:global/internal/gu/convert_uuid_array_to_string with entity @s
+data modify entity @s data.bones.bone_body_1 set from storage aj:uuid main.out
 execute on vehicle on passengers if entity @s[tag=aj.gem_attack_drone.node.leg] run function animated_java:global/internal/gu/convert_uuid_array_to_string with entity @s
 data modify entity @s data.bones.bone_leg set from storage aj:uuid main.out
-execute on vehicle on passengers if entity @s[tag=aj.gem_attack_drone.node.body] run function animated_java:global/internal/gu/convert_uuid_array_to_string with entity @s
-data modify entity @s data.bones.bone_body set from storage aj:uuid main.out
+execute on vehicle on passengers if entity @s[tag=aj.gem_attack_drone.node.body_0] run function animated_java:global/internal/gu/convert_uuid_array_to_string with entity @s
+data modify entity @s data.bones.bone_body_0 set from storage aj:uuid main.out
